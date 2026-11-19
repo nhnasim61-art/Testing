@@ -1,0 +1,43 @@
+// Sample community posts (original placeholder copy).
+const raw = [
+  ['AAPL', 'Apple coils under resistance: breakout or one more pullback?', 'Price has tested the same ceiling three times this month. Volume is drying up, which usually comes before a bigger move in either direction.', 0, 'up'],
+  ['NVDA', 'Chip leaders cool off after a parabolic run', 'Momentum is fading on the daily chart and RSI shows a lower high. I am watching the 50-day average as the first real support.', 1, 'down'],
+  ['EURUSD', 'EUR/USD slips out of its summer range', 'The pair finally closed below the range floor. A retest from below would confirm the breakdown and open room toward the next shelf.', 1, 'down'],
+  ['GC1!', 'Gold pauses at a big round number', 'After a sharp rally gold is moving sideways. I would like to see a clean higher low before adding to longs.', 0, 'up'],
+  ['BTCUSD', 'Bitcoin weekly: the trend line still holds', 'Zooming out helps. The rising trend line from last year is intact, and every dip into it has been bought so far.', 1, 'up'],
+  ['TSLA', 'Tesla forms a textbook descending triangle', 'Lower highs against flat support. These patterns often resolve lower, but a strong close above the upper line would flip the picture.', 0, 'down'],
+  ['NVDA', 'NVDA: ascending triangle points to continuation', 'Hello traders, here is my updated view on the weekly timeframe. The structure keeps building higher lows into a flat top.', 0, 'up'],
+  ['META', 'Meta holding its consolidation zone', 'Price has been trading in a clean range. Buyers keep stepping in at the lower edge, so I am treating it as support until proven otherwise.', 0, 'up'],
+  ['AMD', 'AMD gap fill complete — what next?', 'The gap from last month is now closed. The next level to watch is the prior breakout area just below current price.', 1, 'down'],
+  ['MSFT', 'Microsoft: steady uptrend with shallow pullbacks', 'Each pullback has been smaller than the last one. That is the kind of quiet strength I like to see in a leader.', 0, 'up'],
+  ['AMZN', 'Amazon tests the 200-day average', 'The long-term average has acted as a floor twice this year. A third successful test would be a constructive sign.', 0, 'up'],
+  ['GOOGL', 'Alphabet: momentum divergence on the 4H chart', 'Price made a new high but momentum did not follow. Not a sell signal by itself, but a reason to tighten stops.', 1, 'down'],
+  ['BTCUSD', 'BTCUSD: sellers defend the upper boundary', 'Here is my breakdown of the current setup. The upper edge of the channel keeps rejecting price on every approach.', 0, 'down'],
+  ['BTCUSD', 'Bitcoin daily: liquidity sweep then reversal?', 'Price swept the lows and snapped back quickly. If the reclaim holds, this could be the start of a relief move.', 0, 'up'],
+  ['XRPUSD', 'XRP: falling wedge nearing its apex', 'Welcome to my new analysis from a weekly perspective. Wedges like this tend to break with force once the range gets tight.', 0, 'up'],
+  ['ETHUSD', 'Ethereum ratio keeps grinding lower', 'Against Bitcoin, Ether is still in a downtrend. I want to see the ratio stabilise before calling a bottom.', 1, 'down'],
+  ['SOLUSD', 'Solana: higher low on the daily', 'The latest dip stopped well above the previous one. Holding this level keeps the bullish structure alive.', 1, 'up'],
+  ['BTCUSD', 'Bitcoin bull flag after the FOMC minutes', 'A tight flag is forming after a strong impulse. A break of the upper line would target the previous swing high.', 0, 'up'],
+  ['GC1!', 'Gold still heavy: levels to watch for shorts', 'My 15-minute chart shows a clear series of lower highs. Below, there is a pocket of support where I expect buyers to show up.', 0, 'down'],
+  ['XAUUSD', 'XAUUSD: bearish trend line rejection', 'Price is respecting the falling trend line under strong selling pressure on the hourly chart. I am waiting for a lower high to confirm.', 0, 'down'],
+  ['XAUUSD', 'Gold 4H: market structure shift', 'The four-hour structure has turned. A break of the last higher low suggests the correction may not be finished yet.', 0, 'down'],
+  ['CL1!', 'Crude oil squeezes into resistance', 'Oil is pushing into a zone that capped price twice before. A clean break could trigger a quick run higher.', 1, 'up'],
+  ['NG1!', 'Natural gas: seasonal strength kicks in', 'Historically this is the stronger part of the year for gas. The chart agrees, with a base forming above support.', 0, 'up'],
+  ['SI1!', 'Silver: are you buying the dip here?', 'Silver had a remarkable run. This first real pullback is a test of conviction for the trend followers.', 1, 'up'],
+  ['GBPUSD', 'GBPUSD: bearish momentum on the 1H', 'The pound keeps failing at the same resistance band. Until that changes, rallies look like selling opportunities.', 1, 'down'],
+  ['EURUSD', 'EURUSD update — clean and clear', 'The structure keeps printing lower highs and lower lows. I will stay with the trend until it breaks.', 1, 'down'],
+  ['EURUSD', 'EURUSD short: one failed recovery at a time', 'Hello traders, here is my technical outlook based on the 3H chart. Each bounce has been weaker than the last.', 0, 'down'],
+  ['USDJPY', 'USDJPY buyers defend a key level', 'The pair bounced right off a level that has mattered all year. Bulls stay in control while it holds.', 0, 'up'],
+  ['DXY', 'Dollar index: is this the high of the year?', 'Just a simple rising channel with price now at the top edge, which lines up with the seasonal tendency.', 1, 'down'],
+  ['GBPUSD', 'Cable at a decision point', 'Two scenarios are on the table. A daily close above the range keeps buyers happy; below it the door opens to the lows.', 0, 'down'],
+];
+export const IDEAS = raw.map(([s, t, d, dark, dir]) => ({ s, t, d, dark: !!dark, dir }));
+
+export const SCRIPTS = [
+  ['AAPL', 'Dual-Timeframe Momentum Oscillator', 'An oscillator that blends a fast and a slow timeframe so you can spot momentum shifts early, with optional alerts.', 1],
+  ['BTCUSD', 'Volume Shape Profiles (D / B / P)', 'Volume profiles come in a few classic shapes. This script labels them automatically and marks the value area.', 1],
+  ['SPX', 'Higher Timeframe Opening Levels', 'Plots the opening price of higher timeframes on any chart, with the developing range and its midpoint.', 1],
+  ['ETHUSD', 'Adaptive Trend Filter', 'A smoothing filter that adjusts its speed to volatility, so it reacts quickly in trends and stays calm in ranges.', 1],
+  ['NDQ', 'Rolling Candle Profile', 'Builds a profile from the last N candles and highlights where buying and selling pressure concentrated.', 1],
+  ['GC1!', 'Market Matrix Heat Map', 'A compact heat map of trend, momentum and volatility for several timeframes at once.', 1],
+].map(([s, t, d, dark]) => ({ s, t, d, dark: !!dark }));

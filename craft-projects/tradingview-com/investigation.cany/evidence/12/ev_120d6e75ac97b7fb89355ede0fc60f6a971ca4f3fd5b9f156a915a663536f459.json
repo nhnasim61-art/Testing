@@ -1,0 +1,60 @@
+{
+  "id": "ev_120d6e75ac97b7fb89355ede0fc60f6a971ca4f3fd5b9f156a915a663536f459",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:45025/"
+  },
+  "operation": "web_site_open",
+  "params": {
+    "height": 900,
+    "url": "http://127.0.0.1:45025/",
+    "width": 1440
+  },
+  "result": {
+    "browser": "Chrome/153.0.8010.12",
+    "dialogs": [],
+    "facts": {
+      "forms": 0,
+      "height": 14932,
+      "images": 134,
+      "lang": "en",
+      "links": 312,
+      "ready": "complete",
+      "title": "Tickerra — Track every market",
+      "url": "http://127.0.0.1:45025/",
+      "width": 1425
+    },
+    "health": null,
+    "signed_in": false,
+    "signed_in_site": null,
+    "title": "Tickerra — Track every market",
+    "url": "http://127.0.0.1:45025/"
+  },
+  "summary": "Opened http://127.0.0.1:45025/: \"Tickerra — Track every market\".",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": true,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "linux-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "private_profile",
+      "message": "A fresh private browser: pages behind a login show their signed-out state."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 1,
+    "total": 1
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:45025/"
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,46 @@
+{
+  "states": [
+    {
+      "changed": [
+        "expanded",
+        "dialog appeared"
+      ],
+      "file": "state-1.png",
+      "index": 0,
+      "kind": "menu",
+      "label": "Open menu",
+      "sha256": "96e2607690209eea67a76978e57918072e4b6619fccfde2ab67e85271ddb3173"
+    },
+    {
+      "changed": [
+        "tab selected"
+      ],
+      "file": "state-2.png",
+      "index": 1,
+      "kind": "tab",
+      "label": "Popular",
+      "sha256": "96e2607690209eea67a76978e57918072e4b6619fccfde2ab67e85271ddb3173"
+    },
+    {
+      "changed": [
+        "tab selected"
+      ],
+      "file": "state-3.png",
+      "index": 2,
+      "kind": "tab",
+      "label": "Popular",
+      "sha256": "96e2607690209eea67a76978e57918072e4b6619fccfde2ab67e85271ddb3173"
+    },
+    {
+      "changed": [
+        "tab selected",
+        "address changed"
+      ],
+      "index": 3,
+      "kind": "tab",
+      "label": "Pre-market"
+    }
+  ],
+  "url": "https://www.tradingview.com/",
+  "width": 390
+}

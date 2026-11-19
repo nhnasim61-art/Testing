@@ -1,0 +1,22 @@
+[
+  {
+    "path": "/chart/",
+    "slug": "chart",
+    "url": "https://www.tradingview.com/chart/"
+  },
+  {
+    "path": "/ideas/",
+    "slug": "ideas",
+    "url": "https://www.tradingview.com/ideas/"
+  },
+  {
+    "path": "/markets/",
+    "slug": "markets",
+    "url": "https://www.tradingview.com/markets/"
+  },
+  {
+    "path": "/brokers/",
+    "slug": "brokers",
+    "url": "https://www.tradingview.com/brokers/"
+  }
+]

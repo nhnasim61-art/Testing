@@ -1,0 +1,455 @@
+{
+  "id": "ev_477de96971d26450e5374f04cf42ff73fe5d146d45718539e657a5cf1886ad91",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:35425/markets/"
+  },
+  "operation": "web_site_capture",
+  "params": {
+    "include_html": false,
+    "max_height": 12000,
+    "noise_pass": false,
+    "visitor_view": true,
+    "widths": [
+      1440,
+      768,
+      390
+    ]
+  },
+  "result": {
+    "counts": {
+      "forms": 0,
+      "headings": 22,
+      "images": 0,
+      "links": 232,
+      "outline": 440
+    },
+    "design": {
+      "backgrounds": [
+        {
+          "count": 100,
+          "value": "#f2f2f2"
+        },
+        {
+          "count": 28,
+          "value": "#707070"
+        },
+        {
+          "count": 17,
+          "value": "#111111"
+        },
+        {
+          "count": 12,
+          "value": "#06806b"
+        },
+        {
+          "count": 12,
+          "value": "#cc2f3c"
+        },
+        {
+          "count": 11,
+          "value": "#ffffff"
+        },
+        {
+          "count": 4,
+          "value": "#c4122f"
+        },
+        {
+          "count": 3,
+          "value": "#1a1a1a"
+        },
+        {
+          "count": 3,
+          "value": "#ff9900"
+        },
+        {
+          "count": 3,
+          "value": "#222222"
+        },
+        {
+          "count": 2,
+          "value": "#f0efea"
+        },
+        {
+          "count": 2,
+          "value": "#fff1ec"
+        },
+        {
+          "count": 2,
+          "value": "#e8f0ff"
+        },
+        {
+          "count": 2,
+          "value": "#e1251b"
+        },
+        {
+          "count": 2,
+          "value": "#d6a017"
+        },
+        {
+          "count": 2,
+          "value": "#9aa0a8"
+        }
+      ],
+      "font_sizes": [
+        {
+          "count": 423,
+          "value": "16px"
+        },
+        {
+          "count": 129,
+          "value": "11px"
+        },
+        {
+          "count": 116,
+          "value": "14px"
+        },
+        {
+          "count": 111,
+          "value": "12px"
+        },
+        {
+          "count": 21,
+          "value": "18px"
+        },
+        {
+          "count": 14,
+          "value": "28px"
+        },
+        {
+          "count": 8,
+          "value": "10px"
+        },
+        {
+          "count": 7,
+          "value": "36px"
+        },
+        {
+          "count": 6,
+          "value": "13px"
+        },
+        {
+          "count": 1,
+          "value": "25px"
+        },
+        {
+          "count": 1,
+          "value": "56px"
+        },
+        {
+          "count": 1,
+          "value": "20px"
+        },
+        {
+          "count": 1,
+          "value": "95.04px"
+        }
+      ],
+      "font_weights": [
+        {
+          "count": 493,
+          "value": "500"
+        },
+        {
+          "count": 140,
+          "value": "400"
+        },
+        {
+          "count": 114,
+          "value": "700"
+        },
+        {
+          "count": 92,
+          "value": "600"
+        }
+      ],
+      "fonts": [
+        {
+          "count": 835,
+          "value": "-apple-system, BlinkMacSystemFont, \"Trebuchet MS\", Roboto, Ubuntu, sans-serif"
+        },
+        {
+          "count": 4,
+          "value": "\"Plus Jakarta Sans\", sans-serif"
+        }
+      ],
+      "max_widths": [
+        {
+          "count": 1,
+          "value": "1425px"
+        }
+      ],
+      "radii": [
+        {
+          "count": 106,
+          "value": "50%"
+        },
+        {
+          "count": 106,
+          "value": "6px"
+        },
+        {
+          "count": 28,
+          "value": "32px"
+        },
+        {
+          "count": 28,
+          "value": "2px"
+        },
+        {
+          "count": 26,
+          "value": "8px"
+        },
+        {
+          "count": 10,
+          "value": "16px"
+        },
+        {
+          "count": 7,
+          "value": "3px"
+        },
+        {
+          "count": 1,
+          "value": "20px"
+        },
+        {
+          "count": 1,
+          "value": "8px 0px 0px 8px"
+        }
+      ],
+      "shadows": [],
+      "spacing": [
+        {
+          "count": 257,
+          "value": "8px"
+        },
+        {
+          "count": 205,
+          "value": "12px"
+        },
+        {
+          "count": 198,
+          "value": "6px"
+        },
+        {
+          "count": 119,
+          "value": "16px"
+        },
+        {
+          "count": 42,
+          "value": "4px"
+        },
+        {
+          "count": 31,
+          "value": "24px"
+        },
+        {
+          "count": 28,
+          "value": "2px"
+        },
+        {
+          "count": 26,
+          "value": "40px"
+        },
+        {
+          "count": 21,
+          "value": "25px"
+        },
+        {
+          "count": 20,
+          "value": "3px"
+        },
+        {
+          "count": 18,
+          "value": "32px"
+        },
+        {
+          "count": 14,
+          "value": "80px"
+        },
+        {
+          "count": 12,
+          "value": "50px"
+        },
+        {
+          "count": 10,
+          "value": "31px"
+        },
+        {
+          "count": 7,
+          "value": "120px"
+        },
+        {
+          "count": 6,
+          "value": "10px"
+        },
+        {
+          "count": 4,
+          "value": "32.5px"
+        },
+        {
+          "count": 2,
+          "value": "30px"
+        },
+        {
+          "count": 2,
+          "value": "20px"
+        },
+        {
+          "count": 1,
+          "value": "18px"
+        },
+        {
+          "count": 1,
+          "value": "72px"
+        },
+        {
+          "count": 1,
+          "value": "64px"
+        },
+        {
+          "count": 1,
+          "value": "56px"
+        }
+      ],
+      "text_colors": [
+        {
+          "count": 566,
+          "value": "#000000"
+        },
+        {
+          "count": 83,
+          "value": "#ffffff"
+        },
+        {
+          "count": 55,
+          "value": "#cc2f3c"
+        },
+        {
+          "count": 46,
+          "value": "#707070"
+        },
+        {
+          "count": 19,
+          "value": "#06806b"
+        },
+        {
+          "count": 13,
+          "value": "#2962ff"
+        },
+        {
+          "count": 9,
+          "value": "#333333"
+        },
+        {
+          "count": 7,
+          "value": "#ff9800"
+        },
+        {
+          "count": 6,
+          "value": "#464646"
+        },
+        {
+          "count": 3,
+          "value": "#76b900"
+        },
+        {
+          "count": 3,
+          "value": "#f25022"
+        },
+        {
+          "count": 2,
+          "value": "#4285f4"
+        },
+        {
+          "count": 2,
+          "value": "#111111"
+        },
+        {
+          "count": 2,
+          "value": "#2e7d32"
+        },
+        {
+          "count": 2,
+          "value": "#222222"
+        },
+        {
+          "count": 2,
+          "value": "#e11d48"
+        }
+      ]
+    },
+    "files": [
+      "README.md",
+      "capture.json"
+    ],
+    "html_bytes": 0,
+    "output_directory": "/home/user/Testing/craft-projects/tradingview-com/checks/round-0/routes/markets",
+    "screenshots": [
+      {
+        "css_width": 1440,
+        "cut": false,
+        "file": "screenshot-1440.png",
+        "height": 10390,
+        "sha256": "f11c5bd0a920e9f7bd4edf463abd4b4f84cc3a630807b2b16639e2b336a0458c",
+        "width": 1440
+      },
+      {
+        "css_width": 768,
+        "cut": true,
+        "file": "screenshot-768.png",
+        "height": 12000,
+        "sha256": "b1ba3cae5a3fd16bf083e8e8cf93c65eaa2ea18c25a5cc4eeb28a3f0901d3402",
+        "width": 768
+      },
+      {
+        "css_width": 390,
+        "cut": false,
+        "file": "screenshot-390.png",
+        "height": 11100,
+        "sha256": "2211b855cb885f726ad7ce1262cd55c5e12a0616ec0ecc7e1ebc9014241b79ef",
+        "width": 390
+      }
+    ],
+    "sign_in_page": false,
+    "signed_in": false,
+    "signed_in_site": null,
+    "title": "Markets today — quotes, charts and events — Tickerra",
+    "url": "http://127.0.0.1:35425/markets/"
+  },
+  "summary": "Captured http://127.0.0.1:35425/markets/: 3 screenshot(s), 440 outline items, 22 headings, 0 images, 232 links, 0 forms → /home/user/Testing/craft-projects/tradingview-com/checks/round-0/routes/markets.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": true,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "linux-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "one_state",
+      "message": "One state of the page: menus, dialogs and content behind interactions are not opened."
+    },
+    {
+      "code": "visitor_view",
+      "message": "Clean room: only what a visitor sees was kept (screenshots, visible text, measured layout and styles); not the page's HTML, CSS rules, scripts, requests or errors."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 3,
+    "total": 3
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:35425/markets/"
+    },
+    {
+      "kind": "path",
+      "value": "/home/user/Testing/craft-projects/tradingview-com/checks/round-0/routes/markets"
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "unk_4918576308555569",
+  "revision": 2,
+  "question": "What do the desktop Products/Community/Markets/Brokers dropdown menus look like? states.json lists them at 1440 but no screenshots were saved (only 'address changed').",
+  "severity": "low",
+  "domain": "ui",
+  "status": "resolved",
+  "probes": [
+    "Capture the opened desktop menus into checks/"
+  ],
+  "evidence_for": [
+    "ev_0c8642634b9bd8ff18e0f17f34d47e3aa188a9a7e814900bd3ab2ae23427849d"
+  ],
+  "evidence_against": [],
+  "resolution": "The 1440 px state capture recorded only 'address changed' for Products, Community, Markets and Brokers, i.e. clicking them navigates rather than opening a dropdown. Rebuilt as plain links to /chart/, /ideas/, /markets/, /brokers/ (hover-only menus were not captured, so none were built)."
+}

@@ -1,0 +1,484 @@
+{
+  "id": "ev_020a0de46581e46aa4e38ee1352688f5a4252706d7de7ea633140f002d0ab585",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:35425/"
+  },
+  "operation": "web_site_capture",
+  "params": {
+    "include_html": false,
+    "max_height": 12000,
+    "noise_pass": false,
+    "visitor_view": true,
+    "widths": [
+      1440,
+      768,
+      390
+    ]
+  },
+  "result": {
+    "counts": {
+      "forms": 0,
+      "headings": 40,
+      "images": 0,
+      "links": 312,
+      "outline": 731
+    },
+    "design": {
+      "backgrounds": [
+        {
+          "count": 95,
+          "value": "#f2f2f2"
+        },
+        {
+          "count": 60,
+          "value": "#f7525f"
+        },
+        {
+          "count": 20,
+          "value": "#089981"
+        },
+        {
+          "count": 18,
+          "value": "#f23645"
+        },
+        {
+          "count": 15,
+          "value": "#ffffff"
+        },
+        {
+          "count": 15,
+          "value": "#111111"
+        },
+        {
+          "count": 12,
+          "value": "#06806b"
+        },
+        {
+          "count": 12,
+          "value": "#cc2f3c"
+        },
+        {
+          "count": 11,
+          "value": "#ebebeb"
+        },
+        {
+          "count": 8,
+          "value": "#000000"
+        },
+        {
+          "count": 8,
+          "value": "#2962ff"
+        },
+        {
+          "count": 6,
+          "value": "#dff5ef"
+        },
+        {
+          "count": 5,
+          "value": "#f9f9f9"
+        },
+        {
+          "count": 4,
+          "value": "#5b9cf6"
+        },
+        {
+          "count": 4,
+          "value": "#de812f"
+        },
+        {
+          "count": 4,
+          "value": "#f0efea"
+        }
+      ],
+      "font_sizes": [
+        {
+          "count": 466,
+          "value": "16px"
+        },
+        {
+          "count": 220,
+          "value": "14px"
+        },
+        {
+          "count": 149,
+          "value": "12px"
+        },
+        {
+          "count": 116,
+          "value": "11px"
+        },
+        {
+          "count": 57,
+          "value": "18px"
+        },
+        {
+          "count": 33,
+          "value": "13px"
+        },
+        {
+          "count": 29,
+          "value": "28px"
+        },
+        {
+          "count": 18,
+          "value": "10px"
+        },
+        {
+          "count": 16,
+          "value": "20px"
+        },
+        {
+          "count": 6,
+          "value": "36px"
+        },
+        {
+          "count": 5,
+          "value": "24px"
+        },
+        {
+          "count": 3,
+          "value": "15px"
+        },
+        {
+          "count": 2,
+          "value": "9px"
+        },
+        {
+          "count": 1,
+          "value": "25px"
+        },
+        {
+          "count": 1,
+          "value": "80px"
+        },
+        {
+          "count": 1,
+          "value": "56px"
+        }
+      ],
+      "font_weights": [
+        {
+          "count": 438,
+          "value": "500"
+        },
+        {
+          "count": 359,
+          "value": "400"
+        },
+        {
+          "count": 179,
+          "value": "600"
+        },
+        {
+          "count": 149,
+          "value": "700"
+        }
+      ],
+      "fonts": [
+        {
+          "count": 1120,
+          "value": "-apple-system, BlinkMacSystemFont, \"Trebuchet MS\", Roboto, Ubuntu, sans-serif"
+        },
+        {
+          "count": 5,
+          "value": "\"Plus Jakarta Sans\", sans-serif"
+        }
+      ],
+      "max_widths": [
+        {
+          "count": 1,
+          "value": "900px"
+        },
+        {
+          "count": 1,
+          "value": "1425px"
+        }
+      ],
+      "radii": [
+        {
+          "count": 136,
+          "value": "50%"
+        },
+        {
+          "count": 106,
+          "value": "6px"
+        },
+        {
+          "count": 92,
+          "value": "8px"
+        },
+        {
+          "count": 66,
+          "value": "4px"
+        },
+        {
+          "count": 27,
+          "value": "3px"
+        },
+        {
+          "count": 25,
+          "value": "16px"
+        },
+        {
+          "count": 6,
+          "value": "12px"
+        },
+        {
+          "count": 2,
+          "value": "8px 0px 0px 8px"
+        },
+        {
+          "count": 1,
+          "value": "20px"
+        },
+        {
+          "count": 1,
+          "value": "36px"
+        }
+      ],
+      "shadows": [
+        {
+          "count": 1,
+          "value": "rgba(70, 140, 255, 0.35) 0px -10px 60px 0px"
+        }
+      ],
+      "spacing": [
+        {
+          "count": 494,
+          "value": "8px"
+        },
+        {
+          "count": 337,
+          "value": "12px"
+        },
+        {
+          "count": 293,
+          "value": "6px"
+        },
+        {
+          "count": 218,
+          "value": "4px"
+        },
+        {
+          "count": 190,
+          "value": "16px"
+        },
+        {
+          "count": 60,
+          "value": "3px"
+        },
+        {
+          "count": 47,
+          "value": "14px"
+        },
+        {
+          "count": 41,
+          "value": "40px"
+        },
+        {
+          "count": 36,
+          "value": "25px"
+        },
+        {
+          "count": 35,
+          "value": "24px"
+        },
+        {
+          "count": 29,
+          "value": "20px"
+        },
+        {
+          "count": 22,
+          "value": "2px"
+        },
+        {
+          "count": 22,
+          "value": "80px"
+        },
+        {
+          "count": 16,
+          "value": "32.5px"
+        },
+        {
+          "count": 14,
+          "value": "10px"
+        },
+        {
+          "count": 12,
+          "value": "31px"
+        },
+        {
+          "count": 10,
+          "value": "50px"
+        },
+        {
+          "count": 8,
+          "value": "32px"
+        },
+        {
+          "count": 6,
+          "value": "132px"
+        },
+        {
+          "count": 4,
+          "value": "30px"
+        },
+        {
+          "count": 2,
+          "value": "44px"
+        },
+        {
+          "count": 1,
+          "value": "18px"
+        },
+        {
+          "count": 1,
+          "value": "-150px"
+        },
+        {
+          "count": 1,
+          "value": "175px"
+        }
+      ],
+      "text_colors": [
+        {
+          "count": 739,
+          "value": "#000000"
+        },
+        {
+          "count": 129,
+          "value": "#ffffff"
+        },
+        {
+          "count": 104,
+          "value": "#707070"
+        },
+        {
+          "count": 37,
+          "value": "#cc2f3c"
+        },
+        {
+          "count": 22,
+          "value": "#06806b"
+        },
+        {
+          "count": 19,
+          "value": "#2962ff"
+        },
+        {
+          "count": 11,
+          "value": "#ff9800"
+        },
+        {
+          "count": 7,
+          "value": "#111111"
+        },
+        {
+          "count": 6,
+          "value": "#004d27"
+        },
+        {
+          "count": 5,
+          "value": "#b8b8b8"
+        },
+        {
+          "count": 5,
+          "value": "#464646"
+        },
+        {
+          "count": 3,
+          "value": "#de812f"
+        },
+        {
+          "count": 3,
+          "value": "#2e7d32"
+        },
+        {
+          "count": 3,
+          "value": "#222222"
+        },
+        {
+          "count": 2,
+          "value": "#8c8c8c"
+        },
+        {
+          "count": 2,
+          "value": "#dbdbdb"
+        }
+      ]
+    },
+    "files": [
+      "README.md",
+      "capture.json"
+    ],
+    "html_bytes": 0,
+    "output_directory": "/home/user/Testing/craft-projects/tradingview-com/checks/round-0",
+    "screenshots": [
+      {
+        "css_width": 1440,
+        "cut": true,
+        "file": "screenshot-1440.png",
+        "height": 12000,
+        "sha256": "e633ce5e8ed31a4a1ac8fd1109a2b3a3d256872bd8e64c9036408119b2458328",
+        "width": 1440
+      },
+      {
+        "css_width": 768,
+        "cut": true,
+        "file": "screenshot-768.png",
+        "height": 12000,
+        "sha256": "9c582e14fe1f884d5b815ae009e7639b9ae730c1ce1ec229dd2a95d2ba210fdf",
+        "width": 768
+      },
+      {
+        "css_width": 390,
+        "cut": true,
+        "file": "screenshot-390.png",
+        "height": 12000,
+        "sha256": "bf59768a9d052d80f4d0e2f5ded90d4bb4fde7ca6a27b61799d0c4af84973a1e",
+        "width": 390
+      }
+    ],
+    "sign_in_page": false,
+    "signed_in": false,
+    "signed_in_site": null,
+    "title": "Tickerra — Track every market",
+    "url": "http://127.0.0.1:35425/"
+  },
+  "summary": "Captured http://127.0.0.1:35425/: 3 screenshot(s), 731 outline items, 40 headings, 0 images, 312 links, 0 forms → /home/user/Testing/craft-projects/tradingview-com/checks/round-0.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": true,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "linux-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "one_state",
+      "message": "One state of the page: menus, dialogs and content behind interactions are not opened."
+    },
+    {
+      "code": "visitor_view",
+      "message": "Clean room: only what a visitor sees was kept (screenshots, visible text, measured layout and styles); not the page's HTML, CSS rules, scripts, requests or errors."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 3,
+    "total": 3
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:35425/"
+    },
+    {
+      "kind": "path",
+      "value": "/home/user/Testing/craft-projects/tradingview-com/checks/round-0"
+    }
+  ],
+  "links": []
+}

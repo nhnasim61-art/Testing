@@ -1,0 +1,97 @@
+{
+  "id": "ev_9b35255bb2a8fb3d5fe52cb7a307eb8174c82052871347061fcff2c0e2c54c8f",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:39473/"
+  },
+  "operation": "web_page_states_capture",
+  "params": {
+    "max_states": 8,
+    "width": 390
+  },
+  "result": {
+    "folder": "/home/user/Testing/craft-projects/tradingview-com/checks/round-0/states-390",
+    "found": 5,
+    "states": [
+      {
+        "changed": [
+          "expanded",
+          "dialog appeared"
+        ],
+        "file": "state-1.png",
+        "index": 0,
+        "kind": "menu",
+        "label": "Open menu",
+        "sha256": "88d41d4be423d521068a6bb2e70da4e2fccc23ba70e5a14918f71e50d63d025b"
+      },
+      {
+        "changed": [
+          "tab selected"
+        ],
+        "file": "state-2.png",
+        "index": 1,
+        "kind": "tab",
+        "label": "Popular",
+        "sha256": "88d41d4be423d521068a6bb2e70da4e2fccc23ba70e5a14918f71e50d63d025b"
+      },
+      {
+        "changed": [
+          "tab selected"
+        ],
+        "file": "state-3.png",
+        "index": 2,
+        "kind": "tab",
+        "label": "Popular",
+        "sha256": "350cd13a58d1bb8c32a79f7457f4a5b7c0cc191cce897fe5ff3dc96cec411998"
+      },
+      {
+        "changed": [
+          "tab selected"
+        ],
+        "file": "state-4.png",
+        "index": 3,
+        "kind": "tab",
+        "label": "Pre-market",
+        "sha256": "9f600fbc3a49d29042c95b7c3a7ae099507cdb75c66d53575f072de49dca43b5"
+      },
+      {
+        "changed": [
+          "tab selected"
+        ],
+        "file": "state-5.png",
+        "index": 4,
+        "kind": "tab",
+        "label": "Pre-market",
+        "sha256": "f37d1afb3ebaaa7af9c04282bb552944272c5ff835322e844f57a5ca88f370a6"
+      }
+    ],
+    "url": "http://127.0.0.1:39473/"
+  },
+  "summary": "Opened 5 of 5 control(s) on http://127.0.0.1:39473/; 5 pictured in /home/user/Testing/craft-projects/tradingview-com/checks/round-0/states-390.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": true,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "linux-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "first_controls",
+      "message": "Only the first controls found are opened, one at a time; menus inside menus and hover-only menus are not."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 5,
+    "total": 5
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:39473/"
+    }
+  ],
+  "links": []
+}

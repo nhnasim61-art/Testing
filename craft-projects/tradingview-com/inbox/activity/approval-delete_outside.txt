@@ -1,0 +1,1 @@
+The builder was refused permission for deleting anything outside the project or the temp folder. To ask before trying again, use Approvals or type /approvals delete_outside ask.

@@ -1,0 +1,440 @@
+{
+  "id": "ev_2fc5e9513c6600ec6e504c22f9f90d7d584c43955cbcdafe6424253125284edc",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:45025/brokers/"
+  },
+  "operation": "web_site_capture",
+  "params": {
+    "include_html": false,
+    "max_height": 12000,
+    "noise_pass": false,
+    "visitor_view": true,
+    "widths": [
+      1440,
+      768,
+      390
+    ]
+  },
+  "result": {
+    "counts": {
+      "forms": 0,
+      "headings": 33,
+      "images": 0,
+      "links": 144,
+      "outline": 325
+    },
+    "design": {
+      "backgrounds": [
+        {
+          "count": 51,
+          "value": "#ffffff"
+        },
+        {
+          "count": 14,
+          "value": "#8a97ad"
+        },
+        {
+          "count": 11,
+          "value": "#c99a2e"
+        },
+        {
+          "count": 9,
+          "value": "#131313"
+        },
+        {
+          "count": 7,
+          "value": "#222222"
+        },
+        {
+          "count": 7,
+          "value": "#1e4fd8"
+        },
+        {
+          "count": 6,
+          "value": "#1a1a1a"
+        },
+        {
+          "count": 6,
+          "value": "#0f766e"
+        },
+        {
+          "count": 6,
+          "value": "#1d4ed8"
+        },
+        {
+          "count": 6,
+          "value": "#f59e0b"
+        },
+        {
+          "count": 6,
+          "value": "#be123c"
+        },
+        {
+          "count": 6,
+          "value": "#e5e7eb"
+        },
+        {
+          "count": 6,
+          "value": "#4c1d95"
+        },
+        {
+          "count": 6,
+          "value": "#065f46"
+        },
+        {
+          "count": 6,
+          "value": "#0c4a6e"
+        },
+        {
+          "count": 3,
+          "value": "#111111"
+        }
+      ],
+      "font_sizes": [
+        {
+          "count": 275,
+          "value": "14px"
+        },
+        {
+          "count": 126,
+          "value": "12px"
+        },
+        {
+          "count": 97,
+          "value": "18px"
+        },
+        {
+          "count": 64,
+          "value": "16px"
+        },
+        {
+          "count": 33,
+          "value": "10px"
+        },
+        {
+          "count": 32,
+          "value": "36px"
+        },
+        {
+          "count": 32,
+          "value": "96px"
+        },
+        {
+          "count": 16,
+          "value": "28px"
+        },
+        {
+          "count": 1,
+          "value": "25px"
+        },
+        {
+          "count": 1,
+          "value": "120px"
+        },
+        {
+          "count": 1,
+          "value": "20px"
+        },
+        {
+          "count": 1,
+          "value": "95.04px"
+        }
+      ],
+      "font_weights": [
+        {
+          "count": 353,
+          "value": "400"
+        },
+        {
+          "count": 211,
+          "value": "600"
+        },
+        {
+          "count": 72,
+          "value": "500"
+        },
+        {
+          "count": 32,
+          "value": "800"
+        },
+        {
+          "count": 11,
+          "value": "700"
+        }
+      ],
+      "fonts": [
+        {
+          "count": 675,
+          "value": "-apple-system, BlinkMacSystemFont, \"Trebuchet MS\", Roboto, Ubuntu, sans-serif"
+        },
+        {
+          "count": 4,
+          "value": "\"Plus Jakarta Sans\", sans-serif"
+        }
+      ],
+      "max_widths": [
+        {
+          "count": 1,
+          "value": "1425px"
+        }
+      ],
+      "radii": [
+        {
+          "count": 96,
+          "value": "36px"
+        },
+        {
+          "count": 58,
+          "value": "6px"
+        },
+        {
+          "count": 40,
+          "value": "24px"
+        },
+        {
+          "count": 35,
+          "value": "4px"
+        },
+        {
+          "count": 33,
+          "value": "50%"
+        },
+        {
+          "count": 1,
+          "value": "20px"
+        },
+        {
+          "count": 1,
+          "value": "8px 0px 0px 8px"
+        },
+        {
+          "count": 1,
+          "value": "8px"
+        }
+      ],
+      "shadows": [
+        {
+          "count": 1,
+          "value": "rgba(80, 110, 200, 0.25) 0px -30px 120px 0px"
+        }
+      ],
+      "spacing": [
+        {
+          "count": 191,
+          "value": "8px"
+        },
+        {
+          "count": 128,
+          "value": "30px"
+        },
+        {
+          "count": 106,
+          "value": "40px"
+        },
+        {
+          "count": 73,
+          "value": "12px"
+        },
+        {
+          "count": 70,
+          "value": "6px"
+        },
+        {
+          "count": 68,
+          "value": "3px"
+        },
+        {
+          "count": 64,
+          "value": "28px"
+        },
+        {
+          "count": 39,
+          "value": "10px"
+        },
+        {
+          "count": 32,
+          "value": "54px"
+        },
+        {
+          "count": 32,
+          "value": "22px"
+        },
+        {
+          "count": 24,
+          "value": "24px"
+        },
+        {
+          "count": 19,
+          "value": "26px"
+        },
+        {
+          "count": 18,
+          "value": "4px"
+        },
+        {
+          "count": 5,
+          "value": "20px"
+        },
+        {
+          "count": 4,
+          "value": "16px"
+        },
+        {
+          "count": 2,
+          "value": "50px"
+        },
+        {
+          "count": 1,
+          "value": "18px"
+        },
+        {
+          "count": 1,
+          "value": "64px"
+        },
+        {
+          "count": 1,
+          "value": "1px"
+        },
+        {
+          "count": 1,
+          "value": "160px"
+        },
+        {
+          "count": 1,
+          "value": "82px"
+        },
+        {
+          "count": 1,
+          "value": "-228px"
+        },
+        {
+          "count": 1,
+          "value": "56px"
+        }
+      ],
+      "text_colors": [
+        {
+          "count": 471,
+          "value": "#ffffff"
+        },
+        {
+          "count": 102,
+          "value": "#dbdbdb"
+        },
+        {
+          "count": 51,
+          "value": "#000000"
+        },
+        {
+          "count": 21,
+          "value": "#555555"
+        },
+        {
+          "count": 17,
+          "value": "#707070"
+        },
+        {
+          "count": 7,
+          "value": "#111111"
+        },
+        {
+          "count": 5,
+          "value": "#b8b8b8"
+        },
+        {
+          "count": 1,
+          "value": "#8c8c8c"
+        },
+        {
+          "count": 1,
+          "value": "#2962ff"
+        },
+        {
+          "count": 1,
+          "value": "#ff4b1f"
+        },
+        {
+          "count": 1,
+          "value": "#3b82f6"
+        },
+        {
+          "count": 1,
+          "value": "#143eb2"
+        }
+      ]
+    },
+    "files": [
+      "README.md",
+      "capture.json"
+    ],
+    "html_bytes": 0,
+    "output_directory": "/home/user/Testing/craft-projects/tradingview-com/checks/round-0/routes/brokers",
+    "screenshots": [
+      {
+        "css_width": 1440,
+        "cut": true,
+        "file": "screenshot-1440.png",
+        "height": 12000,
+        "sha256": "56e4e9a307779cb19ce46bed3e7499c67e03ef53e821ca8260f1cd5028aece7c",
+        "width": 1440
+      },
+      {
+        "css_width": 768,
+        "cut": true,
+        "file": "screenshot-768.png",
+        "height": 12000,
+        "sha256": "29e2ea88a2b84bbe31c030f656e77461d3a7b283aecae6ad794b792f04869cfe",
+        "width": 768
+      },
+      {
+        "css_width": 390,
+        "cut": true,
+        "file": "screenshot-390.png",
+        "height": 12000,
+        "sha256": "3298c199c29653833f4da3a858e1606b3f8e15cc7973fcc229b53c0295d65445",
+        "width": 390
+      }
+    ],
+    "sign_in_page": false,
+    "signed_in": false,
+    "signed_in_site": null,
+    "title": "Top brokers — reviews and ratings — Tickerra",
+    "url": "http://127.0.0.1:45025/brokers/"
+  },
+  "summary": "Captured http://127.0.0.1:45025/brokers/: 3 screenshot(s), 325 outline items, 33 headings, 0 images, 144 links, 0 forms → /home/user/Testing/craft-projects/tradingview-com/checks/round-0/routes/brokers.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": true,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "linux-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "one_state",
+      "message": "One state of the page: menus, dialogs and content behind interactions are not opened."
+    },
+    {
+      "code": "visitor_view",
+      "message": "Clean room: only what a visitor sees was kept (screenshots, visible text, measured layout and styles); not the page's HTML, CSS rules, scripts, requests or errors."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 3,
+    "total": 3
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:45025/brokers/"
+    },
+    {
+      "kind": "path",
+      "value": "/home/user/Testing/craft-projects/tradingview-com/checks/round-0/routes/brokers"
+    }
+  ],
+  "links": []
+}

@@ -1,0 +1,16 @@
+{
+  "id": "unk_7124e748a6aca3d9",
+  "revision": 2,
+  "question": "Exact heading font: EuclidCircularSemibold is proprietary; which free font is closest?",
+  "severity": "low",
+  "domain": "typography",
+  "status": "resolved",
+  "probes": [
+    "Visual comparison of heading glyphs in screenshots"
+  ],
+  "evidence_for": [
+    "ev_5357f6580031301fa6034c3204083c5ccf68015b64dedaef0ddec6c936953cf8"
+  ],
+  "evidence_against": [],
+  "resolution": "Estimate, not exact: EuclidCircularSemibold is proprietary, so the big display headings use Plus Jakarta Sans 700 (geometric, double-storey 'a' like the screenshots), self-hosted. Body text uses the original's exact font stack. Glyph shapes differ slightly from the original."
+}

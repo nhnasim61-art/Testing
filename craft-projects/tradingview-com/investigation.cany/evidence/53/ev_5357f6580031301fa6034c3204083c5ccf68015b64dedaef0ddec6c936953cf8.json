@@ -1,0 +1,482 @@
+{
+  "id": "ev_5357f6580031301fa6034c3204083c5ccf68015b64dedaef0ddec6c936953cf8",
+  "subject": {
+    "kind": "website",
+    "name": "https://www.tradingview.com/"
+  },
+  "operation": "web_site_capture",
+  "params": {
+    "include_html": false,
+    "max_height": 12000,
+    "noise_pass": true,
+    "visitor_view": true,
+    "widths": [
+      1440,
+      768,
+      390
+    ]
+  },
+  "result": {
+    "counts": {
+      "forms": 0,
+      "headings": 39,
+      "images": 273,
+      "links": 400,
+      "outline": 900
+    },
+    "design": {
+      "backgrounds": [
+        {
+          "count": 132,
+          "value": "#f2f2f2"
+        },
+        {
+          "count": 37,
+          "value": "#ffffff"
+        },
+        {
+          "count": 35,
+          "value": "#2962ff"
+        },
+        {
+          "count": 23,
+          "value": "#f7525f"
+        },
+        {
+          "count": 21,
+          "value": "#000000"
+        },
+        {
+          "count": 20,
+          "value": "#707070"
+        },
+        {
+          "count": 20,
+          "value": "#f9f9f9"
+        },
+        {
+          "count": 12,
+          "value": "#06806b"
+        },
+        {
+          "count": 12,
+          "value": "#cc2f3c"
+        },
+        {
+          "count": 11,
+          "value": "#22ab94"
+        },
+        {
+          "count": 10,
+          "value": "#08995026"
+        },
+        {
+          "count": 5,
+          "value": "#ffffff00"
+        },
+        {
+          "count": 5,
+          "value": "#089981"
+        },
+        {
+          "count": 4,
+          "value": "#222222"
+        },
+        {
+          "count": 4,
+          "value": "#0f0f0f"
+        },
+        {
+          "count": 3,
+          "value": "#5b9cf6"
+        }
+      ],
+      "font_sizes": [
+        {
+          "count": 647,
+          "value": "16px"
+        },
+        {
+          "count": 286,
+          "value": "14px"
+        },
+        {
+          "count": 128,
+          "value": "11px"
+        },
+        {
+          "count": 117,
+          "value": "12px"
+        },
+        {
+          "count": 67,
+          "value": "18px"
+        },
+        {
+          "count": 55,
+          "value": "28px"
+        },
+        {
+          "count": 29,
+          "value": "10px"
+        },
+        {
+          "count": 20,
+          "value": "20px"
+        },
+        {
+          "count": 10,
+          "value": "36px"
+        },
+        {
+          "count": 6,
+          "value": "13px"
+        },
+        {
+          "count": 2,
+          "value": "56px"
+        },
+        {
+          "count": 1,
+          "value": "80px"
+        }
+      ],
+      "font_weights": [
+        {
+          "count": 709,
+          "value": "400"
+        },
+        {
+          "count": 339,
+          "value": "500"
+        },
+        {
+          "count": 319,
+          "value": "600"
+        },
+        {
+          "count": 1,
+          "value": "700"
+        }
+      ],
+      "fonts": [
+        {
+          "count": 1365,
+          "value": "-apple-system, BlinkMacSystemFont, \"Trebuchet MS\", Roboto, Ubuntu, sans-serif"
+        },
+        {
+          "count": 3,
+          "value": "EuclidCircularSemibold, sans-serif"
+        }
+      ],
+      "max_widths": [
+        {
+          "count": 70,
+          "value": "9999px"
+        },
+        {
+          "count": 69,
+          "value": "664px"
+        },
+        {
+          "count": 1,
+          "value": "1140px"
+        },
+        {
+          "count": 1,
+          "value": "1117px"
+        },
+        {
+          "count": 1,
+          "value": "1200px"
+        },
+        {
+          "count": 1,
+          "value": "28px"
+        }
+      ],
+      "radii": [
+        {
+          "count": 391,
+          "value": "8px"
+        },
+        {
+          "count": 214,
+          "value": "50%"
+        },
+        {
+          "count": 146,
+          "value": "4px"
+        },
+        {
+          "count": 129,
+          "value": "16px"
+        },
+        {
+          "count": 79,
+          "value": "6px"
+        },
+        {
+          "count": 60,
+          "value": "7px"
+        },
+        {
+          "count": 9,
+          "value": "12px"
+        },
+        {
+          "count": 7,
+          "value": "36px"
+        },
+        {
+          "count": 6,
+          "value": "14px"
+        },
+        {
+          "count": 5,
+          "value": "20px"
+        }
+      ],
+      "shadows": [
+        {
+          "count": 1,
+          "value": "rgba(0, 0, 0, 0.2) 0px 2px 4px 0px"
+        }
+      ],
+      "spacing": [
+        {
+          "count": 1452,
+          "value": "8px"
+        },
+        {
+          "count": 825,
+          "value": "4px"
+        },
+        {
+          "count": 355,
+          "value": "12px"
+        },
+        {
+          "count": 293,
+          "value": "2px"
+        },
+        {
+          "count": 218,
+          "value": "-1px"
+        },
+        {
+          "count": 199,
+          "value": "16px"
+        },
+        {
+          "count": 182,
+          "value": "1px"
+        },
+        {
+          "count": 156,
+          "value": "11px"
+        },
+        {
+          "count": 140,
+          "value": "7px"
+        },
+        {
+          "count": 138,
+          "value": "15px"
+        },
+        {
+          "count": 110,
+          "value": "24px"
+        },
+        {
+          "count": 94,
+          "value": "6px"
+        },
+        {
+          "count": 94,
+          "value": "-4px"
+        },
+        {
+          "count": 57,
+          "value": "20px"
+        },
+        {
+          "count": 25,
+          "value": "80px"
+        },
+        {
+          "count": 20,
+          "value": "6.17969px"
+        },
+        {
+          "count": 11,
+          "value": "40px"
+        },
+        {
+          "count": 11,
+          "value": "64px"
+        },
+        {
+          "count": 10,
+          "value": "-0.726562px"
+        },
+        {
+          "count": 10,
+          "value": "0.726562px"
+        },
+        {
+          "count": 10,
+          "value": "9px"
+        },
+        {
+          "count": 8,
+          "value": "-12px"
+        },
+        {
+          "count": 7,
+          "value": "120px"
+        },
+        {
+          "count": 6,
+          "value": "-8px"
+        }
+      ],
+      "text_colors": [
+        {
+          "count": 1031,
+          "value": "#000000"
+        },
+        {
+          "count": 121,
+          "value": "#707070"
+        },
+        {
+          "count": 45,
+          "value": "#ffffff"
+        },
+        {
+          "count": 45,
+          "value": "#cc2f3c"
+        },
+        {
+          "count": 44,
+          "value": "#2962ff"
+        },
+        {
+          "count": 22,
+          "value": "#ff9800"
+        },
+        {
+          "count": 22,
+          "value": "#06806b"
+        },
+        {
+          "count": 16,
+          "value": "#464646"
+        },
+        {
+          "count": 10,
+          "value": "#004d27"
+        },
+        {
+          "count": 5,
+          "value": "#808080"
+        },
+        {
+          "count": 3,
+          "value": "#de812f"
+        },
+        {
+          "count": 2,
+          "value": "#dbdbdb"
+        },
+        {
+          "count": 1,
+          "value": "#8c8c8c"
+        },
+        {
+          "count": 1,
+          "value": "#00000000"
+        }
+      ]
+    },
+    "files": [
+      "README.md",
+      "capture.json"
+    ],
+    "html_bytes": 0,
+    "output_directory": "/home/user/Testing/craft-projects/tradingview-com/capture",
+    "screenshots": [
+      {
+        "css_width": 1440,
+        "cut": true,
+        "file": "screenshot-1440.png",
+        "height": 12000,
+        "noise_file": "noise-1440.png",
+        "noise_tiles": 1101,
+        "sha256": "87417c77cbda0cf44d8f5ba8e7fce5f68ee0d89cfd3c094b9ab671191e53ab67",
+        "width": 1440
+      },
+      {
+        "css_width": 768,
+        "cut": true,
+        "file": "screenshot-768.png",
+        "height": 12000,
+        "noise_file": "noise-768.png",
+        "noise_tiles": 774,
+        "sha256": "8b987d69d15e9286daadaa4825348fd38a54255b75a0dd1b66cfcbaeac0ddf8e",
+        "width": 768
+      },
+      {
+        "css_width": 390,
+        "cut": true,
+        "file": "screenshot-390.png",
+        "height": 12000,
+        "noise_file": "noise-390.png",
+        "noise_tiles": 99,
+        "sha256": "5e19668fa061d8e2ca465b626fa337123ed48055deb097c608228298aa44d6d0",
+        "width": 390
+      }
+    ],
+    "sign_in_page": false,
+    "signed_in": false,
+    "signed_in_site": null,
+    "title": "TradingView — Track All Markets",
+    "url": "https://www.tradingview.com/"
+  },
+  "summary": "Captured https://www.tradingview.com/: 3 screenshot(s), 900 outline items, 39 headings, 273 images, 400 links, 0 forms → /home/user/Testing/craft-projects/tradingview-com/capture.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": true,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "linux-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "one_state",
+      "message": "One state of the page: menus, dialogs and content behind interactions are not opened."
+    },
+    {
+      "code": "visitor_view",
+      "message": "Clean room: only what a visitor sees was kept (screenshots, visible text, measured layout and styles); not the page's HTML, CSS rules, scripts, requests or errors."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 3,
+    "total": 3
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "https://www.tradingview.com/"
+    },
+    {
+      "kind": "path",
+      "value": "/home/user/Testing/craft-projects/tradingview-com/capture"
+    }
+  ],
+  "links": []
+}

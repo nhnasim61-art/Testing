@@ -1,0 +1,347 @@
+{
+  "id": "ev_933d5ec7be3d15cc60dff68bde6138e2517c271f80c1b07feaaef937c711631e",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:45025/ideas/"
+  },
+  "operation": "web_site_capture",
+  "params": {
+    "include_html": false,
+    "max_height": 12000,
+    "noise_pass": false,
+    "visitor_view": true,
+    "widths": [
+      1440,
+      768,
+      390
+    ]
+  },
+  "result": {
+    "counts": {
+      "forms": 0,
+      "headings": 1,
+      "images": 24,
+      "links": 144,
+      "outline": 360
+    },
+    "design": {
+      "backgrounds": [
+        {
+          "count": 28,
+          "value": "#f2f2f2"
+        },
+        {
+          "count": 13,
+          "value": "#f23645"
+        },
+        {
+          "count": 11,
+          "value": "#089981"
+        },
+        {
+          "count": 3,
+          "value": "#ffffff"
+        },
+        {
+          "count": 1,
+          "value": "#000000"
+        },
+        {
+          "count": 1,
+          "value": "#222222"
+        },
+        {
+          "count": 1,
+          "value": "#e3ebff"
+        }
+      ],
+      "font_sizes": [
+        {
+          "count": 132,
+          "value": "14px"
+        },
+        {
+          "count": 96,
+          "value": "16px"
+        },
+        {
+          "count": 25,
+          "value": "18px"
+        },
+        {
+          "count": 24,
+          "value": "13px"
+        },
+        {
+          "count": 22,
+          "value": "12px"
+        },
+        {
+          "count": 2,
+          "value": "15px"
+        },
+        {
+          "count": 1,
+          "value": "25px"
+        },
+        {
+          "count": 1,
+          "value": "56px"
+        },
+        {
+          "count": 1,
+          "value": "20px"
+        },
+        {
+          "count": 1,
+          "value": "10px"
+        },
+        {
+          "count": 1,
+          "value": "95.04px"
+        }
+      ],
+      "font_weights": [
+        {
+          "count": 218,
+          "value": "400"
+        },
+        {
+          "count": 35,
+          "value": "700"
+        },
+        {
+          "count": 27,
+          "value": "600"
+        },
+        {
+          "count": 26,
+          "value": "500"
+        }
+      ],
+      "fonts": [
+        {
+          "count": 302,
+          "value": "-apple-system, BlinkMacSystemFont, \"Trebuchet MS\", Roboto, Ubuntu, sans-serif"
+        },
+        {
+          "count": 4,
+          "value": "\"Plus Jakarta Sans\", sans-serif"
+        }
+      ],
+      "max_widths": [
+        {
+          "count": 1,
+          "value": "1425px"
+        }
+      ],
+      "radii": [
+        {
+          "count": 65,
+          "value": "8px"
+        },
+        {
+          "count": 24,
+          "value": "50%"
+        },
+        {
+          "count": 3,
+          "value": "6px"
+        },
+        {
+          "count": 2,
+          "value": "24px"
+        },
+        {
+          "count": 1,
+          "value": "20px"
+        },
+        {
+          "count": 1,
+          "value": "8px 0px 0px 8px"
+        }
+      ],
+      "shadows": [],
+      "spacing": [
+        {
+          "count": 145,
+          "value": "8px"
+        },
+        {
+          "count": 122,
+          "value": "12px"
+        },
+        {
+          "count": 109,
+          "value": "4px"
+        },
+        {
+          "count": 54,
+          "value": "6px"
+        },
+        {
+          "count": 35,
+          "value": "24px"
+        },
+        {
+          "count": 29,
+          "value": "16px"
+        },
+        {
+          "count": 24,
+          "value": "14px"
+        },
+        {
+          "count": 12,
+          "value": "40px"
+        },
+        {
+          "count": 6,
+          "value": "10px"
+        },
+        {
+          "count": 4,
+          "value": "3px"
+        },
+        {
+          "count": 2,
+          "value": "15px"
+        },
+        {
+          "count": 2,
+          "value": "56px"
+        },
+        {
+          "count": 2,
+          "value": "20px"
+        },
+        {
+          "count": 1,
+          "value": "18px"
+        },
+        {
+          "count": 1,
+          "value": "64px"
+        },
+        {
+          "count": 1,
+          "value": "84px"
+        },
+        {
+          "count": 1,
+          "value": "36px"
+        },
+        {
+          "count": 1,
+          "value": "32.5px"
+        },
+        {
+          "count": 1,
+          "value": "44px"
+        }
+      ],
+      "text_colors": [
+        {
+          "count": 229,
+          "value": "#000000"
+        },
+        {
+          "count": 41,
+          "value": "#707070"
+        },
+        {
+          "count": 26,
+          "value": "#ffffff"
+        },
+        {
+          "count": 7,
+          "value": "#464646"
+        },
+        {
+          "count": 1,
+          "value": "#2962ff"
+        },
+        {
+          "count": 1,
+          "value": "#b8b8b8"
+        },
+        {
+          "count": 1,
+          "value": "#143eb2"
+        }
+      ]
+    },
+    "files": [
+      "README.md",
+      "capture.json"
+    ],
+    "html_bytes": 0,
+    "output_directory": "/home/user/Testing/craft-projects/tradingview-com/checks/round-0/routes/ideas",
+    "screenshots": [
+      {
+        "css_width": 1440,
+        "cut": false,
+        "file": "screenshot-1440.png",
+        "height": 5359,
+        "sha256": "3a1bd83da0e1bce2e9f6e827a2e5a7f3c7caa0afb97b33a4fc7db52cfa8b1d52",
+        "width": 1440
+      },
+      {
+        "css_width": 768,
+        "cut": false,
+        "file": "screenshot-768.png",
+        "height": 6843,
+        "sha256": "660b29ee423ed15c2fc8da0dd1ed2ac3717b09336120e4f0403af8d11104f051",
+        "width": 768
+      },
+      {
+        "css_width": 390,
+        "cut": false,
+        "file": "screenshot-390.png",
+        "height": 11882,
+        "sha256": "1ce095b36de42ded06fbedd9b3b0422f17841fd4e7dded1cb01f928098192676",
+        "width": 390
+      }
+    ],
+    "sign_in_page": false,
+    "signed_in": false,
+    "signed_in_site": null,
+    "title": "Trading ideas and analysis from the community — Tickerra",
+    "url": "http://127.0.0.1:45025/ideas/"
+  },
+  "summary": "Captured http://127.0.0.1:45025/ideas/: 3 screenshot(s), 360 outline items, 1 headings, 24 images, 144 links, 0 forms → /home/user/Testing/craft-projects/tradingview-com/checks/round-0/routes/ideas.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": true,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "linux-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "one_state",
+      "message": "One state of the page: menus, dialogs and content behind interactions are not opened."
+    },
+    {
+      "code": "visitor_view",
+      "message": "Clean room: only what a visitor sees was kept (screenshots, visible text, measured layout and styles); not the page's HTML, CSS rules, scripts, requests or errors."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 3,
+    "total": 3
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:45025/ideas/"
+    },
+    {
+      "kind": "path",
+      "value": "/home/user/Testing/craft-projects/tradingview-com/checks/round-0/routes/ideas"
+    }
+  ],
+  "links": []
+}

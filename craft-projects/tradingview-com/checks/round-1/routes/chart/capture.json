@@ -1,0 +1,3012 @@
+{
+  "a11y": {
+    "images_without_alt": 0,
+    "landmarks": {
+      "complementary": 2,
+      "toolbar": 1
+    },
+    "lang": "en",
+    "unnamed_controls": 0,
+    "unnamed_examples": []
+  },
+  "assets": {
+    "images": [
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      },
+      {
+        "h": 150,
+        "w": 150
+      }
+    ]
+  },
+  "design": {
+    "backgrounds": [
+      {
+        "count": 12,
+        "value": "#a8a8a8"
+      },
+      {
+        "count": 11,
+        "value": "#ffffff"
+      },
+      {
+        "count": 10,
+        "value": "#e0e0e0"
+      },
+      {
+        "count": 7,
+        "value": "#08998109"
+      },
+      {
+        "count": 5,
+        "value": "#2962ff"
+      },
+      {
+        "count": 3,
+        "value": "#f2364509"
+      },
+      {
+        "count": 2,
+        "value": "#ebebeb"
+      },
+      {
+        "count": 2,
+        "value": "#f2f2f2"
+      },
+      {
+        "count": 1,
+        "value": "#000000"
+      },
+      {
+        "count": 1,
+        "value": "#e3ebff"
+      },
+      {
+        "count": 1,
+        "value": "#fce4ec"
+      },
+      {
+        "count": 1,
+        "value": "#26c6da"
+      }
+    ],
+    "font_sizes": [
+      {
+        "count": 87,
+        "value": "14px"
+      },
+      {
+        "count": 23,
+        "value": "13px"
+      },
+      {
+        "count": 8,
+        "value": "11px"
+      },
+      {
+        "count": 6,
+        "value": "12px"
+      },
+      {
+        "count": 4,
+        "value": "16px"
+      },
+      {
+        "count": 3,
+        "value": "12.5px"
+      },
+      {
+        "count": 2,
+        "value": "17px"
+      },
+      {
+        "count": 2,
+        "value": "10px"
+      },
+      {
+        "count": 1,
+        "value": "21px"
+      },
+      {
+        "count": 1,
+        "value": "28px"
+      },
+      {
+        "count": 1,
+        "value": "20px"
+      }
+    ],
+    "font_weights": [
+      {
+        "count": 121,
+        "value": "400"
+      },
+      {
+        "count": 8,
+        "value": "500"
+      },
+      {
+        "count": 6,
+        "value": "600"
+      },
+      {
+        "count": 3,
+        "value": "700"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 137,
+        "value": "-apple-system, BlinkMacSystemFont, \"Trebuchet MS\", Roboto, Ubuntu, sans-serif"
+      },
+      {
+        "count": 1,
+        "value": "\"Plus Jakarta Sans\", sans-serif"
+      }
+    ],
+    "max_widths": [],
+    "radii": [
+      {
+        "count": 74,
+        "value": "4px"
+      },
+      {
+        "count": 33,
+        "value": "50%"
+      },
+      {
+        "count": 15,
+        "value": "2px"
+      },
+      {
+        "count": 14,
+        "value": "6px"
+      },
+      {
+        "count": 4,
+        "value": "14px"
+      },
+      {
+        "count": 2,
+        "value": "1px"
+      },
+      {
+        "count": 1,
+        "value": "8px"
+      }
+    ],
+    "shadows": [
+      {
+        "count": 1,
+        "value": "rgba(20, 62, 178, 0.3) 0px 1px 2px 0px, rgba(20, 62, 178, 0.45) 0px 12px 28px -8px"
+      },
+      {
+        "count": 1,
+        "value": "rgb(169, 194, 255) 0px 0px 0px 3px"
+      },
+      {
+        "count": 1,
+        "value": "rgb(0, 0, 0) 0px 0px 0px 1px inset"
+      }
+    ],
+    "spacing": [
+      {
+        "count": 160,
+        "value": "4px"
+      },
+      {
+        "count": 49,
+        "value": "5px"
+      },
+      {
+        "count": 34,
+        "value": "2px"
+      },
+      {
+        "count": 34,
+        "value": "6px"
+      },
+      {
+        "count": 23,
+        "value": "12px"
+      },
+      {
+        "count": 20,
+        "value": "16px"
+      },
+      {
+        "count": 16,
+        "value": "1px"
+      },
+      {
+        "count": 10,
+        "value": "8px"
+      },
+      {
+        "count": 6,
+        "value": "10px"
+      },
+      {
+        "count": 2,
+        "value": "18px"
+      },
+      {
+        "count": 1,
+        "value": "14px"
+      }
+    ],
+    "text_colors": [
+      {
+        "count": 68,
+        "value": "#000000"
+      },
+      {
+        "count": 28,
+        "value": "#f23645"
+      },
+      {
+        "count": 17,
+        "value": "#707070"
+      },
+      {
+        "count": 13,
+        "value": "#089981"
+      },
+      {
+        "count": 3,
+        "value": "#ffffff"
+      },
+      {
+        "count": 3,
+        "value": "#ad1457"
+      },
+      {
+        "count": 3,
+        "value": "#2962ff"
+      },
+      {
+        "count": 1,
+        "value": "#143eb2"
+      },
+      {
+        "count": 1,
+        "value": "#22ab94"
+      },
+      {
+        "count": 1,
+        "value": "#4527a0"
+      }
+    ]
+  },
+  "forms": [],
+  "headings": [
+    {
+      "level": 3,
+      "text": "Draw right on your chart"
+    }
+  ],
+  "lang": "en",
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "background": "#ffffff",
+          "h": 38,
+          "pad": [
+            0,
+            4,
+            0,
+            8
+          ],
+          "per_row": 1,
+          "tag": "header",
+          "w": 1440,
+          "y": 0
+        },
+        {
+          "gap": 4,
+          "h": 858,
+          "heading": "Draw right on your chart",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 1440,
+          "y": 42
+        },
+        {
+          "background": "#ffffff",
+          "h": 858,
+          "pad": [
+            10,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "aside",
+          "w": 52,
+          "y": 42
+        },
+        {
+          "background": "#ffffff",
+          "h": 858,
+          "pad": [
+            6,
+            0,
+            6,
+            0
+          ],
+          "per_row": 1,
+          "tag": "aside",
+          "w": 42,
+          "y": 42
+        }
+      ],
+      "page_h": 900,
+      "page_w": 1440,
+      "type": {
+        "body": 13,
+        "h1": 0,
+        "h2": 0,
+        "h3": 14
+      },
+      "width": 1440
+    },
+    {
+      "blocks": [
+        {
+          "background": "#ffffff",
+          "h": 38,
+          "pad": [
+            0,
+            4,
+            0,
+            8
+          ],
+          "per_row": 1,
+          "tag": "header",
+          "w": 768,
+          "y": 0
+        },
+        {
+          "gap": 4,
+          "h": 858,
+          "heading": "Draw right on your chart",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 768,
+          "y": 42
+        },
+        {
+          "background": "#ffffff",
+          "h": 858,
+          "pad": [
+            10,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "aside",
+          "w": 52,
+          "y": 42
+        },
+        {
+          "background": "#ffffff",
+          "h": 858,
+          "pad": [
+            6,
+            0,
+            6,
+            0
+          ],
+          "per_row": 1,
+          "tag": "aside",
+          "w": 42,
+          "y": 42
+        }
+      ],
+      "page_h": 900,
+      "page_w": 768,
+      "type": {
+        "body": 13,
+        "h1": 0,
+        "h2": 0,
+        "h3": 14
+      },
+      "width": 768
+    },
+    {
+      "blocks": [
+        {
+          "background": "#ffffff",
+          "h": 38,
+          "pad": [
+            0,
+            4,
+            0,
+            8
+          ],
+          "per_row": 1,
+          "tag": "header",
+          "w": 390,
+          "y": 0
+        },
+        {
+          "gap": 4,
+          "h": 858,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 390,
+          "y": 42
+        },
+        {
+          "background": "#ffffff",
+          "h": 858,
+          "pad": [
+            10,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "aside",
+          "w": 52,
+          "y": 42
+        }
+      ],
+      "page_h": 900,
+      "page_w": 390,
+      "type": {
+        "body": 0,
+        "h1": 0,
+        "h2": 0,
+        "h3": 0
+      },
+      "width": 390
+    }
+  ],
+  "links": [
+    {
+      "href": "http://127.0.0.1:36535/brokers/",
+      "text": "Trade"
+    },
+    {
+      "href": "http://127.0.0.1:36535/brokers/",
+      "text": "Upgrade"
+    },
+    {
+      "href": "http://127.0.0.1:36535/ideas/",
+      "text": "Keep reading ›"
+    }
+  ],
+  "outline": [
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 38,
+        "w": 1440,
+        "x": 0,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 3,
+      "display": "flex",
+      "flex": "row",
+      "font": "13px 400",
+      "role": "toolbar",
+      "tag": "header"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 36,
+        "x": 8,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 17,
+        "y": 10
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#f2f2f2",
+      "box": {
+        "h": 28,
+        "w": 130,
+        "x": 48,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 700",
+      "tag": "button",
+      "text": "AAPL"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 22,
+        "x": 152,
+        "y": 7
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "14px 700",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 184,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 189,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 235,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "D"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 286,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 291,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 105,
+        "x": 337,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Indicators"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 342,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 22,
+        "x": 442,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 444,
+        "y": 10
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 73,
+        "x": 477,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Alert"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 482,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 86,
+        "x": 550,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Replay"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 555,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 649,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 654,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 687,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 692,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 974,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 979,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 48,
+        "x": 1012,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Save"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 22,
+        "x": 1060,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1062,
+        "y": 10
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1082,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1087,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1120,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1125,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1158,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1163,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1196,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1201,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1234,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1239,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 64,
+        "x": 1282,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:36535/brokers/",
+      "tag": "a",
+      "text": "Trade"
+    },
+    {
+      "background": "#000000",
+      "box": {
+        "h": 28,
+        "w": 82,
+        "x": 1352,
+        "y": 5
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:36535/brokers/",
+      "tag": "a",
+      "text": "Upgrade"
+    },
+    {
+      "box": {
+        "h": 858,
+        "w": 1440,
+        "x": 0,
+        "y": 42
+      },
+      "color": "#000000",
+      "depth": 3,
+      "display": "grid",
+      "font": "13px 400",
+      "grid": "52px 1034px 300px 42px",
+      "tag": "section"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 858,
+        "w": 52,
+        "x": 0,
+        "y": 42
+      },
+      "color": "#000000",
+      "depth": 4,
+      "display": "flex",
+      "flex": "column",
+      "font": "13px 400",
+      "tag": "aside"
+    },
+    {
+      "background": "#f2f2f2",
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 53
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 56
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 92
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 95
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 131
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 134
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 170
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 173
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 209
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 212
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 248
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 251
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 287
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 290
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 326
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 329
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 374
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 377
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 413
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 416
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 452
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 455
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 500
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 503
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 539
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 542
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 578
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 581
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 617
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 620
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 34,
+        "x": 9,
+        "y": 665
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 668
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 65,
+        "y": 49
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "13px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%23111%22%2F%3E%3Cpath%20transform%3D%22translate(8.5%207.5)%20scale(.82)%22%20fill%3D%22%23fff%22%20d%3D%22M16.4%2012.6c0-2.3%201.9-3.4%202-3.5-1.1-1.6-2.8-1.8-3.4-1.8-1.4-.1-2.8.9-3.5.9-.7%200-1.8-.8-3-.8-1.5%200-3%20.9-3.8%202.3-1.6%202.8-.4%207%201.2%209.3.8%201.1%201.7%202.4%202.9%202.3%201.2%200%201.6-.7%203-.7s1.8.7%203%20.7c1.3%200%202.1-1.1%202.8-2.3.9-1.3%201.3-2.5%201.3-2.6%200%200-2.5-1-2.5-3.8zM14.1%205.8c.6-.8%201.1-1.8%201-2.8-.9%200-2%20.6-2.6%201.4-.6.7-1.1%201.7-1%202.7%201%20.1%202-.5%202.6-1.3z%22%2F%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 195,
+        "x": 87,
+        "y": 48
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "17px 400",
+      "tag": "button",
+      "text": "Apple Inc · 1D · NASDAQ"
+    },
+    {
+      "box": {
+        "h": 12,
+        "w": 12,
+        "x": 296,
+        "y": 52
+      },
+      "color": "#143eb2",
+      "depth": 9,
+      "font": "12px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 34,
+        "w": 64,
+        "x": 65,
+        "y": 72
+      },
+      "color": "#f23645",
+      "depth": 8,
+      "font": "13px 400",
+      "tag": "button",
+      "text": "349.24 SELL"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 34,
+        "w": 64,
+        "x": 167,
+        "y": 72
+      },
+      "color": "#2962ff",
+      "depth": 8,
+      "font": "13px 400",
+      "tag": "button",
+      "text": "349.27 BUY"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 20,
+        "w": 28,
+        "x": 65,
+        "y": 140
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 70,
+        "y": 141
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 24,
+        "w": 30,
+        "x": 68,
+        "y": 803
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 157,
+        "w": 252,
+        "x": 72,
+        "y": 306
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "13px 400",
+      "role": "dialog",
+      "tag": "div",
+      "text": "Draw right on your chart Pick a tool on the left, then click on the chart to add trend lines, levels and notes. Got it"
+    },
+    {
+      "box": {
+        "h": 17,
+        "w": 220,
+        "x": 88,
+        "y": 322
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "14px 600",
+      "tag": "h3",
+      "text": "Draw right on your chart"
+    },
+    {
+      "box": {
+        "h": 54,
+        "w": 220,
+        "x": 88,
+        "y": 349
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "13px 400",
+      "tag": "p",
+      "text": "Pick a tool on the left, then click on the chart to add trend lines, levels and notes."
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 28,
+        "w": 51,
+        "x": 257,
+        "y": 419
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Got it"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 26,
+        "x": 64,
+        "y": 868
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "1D"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 29,
+        "x": 90,
+        "y": 868
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "5D"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 118,
+        "y": 868
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "1M"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 31,
+        "x": 147,
+        "y": 868
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "3M"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 31,
+        "x": 178,
+        "y": 868
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "6M"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 39,
+        "x": 209,
+        "y": 868
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "YTD"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 25,
+        "x": 248,
+        "y": 868
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "1Y"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 274,
+        "y": 868
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "5Y"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 26,
+        "x": 302,
+        "y": 868
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "All"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 34,
+        "x": 341,
+        "y": 868
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 346,
+        "y": 870
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 40,
+        "x": 1046,
+        "y": 868
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "ADJ"
+    },
+    {
+      "background": "#ebebeb",
+      "box": {
+        "h": 858,
+        "w": 300,
+        "x": 1094,
+        "y": 42
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "13px 400",
+      "role": "region",
+      "tag": "div",
+      "text": "Watchlist Symbol Last Chg Chg% INDICES SPX 7,177.67 −146.10 −1.99% NDQ 26,512.68 −603.64 −2.23% DJI 49,091.17 −1,110.15 −2.21% VIX 28.44 +3.88 +15.82% DXY 103.93 +0.12 +0.11% STOCKS AAPL 349.26 −3.20 "
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 85,
+        "x": 1110,
+        "y": 51
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 600",
+      "tag": "button",
+      "text": "Watchlist"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1175,
+        "y": 57
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 600",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 38,
+        "x": 1272,
+        "y": 49
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1277,
+        "y": 52
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 38,
+        "x": 1310,
+        "y": 49
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1315,
+        "y": 52
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 38,
+        "x": 1348,
+        "y": 49
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1353,
+        "y": 52
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 88,
+        "x": 1108,
+        "y": 91
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Symbol"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 72,
+        "x": 1196,
+        "y": 91
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Last"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 58,
+        "x": 1268,
+        "y": 91
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Chg"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 64,
+        "x": 1326,
+        "y": 91
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Chg%"
+    },
+    {
+      "box": {
+        "h": 350,
+        "w": 300,
+        "x": 1094,
+        "y": 120
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "role": "list",
+      "tag": "div",
+      "text": "INDICES SPX 7,177.67 −146.10 −1.99% NDQ 26,512.68 −603.64 −2.23% DJI 49,091.17 −1,110.15 −2.21% VIX 28.44 +3.88 +15.82% DXY 103.93 +0.12 +0.11% STOCKS AAPL 349.26 −3.20 −0.91% TSLA 374.10 −9.64 −2.51%"
+    },
+    {
+      "box": {
+        "h": 32,
+        "w": 285,
+        "x": 1094,
+        "y": 124
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "11px 400",
+      "tag": "button",
+      "text": "INDICES"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1110,
+        "y": 133
+      },
+      "color": "#707070",
+      "depth": 8,
+      "font": "11px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 156
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "SPX 7,177.67 −146.10 −1.99%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 163
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%23c4122f%22%2F%3E%3Ctext%20x%3D%2218%22%20y%3D%2218%22%20dy%3D%22.36em%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2215%22%20letter-spacing%3D%22-0.5%22%20fill%3D%22%23fff%22%3E500%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 186
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "NDQ 26,512.68 −603.64 −2.23%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 193
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%230b97c4%22%2F%3E%3Ctext%20x%3D%2218%22%20y%3D%2218%22%20dy%3D%22.36em%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2215%22%20letter-spacing%3D%22-0.5%22%20fill%3D%22%23fff%22%3E100%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 216
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "DJI 49,091.17 −1,110.15 −2.21%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 223
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%2320a7d8%22%2F%3E%3Ctext%20x%3D%2218%22%20y%3D%2218%22%20dy%3D%22.36em%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2218%22%20letter-spacing%3D%22-0.5%22%20fill%3D%22%23fff%22%3E30%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 246
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "VIX 28.44 +3.88 +15.82%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 253
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%232fa84f%22%2F%3E%3Ctext%20x%3D%2218%22%20y%3D%2218%22%20dy%3D%22.36em%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2221%22%20letter-spacing%3D%22-0.5%22%20fill%3D%22%23fff%22%3E%E2%96%B6%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 276
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "DXY 103.93 +0.12 +0.11%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 283
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%230b7a5c%22%2F%3E%3Ctext%20x%3D%2218%22%20y%3D%2218%22%20dy%3D%22.36em%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2221%22%20letter-spacing%3D%22-0.5%22%20fill%3D%22%23fff%22%3E%24%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 32,
+        "w": 285,
+        "x": 1094,
+        "y": 310
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "11px 400",
+      "tag": "button",
+      "text": "STOCKS"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1110,
+        "y": 319
+      },
+      "color": "#707070",
+      "depth": 8,
+      "font": "11px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 342
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "AAPL 349.26 −3.20 −0.91%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 349
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%23111%22%2F%3E%3Cpath%20transform%3D%22translate(8.5%207.5)%20scale(.82)%22%20fill%3D%22%23fff%22%20d%3D%22M16.4%2012.6c0-2.3%201.9-3.4%202-3.5-1.1-1.6-2.8-1.8-3.4-1.8-1.4-.1-2.8.9-3.5.9-.7%200-1.8-.8-3-.8-1.5%200-3%20.9-3.8%202.3-1.6%202.8-.4%207%201.2%209.3.8%201.1%201.7%202.4%202.9%202.3%201.2%200%201.6-.7%203-.7s1.8.7%203%20.7c1.3%200%202.1-1.1%202.8-2.3.9-1.3%201.3-2.5%201.3-2.6%200%200-2.5-1-2.5-3.8zM14.1%205.8c.6-.8%201.1-1.8%201-2.8-.9%200-2%20.6-2.6%201.4-.6.7-1.1%201.7-1%202.7%201%20.1%202-.5%202.6-1.3z%22%2F%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 22,
+        "w": 22,
+        "x": 1349,
+        "y": 346
+      },
+      "color": "#707070",
+      "depth": 8,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1351,
+        "y": 348
+      },
+      "color": "#707070",
+      "depth": 9,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 372
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "TSLA 374.10 −9.64 −2.51%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 379
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%23e31937%22%2F%3E%3Ctext%20x%3D%2218%22%20y%3D%2218%22%20dy%3D%22.36em%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2221%22%20letter-spacing%3D%22-0.5%22%20fill%3D%22%23fff%22%3ET%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 402
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "NFLX 58.45 −1.37 −2.29%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 409
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%23000%22%2F%3E%3Ctext%20x%3D%2218%22%20y%3D%2218%22%20dy%3D%22.36em%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2221%22%20letter-spacing%3D%22-0.5%22%20fill%3D%22%23e50914%22%3EN%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 32,
+        "w": 285,
+        "x": 1094,
+        "y": 436
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "11px 400",
+      "tag": "button",
+      "text": "FUTURES"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1110,
+        "y": 445
+      },
+      "color": "#707070",
+      "depth": 8,
+      "font": "11px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 468
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "CL1! 82.45 +0.14 +0.17%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 475
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%23111%22%2F%3E%3Ctext%20x%3D%2218%22%20y%3D%2218%22%20dy%3D%22.36em%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2221%22%20letter-spacing%3D%22-0.5%22%20fill%3D%22%23fff%22%3E%E2%97%8F%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 498
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "GC1! 3,684.56 −57.45 −1.54%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 505
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%23d6a017%22%2F%3E%3Ctext%20x%3D%2218%22%20y%3D%2218%22%20dy%3D%22.36em%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2221%22%20letter-spacing%3D%22-0.5%22%20fill%3D%22%23fff%22%3E%E2%96%B2%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 528
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "SI1! 44.35 −0.71 −1.58%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 535
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%239aa0a8%22%2F%3E%3Ctext%20x%3D%2218%22%20y%3D%2218%22%20dy%3D%22.36em%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2221%22%20letter-spacing%3D%22-0.5%22%20fill%3D%22%23fff%22%3E%E2%96%B2%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 32,
+        "w": 285,
+        "x": 1094,
+        "y": 562
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "11px 400",
+      "tag": "button",
+      "text": "FOREX"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1110,
+        "y": 571
+      },
+      "color": "#707070",
+      "depth": 8,
+      "font": "11px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 594
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "EURUSD 1.0982 +0.0002 +0.02%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 601
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%231e4fb4%22%2F%3E%3Ctext%20x%3D%2218%22%20y%3D%2218%22%20dy%3D%22.36em%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2221%22%20letter-spacing%3D%22-0.5%22%20fill%3D%22%23fff%22%3E%E2%82%AC%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 624
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "GBPUSD 1.2713 −0.0025 −0.19%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 631
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%231a2a6c%22%2F%3E%3Ctext%20x%3D%2218%22%20y%3D%2218%22%20dy%3D%22.36em%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2221%22%20letter-spacing%3D%22-0.5%22%20fill%3D%22%23fff%22%3E%C2%A3%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 32,
+        "w": 285,
+        "x": 1094,
+        "y": 658
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "11px 400",
+      "tag": "button",
+      "text": "CRYPTO"
+    },
+    {
+      "box": {
+        "h": 14,
+        "w": 14,
+        "x": 1110,
+        "y": 667
+      },
+      "color": "#707070",
+      "depth": 8,
+      "font": "11px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 690
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "BTCUSD 61,712.06 −1,264.16 −2.01%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 697
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%23f7931a%22%2F%3E%3Ctext%20x%3D%2218%22%20y%3D%2218%22%20dy%3D%22.36em%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2221%22%20letter-spacing%3D%22-0.5%22%20fill%3D%22%23fff%22%3E%E2%82%BF%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 281,
+        "x": 1096,
+        "y": 720
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "listitem",
+      "tag": "div",
+      "text": "ETHUSD 1,745.21 −28.85 −1.63%"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1110,
+        "y": 727
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%234b5a9a%22%2F%3E%3Ctext%20x%3D%2218%22%20y%3D%2218%22%20dy%3D%22.36em%22%20text-anchor%3D%22middle%22%20font-family%3D%22Arial%2C%20Helvetica%2C%20sans-serif%22%20font-weight%3D%22700%22%20font-size%3D%2221%22%20letter-spacing%3D%22-0.5%22%20fill%3D%22%23fff%22%3E%E2%97%86%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 1110,
+        "y": 487
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "13px 400",
+      "src": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2036%2036%22%3E%3Ccircle%20cx%3D%2218%22%20cy%3D%2218%22%20r%3D%2218%22%20fill%3D%22%23111%22%2F%3E%3Cpath%20transform%3D%22translate(8.5%207.5)%20scale(.82)%22%20fill%3D%22%23fff%22%20d%3D%22M16.4%2012.6c0-2.3%201.9-3.4%202-3.5-1.1-1.6-2.8-1.8-3.4-1.8-1.4-.1-2.8.9-3.5.9-.7%200-1.8-.8-3-.8-1.5%200-3%20.9-3.8%202.3-1.6%202.8-.4%207%201.2%209.3.8%201.1%201.7%202.4%202.9%202.3%201.2%200%201.6-.7%203-.7s1.8.7%203%20.7c1.3%200%202.1-1.1%202.8-2.3.9-1.3%201.3-2.5%201.3-2.6%200%200-2.5-1-2.5-3.8zM14.1%205.8c.6-.8%201.1-1.8%201-2.8-.9%200-2%20.6-2.6%201.4-.6.7-1.1%201.7-1%202.7%201%20.1%202-.5%202.6-1.3z%22%2F%3E%3C%2Fsvg%3E",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 38,
+        "x": 1233,
+        "y": 482
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1238,
+        "y": 485
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 38,
+        "x": 1279,
+        "y": 482
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1284,
+        "y": 485
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 38,
+        "x": 1325,
+        "y": 482
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1330,
+        "y": 485
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1172,
+        "y": 526
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 12,
+        "w": 12,
+        "x": 1110,
+        "y": 697
+      },
+      "color": "#2962ff",
+      "depth": 7,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 1122,
+        "y": 816
+      },
+      "color": "#4527a0",
+      "depth": 8,
+      "font": "12.5px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 64,
+        "w": 229,
+        "x": 1122,
+        "y": 836
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "12.5px 400",
+      "tag": "p",
+      "text": "Apple Inc (AAPL) is a sample listing in this demo. Prices move randomly every second so you can try out the chart tools."
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 87,
+        "x": 1122,
+        "y": 906
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12.5px 400",
+      "href": "http://127.0.0.1:36535/ideas/",
+      "tag": "a",
+      "text": "Keep reading ›"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 858,
+        "w": 42,
+        "x": 1398,
+        "y": 42
+      },
+      "color": "#000000",
+      "depth": 4,
+      "display": "flex",
+      "flex": "column",
+      "font": "13px 400",
+      "tag": "aside"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1400,
+        "y": 52
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1405,
+        "y": 57
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1400,
+        "y": 98
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1405,
+        "y": 103
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1400,
+        "y": 144
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1405,
+        "y": 149
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1400,
+        "y": 438
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1405,
+        "y": 443
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1400,
+        "y": 484
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1405,
+        "y": 489
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1400,
+        "y": 530
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1405,
+        "y": 535
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1400,
+        "y": 576
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1405,
+        "y": 581
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1400,
+        "y": 622
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1405,
+        "y": 627
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1400,
+        "y": 668
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1405,
+        "y": 673
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1400,
+        "y": 714
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1405,
+        "y": 719
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1400,
+        "y": 760
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1405,
+        "y": 765
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1400,
+        "y": 806
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 30,
+        "x": 1404,
+        "y": 810
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1400,
+        "y": 852
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1405,
+        "y": 857
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "13px 400",
+      "tag": "svg"
+    }
+  ],
+  "page": {
+    "h": 900,
+    "w": 1440
+  },
+  "sign_in_page": false,
+  "signed_in": false,
+  "signed_in_site": null,
+  "text": "AAPL D Indicators Alert Replay Save Trade Upgrade Apple Inc · 1D · NASDAQ Post-market ≈ 1s updates · Simulated data O348.43 H354.03 L341.30 C349.26 +1.74 (+0.50%) 349.24 SELL 0.03 349.27 BUY Vol 26.86 M Tickerra Draw right on your chart Pick a tool on the left, then click on the chart to add trend lines, levels and notes. Got it 1D 5D 1M 3M 6M YTD 1Y 5Y All 22:57:02 UTC ADJ Watchlist Symbol Last Chg Chg% INDICES SPX 7,177.67 −146.10 −1.99% NDQ 26,512.68 −603.64 −2.23% DJI 49,091.17 −1,110.15 −2.21% VIX 28.44 +3.88 +15.82% DXY 103.93 +0.12 +0.11% STOCKS AAPL 349.26 −3.20 −0.91% TSLA 374.10 −9.64 −2.51% NFLX 58.45 −1.37 −2.29% FUTURES CL1! 82.45 +0.14 +0.17% GC1! 3,684.56 −57.45 −1.54% SI1! 44.35 −0.71 −1.58% FOREX EURUSD 1.0982 +0.0002 +0.02% GBPUSD 1.2713 −0.0025 −0.19% CRYPTO BTCUSD 61,712.06 −1,264.16 −2.01% ETHUSD 1,745.21 −28.85 −1.63% AAPL Apple Inc • NASDAQ Electronic Technology • Telecommunications Equipment 349.26 USD −3.20 −0.91% Last update at 22:57 GMT+0 349.09 USD −0.16 −0.05% Post-market Last update at 22:57 GMT+0 Volume 29.83 M Avg. volume (30D) 33.42 M Key facts Apple Inc (AAPL) is a sample listing in this demo. Prices move randomly every second so you can try out the chart tools. Keep reading ›",
+  "title": "AAPL 349.26 ▼ −0.91%",
+  "url": "http://127.0.0.1:36535/chart/",
+  "viewport": {
+    "h": 900,
+    "w": 1440
+  }
+}

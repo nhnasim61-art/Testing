@@ -1,0 +1,1 @@
+The builder was refused permission for changing the system, its settings or users, system files, or Craft Anything's own records. To ask before trying again, use Approvals or type /approvals system ask.

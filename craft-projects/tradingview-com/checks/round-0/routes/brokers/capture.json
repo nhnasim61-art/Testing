@@ -1,0 +1,7082 @@
+{
+  "a11y": {
+    "images_without_alt": 0,
+    "landmarks": {
+      "banner": 1,
+      "contentinfo": 1,
+      "main": 1,
+      "navigation": 1
+    },
+    "lang": "en",
+    "unnamed_controls": 0,
+    "unnamed_examples": []
+  },
+  "assets": {
+    "images": []
+  },
+  "design": {
+    "backgrounds": [
+      {
+        "count": 51,
+        "value": "#ffffff"
+      },
+      {
+        "count": 14,
+        "value": "#8a97ad"
+      },
+      {
+        "count": 11,
+        "value": "#c99a2e"
+      },
+      {
+        "count": 9,
+        "value": "#131313"
+      },
+      {
+        "count": 7,
+        "value": "#222222"
+      },
+      {
+        "count": 7,
+        "value": "#1e4fd8"
+      },
+      {
+        "count": 6,
+        "value": "#1a1a1a"
+      },
+      {
+        "count": 6,
+        "value": "#0f766e"
+      },
+      {
+        "count": 6,
+        "value": "#1d4ed8"
+      },
+      {
+        "count": 6,
+        "value": "#f59e0b"
+      },
+      {
+        "count": 6,
+        "value": "#be123c"
+      },
+      {
+        "count": 6,
+        "value": "#e5e7eb"
+      },
+      {
+        "count": 6,
+        "value": "#4c1d95"
+      },
+      {
+        "count": 6,
+        "value": "#065f46"
+      },
+      {
+        "count": 6,
+        "value": "#0c4a6e"
+      },
+      {
+        "count": 3,
+        "value": "#111111"
+      }
+    ],
+    "font_sizes": [
+      {
+        "count": 299,
+        "value": "14px"
+      },
+      {
+        "count": 158,
+        "value": "12px"
+      },
+      {
+        "count": 96,
+        "value": "15px"
+      },
+      {
+        "count": 33,
+        "value": "10px"
+      },
+      {
+        "count": 32,
+        "value": "36px"
+      },
+      {
+        "count": 32,
+        "value": "96px"
+      },
+      {
+        "count": 16,
+        "value": "28px"
+      },
+      {
+        "count": 8,
+        "value": "16px"
+      },
+      {
+        "count": 1,
+        "value": "25px"
+      },
+      {
+        "count": 1,
+        "value": "120px"
+      },
+      {
+        "count": 1,
+        "value": "18px"
+      },
+      {
+        "count": 1,
+        "value": "20px"
+      },
+      {
+        "count": 1,
+        "value": "95.04px"
+      }
+    ],
+    "font_weights": [
+      {
+        "count": 353,
+        "value": "400"
+      },
+      {
+        "count": 211,
+        "value": "600"
+      },
+      {
+        "count": 72,
+        "value": "500"
+      },
+      {
+        "count": 32,
+        "value": "800"
+      },
+      {
+        "count": 11,
+        "value": "700"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 675,
+        "value": "-apple-system, BlinkMacSystemFont, \"Trebuchet MS\", Roboto, Ubuntu, sans-serif"
+      },
+      {
+        "count": 4,
+        "value": "\"Plus Jakarta Sans\", sans-serif"
+      }
+    ],
+    "max_widths": [
+      {
+        "count": 1,
+        "value": "9999px"
+      }
+    ],
+    "radii": [
+      {
+        "count": 96,
+        "value": "36px"
+      },
+      {
+        "count": 58,
+        "value": "6px"
+      },
+      {
+        "count": 40,
+        "value": "24px"
+      },
+      {
+        "count": 35,
+        "value": "4px"
+      },
+      {
+        "count": 33,
+        "value": "50%"
+      },
+      {
+        "count": 1,
+        "value": "20px"
+      },
+      {
+        "count": 1,
+        "value": "8px 0px 0px 8px"
+      },
+      {
+        "count": 1,
+        "value": "8px"
+      }
+    ],
+    "shadows": [
+      {
+        "count": 1,
+        "value": "rgba(80, 110, 200, 0.18) 0px -30px 120px 0px"
+      }
+    ],
+    "spacing": [
+      {
+        "count": 192,
+        "value": "8px"
+      },
+      {
+        "count": 128,
+        "value": "30px"
+      },
+      {
+        "count": 107,
+        "value": "40px"
+      },
+      {
+        "count": 73,
+        "value": "12px"
+      },
+      {
+        "count": 70,
+        "value": "6px"
+      },
+      {
+        "count": 68,
+        "value": "3px"
+      },
+      {
+        "count": 64,
+        "value": "28px"
+      },
+      {
+        "count": 38,
+        "value": "10px"
+      },
+      {
+        "count": 32,
+        "value": "54px"
+      },
+      {
+        "count": 32,
+        "value": "22px"
+      },
+      {
+        "count": 24,
+        "value": "24px"
+      },
+      {
+        "count": 19,
+        "value": "26px"
+      },
+      {
+        "count": 18,
+        "value": "4px"
+      },
+      {
+        "count": 4,
+        "value": "16px"
+      },
+      {
+        "count": 4,
+        "value": "20px"
+      },
+      {
+        "count": 2,
+        "value": "50px"
+      },
+      {
+        "count": 1,
+        "value": "18px"
+      },
+      {
+        "count": 1,
+        "value": "64px"
+      },
+      {
+        "count": 1,
+        "value": "1px"
+      },
+      {
+        "count": 1,
+        "value": "178px"
+      },
+      {
+        "count": 1,
+        "value": "77px"
+      },
+      {
+        "count": 1,
+        "value": "-228px"
+      },
+      {
+        "count": 1,
+        "value": "56px"
+      }
+    ],
+    "text_colors": [
+      {
+        "count": 471,
+        "value": "#ffffff"
+      },
+      {
+        "count": 102,
+        "value": "#dbdbdb"
+      },
+      {
+        "count": 51,
+        "value": "#000000"
+      },
+      {
+        "count": 21,
+        "value": "#555555"
+      },
+      {
+        "count": 17,
+        "value": "#707070"
+      },
+      {
+        "count": 7,
+        "value": "#111111"
+      },
+      {
+        "count": 5,
+        "value": "#b8b8b8"
+      },
+      {
+        "count": 1,
+        "value": "#8c8c8c"
+      },
+      {
+        "count": 1,
+        "value": "#2962ff"
+      },
+      {
+        "count": 1,
+        "value": "#ff4b1f"
+      },
+      {
+        "count": 1,
+        "value": "#3b82f6"
+      },
+      {
+        "count": 1,
+        "value": "#143eb2"
+      }
+    ]
+  },
+  "forms": [],
+  "headings": [
+    {
+      "level": 1,
+      "text": "Made to trade"
+    },
+    {
+      "level": 2,
+      "text": "Orbitex PLATINUM"
+    },
+    {
+      "level": 2,
+      "text": "nimbly GOLD"
+    },
+    {
+      "level": 2,
+      "text": "Ondra FX PLATINUM BEST 2025"
+    },
+    {
+      "level": 2,
+      "text": "NorthTrader PLATINUM"
+    },
+    {
+      "level": 2,
+      "text": "FXcorner PLATINUM"
+    },
+    {
+      "level": 2,
+      "text": "Tradeloft GOLD"
+    },
+    {
+      "level": 2,
+      "text": "Amplio Futures PLATINUM"
+    },
+    {
+      "level": 2,
+      "text": "Stationary PLATINUM BEST 2025"
+    },
+    {
+      "level": 2,
+      "text": "Pepperleaf GOLD"
+    },
+    {
+      "level": 2,
+      "text": "Intercross PLATINUM"
+    },
+    {
+      "level": 2,
+      "text": "Coinbay Advanced GOLD"
+    },
+    {
+      "level": 2,
+      "text": "tastybite SILVER"
+    },
+    {
+      "level": 2,
+      "text": "EdgeLine SILVER"
+    },
+    {
+      "level": 2,
+      "text": "Capitalia GOLD"
+    },
+    {
+      "level": 2,
+      "text": "BlueHarbor SILVER"
+    },
+    {
+      "level": 2,
+      "text": "Kestrel Markets SILVER"
+    },
+    {
+      "level": 2,
+      "text": "Fernway GOLD"
+    },
+    {
+      "level": 2,
+      "text": "Quayside Trading SILVER"
+    },
+    {
+      "level": 2,
+      "text": "Mintleaf SILVER"
+    },
+    {
+      "level": 2,
+      "text": "Granite Peak GOLD"
+    },
+    {
+      "level": 2,
+      "text": "Lattice Markets SILVER"
+    },
+    {
+      "level": 2,
+      "text": "Copperline SILVER"
+    },
+    {
+      "level": 2,
+      "text": "Bluefin Securities GOLD"
+    },
+    {
+      "level": 2,
+      "text": "Halcyon FX SILVER"
+    },
+    {
+      "level": 2,
+      "text": "Summit Route SILVER"
+    },
+    {
+      "level": 2,
+      "text": "Pinecrest GOLD"
+    },
+    {
+      "level": 2,
+      "text": "Ironbark SILVER"
+    },
+    {
+      "level": 2,
+      "text": "Wavecrest SILVER"
+    },
+    {
+      "level": 2,
+      "text": "Larkspur GOLD"
+    },
+    {
+      "level": 2,
+      "text": "Tidewater SILVER"
+    },
+    {
+      "level": 2,
+      "text": "Redwood Lane SILVER"
+    },
+    {
+      "level": 2,
+      "text": "Sablestone GOLD"
+    }
+  ],
+  "lang": "en",
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "h": 64,
+          "pad": [
+            0,
+            40,
+            0,
+            40
+          ],
+          "per_row": 1,
+          "tag": "header",
+          "w": 1425,
+          "y": 0
+        },
+        {
+          "h": 64,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 5,
+          "tag": "nav",
+          "w": 487,
+          "y": 0
+        },
+        {
+          "h": 14126,
+          "heading": "Made to trade",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "main",
+          "w": 1425,
+          "y": 0
+        },
+        {
+          "h": 836,
+          "heading": "Made to trade",
+          "pad": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1425,
+          "y": 0
+        },
+        {
+          "h": 372,
+          "heading": "Orbitex PLATINUM",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 608
+        },
+        {
+          "h": 372,
+          "heading": "nimbly GOLD",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 1030
+        },
+        {
+          "h": 372,
+          "heading": "Ondra FX PLATINUM BEST 2025",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 1452
+        },
+        {
+          "h": 372,
+          "heading": "NorthTrader PLATINUM",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 1874
+        },
+        {
+          "h": 372,
+          "heading": "FXcorner PLATINUM",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 2296
+        },
+        {
+          "h": 372,
+          "heading": "Tradeloft GOLD",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 2718
+        },
+        {
+          "h": 372,
+          "heading": "Amplio Futures PLATINUM",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 3140
+        },
+        {
+          "h": 372,
+          "heading": "Stationary PLATINUM BEST 2025",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 3562
+        },
+        {
+          "h": 372,
+          "heading": "Pepperleaf GOLD",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 3984
+        },
+        {
+          "h": 372,
+          "heading": "Intercross PLATINUM",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 4406
+        },
+        {
+          "h": 372,
+          "heading": "Coinbay Advanced GOLD",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 4828
+        },
+        {
+          "h": 372,
+          "heading": "tastybite SILVER",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 5250
+        },
+        {
+          "h": 372,
+          "heading": "EdgeLine SILVER",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 5672
+        },
+        {
+          "h": 372,
+          "heading": "Capitalia GOLD",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 6094
+        },
+        {
+          "h": 372,
+          "heading": "BlueHarbor SILVER",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 6516
+        },
+        {
+          "h": 372,
+          "heading": "Kestrel Markets SILVER",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 6938
+        },
+        {
+          "h": 372,
+          "heading": "Fernway GOLD",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 7360
+        },
+        {
+          "h": 372,
+          "heading": "Quayside Trading SILVER",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 7782
+        },
+        {
+          "h": 372,
+          "heading": "Mintleaf SILVER",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 8204
+        },
+        {
+          "h": 372,
+          "heading": "Granite Peak GOLD",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 8626
+        },
+        {
+          "h": 372,
+          "heading": "Lattice Markets SILVER",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 9048
+        },
+        {
+          "h": 372,
+          "heading": "Copperline SILVER",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 9470
+        },
+        {
+          "h": 372,
+          "heading": "Bluefin Securities GOLD",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 9892
+        },
+        {
+          "h": 372,
+          "heading": "Halcyon FX SILVER",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 10314
+        },
+        {
+          "h": 372,
+          "heading": "Summit Route SILVER",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 10736
+        },
+        {
+          "h": 372,
+          "heading": "Pinecrest GOLD",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 11158
+        },
+        {
+          "h": 372,
+          "heading": "Ironbark SILVER",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 11580
+        },
+        {
+          "h": 372,
+          "heading": "Wavecrest SILVER",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 12002
+        },
+        {
+          "h": 372,
+          "heading": "Larkspur GOLD",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 12424
+        },
+        {
+          "h": 372,
+          "heading": "Tidewater SILVER",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 12846
+        },
+        {
+          "h": 372,
+          "heading": "Redwood Lane SILVER",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 13268
+        },
+        {
+          "h": 372,
+          "heading": "Sablestone GOLD",
+          "pad": [
+            54,
+            40,
+            40,
+            40
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 1345,
+          "y": 13690
+        },
+        {
+          "background": "#000000",
+          "column": {
+            "max_w": 9999,
+            "pad": [
+              40,
+              40
+            ],
+            "w": 1425,
+            "x": 0
+          },
+          "h": 1153,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "footer",
+          "w": 1425,
+          "y": 14126
+        }
+      ],
+      "page_h": 15279,
+      "page_w": 1425,
+      "type": {
+        "body": 18,
+        "h1": 28,
+        "h2": 36,
+        "h3": 0
+      },
+      "width": 1440
+    },
+    {
+      "blocks": [
+        {
+          "h": 64,
+          "pad": [
+            0,
+            20,
+            0,
+            20
+          ],
+          "per_row": 2,
+          "tag": "header",
+          "w": 753,
+          "y": 0
+        },
+        {
+          "h": 12300,
+          "heading": "Made to trade",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "main",
+          "w": 753,
+          "y": 0
+        },
+        {
+          "h": 836,
+          "heading": "Made to trade",
+          "pad": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 753,
+          "y": 0
+        },
+        {
+          "h": 330,
+          "heading": "Orbitex PLATINUM",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 436
+        },
+        {
+          "h": 330,
+          "heading": "nimbly GOLD",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 806
+        },
+        {
+          "h": 330,
+          "heading": "Ondra FX PLATINUM BEST 2025",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 1176
+        },
+        {
+          "h": 330,
+          "heading": "NorthTrader PLATINUM",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 1546
+        },
+        {
+          "h": 330,
+          "heading": "FXcorner PLATINUM",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 1916
+        },
+        {
+          "h": 330,
+          "heading": "Tradeloft GOLD",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 2286
+        },
+        {
+          "h": 330,
+          "heading": "Amplio Futures PLATINUM",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 2656
+        },
+        {
+          "h": 330,
+          "heading": "Stationary PLATINUM BEST 2025",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 3026
+        },
+        {
+          "h": 330,
+          "heading": "Pepperleaf GOLD",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 3396
+        },
+        {
+          "h": 330,
+          "heading": "Intercross PLATINUM",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 3766
+        },
+        {
+          "h": 330,
+          "heading": "Coinbay Advanced GOLD",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 4136
+        },
+        {
+          "h": 330,
+          "heading": "tastybite SILVER",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 4506
+        },
+        {
+          "h": 330,
+          "heading": "EdgeLine SILVER",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 4876
+        },
+        {
+          "h": 330,
+          "heading": "Capitalia GOLD",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 5246
+        },
+        {
+          "h": 330,
+          "heading": "BlueHarbor SILVER",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 5616
+        },
+        {
+          "h": 330,
+          "heading": "Kestrel Markets SILVER",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 5986
+        },
+        {
+          "h": 330,
+          "heading": "Fernway GOLD",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 6356
+        },
+        {
+          "h": 330,
+          "heading": "Quayside Trading SILVER",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 6726
+        },
+        {
+          "h": 330,
+          "heading": "Mintleaf SILVER",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 7096
+        },
+        {
+          "h": 330,
+          "heading": "Granite Peak GOLD",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 7466
+        },
+        {
+          "h": 330,
+          "heading": "Lattice Markets SILVER",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 7836
+        },
+        {
+          "h": 330,
+          "heading": "Copperline SILVER",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 8206
+        },
+        {
+          "h": 330,
+          "heading": "Bluefin Securities GOLD",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 8576
+        },
+        {
+          "h": 330,
+          "heading": "Halcyon FX SILVER",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 8946
+        },
+        {
+          "h": 330,
+          "heading": "Summit Route SILVER",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 9316
+        },
+        {
+          "h": 330,
+          "heading": "Pinecrest GOLD",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 9686
+        },
+        {
+          "h": 330,
+          "heading": "Ironbark SILVER",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 10056
+        },
+        {
+          "h": 330,
+          "heading": "Wavecrest SILVER",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 10426
+        },
+        {
+          "h": 330,
+          "heading": "Larkspur GOLD",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 10796
+        },
+        {
+          "h": 330,
+          "heading": "Tidewater SILVER",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 11166
+        },
+        {
+          "h": 330,
+          "heading": "Redwood Lane SILVER",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 11536
+        },
+        {
+          "h": 330,
+          "heading": "Sablestone GOLD",
+          "pad": [
+            28,
+            24,
+            28,
+            24
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 713,
+          "y": 11906
+        },
+        {
+          "background": "#000000",
+          "column": {
+            "max_w": 9999,
+            "pad": [
+              50,
+              50
+            ],
+            "w": 753,
+            "x": 0
+          },
+          "h": 1418,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 4,
+          "tag": "footer",
+          "w": 753,
+          "y": 12300
+        }
+      ],
+      "page_h": 13718,
+      "page_w": 753,
+      "type": {
+        "body": 18,
+        "h1": 28,
+        "h2": 28,
+        "h3": 0
+      },
+      "width": 768
+    },
+    {
+      "blocks": [
+        {
+          "h": 64,
+          "pad": [
+            0,
+            20,
+            0,
+            20
+          ],
+          "per_row": 1,
+          "tag": "header",
+          "w": 390,
+          "y": 0
+        },
+        {
+          "h": 10503,
+          "heading": "Made to trade",
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 3,
+          "tag": "main",
+          "w": 390,
+          "y": 0
+        },
+        {
+          "h": 700,
+          "heading": "Made to trade",
+          "pad": [
+            1,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "section",
+          "w": 390,
+          "y": 0
+        },
+        {
+          "h": 358,
+          "heading": "Orbitex PLATINUM",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 3,
+          "tag": "article",
+          "w": 350,
+          "y": 320
+        },
+        {
+          "h": 358,
+          "heading": "nimbly GOLD",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 3,
+          "tag": "article",
+          "w": 350,
+          "y": 710
+        },
+        {
+          "h": 358,
+          "heading": "Ondra FX PLATINUM BEST 2025",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 3,
+          "tag": "article",
+          "w": 350,
+          "y": 1100
+        },
+        {
+          "h": 306,
+          "heading": "NorthTrader PLATINUM",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 3,
+          "tag": "article",
+          "w": 350,
+          "y": 1490
+        },
+        {
+          "h": 358,
+          "heading": "FXcorner PLATINUM",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 3,
+          "tag": "article",
+          "w": 350,
+          "y": 1828
+        },
+        {
+          "h": 250,
+          "heading": "Tradeloft GOLD",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 3,
+          "tag": "article",
+          "w": 350,
+          "y": 2218
+        },
+        {
+          "h": 250,
+          "heading": "Amplio Futures PLATINUM",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 3,
+          "tag": "article",
+          "w": 350,
+          "y": 2500
+        },
+        {
+          "h": 302,
+          "heading": "Stationary PLATINUM BEST 2025",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 3,
+          "tag": "article",
+          "w": 350,
+          "y": 2782
+        },
+        {
+          "h": 302,
+          "heading": "Pepperleaf GOLD",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 3116
+        },
+        {
+          "h": 265,
+          "heading": "Intercross PLATINUM",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 3,
+          "tag": "article",
+          "w": 350,
+          "y": 3450
+        },
+        {
+          "h": 250,
+          "heading": "Coinbay Advanced GOLD",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 3747
+        },
+        {
+          "h": 250,
+          "heading": "tastybite SILVER",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 3,
+          "tag": "article",
+          "w": 350,
+          "y": 4029
+        },
+        {
+          "h": 302,
+          "heading": "EdgeLine SILVER",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 4311
+        },
+        {
+          "h": 302,
+          "heading": "Capitalia GOLD",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 3,
+          "tag": "article",
+          "w": 350,
+          "y": 4645
+        },
+        {
+          "h": 250,
+          "heading": "BlueHarbor SILVER",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 3,
+          "tag": "article",
+          "w": 350,
+          "y": 4979
+        },
+        {
+          "h": 250,
+          "heading": "Kestrel Markets SILVER",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 5261
+        },
+        {
+          "h": 302,
+          "heading": "Fernway GOLD",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 5543
+        },
+        {
+          "h": 250,
+          "heading": "Quayside Trading SILVER",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 5877
+        },
+        {
+          "h": 302,
+          "heading": "Mintleaf SILVER",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 6159
+        },
+        {
+          "h": 250,
+          "heading": "Granite Peak GOLD",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 6493
+        },
+        {
+          "h": 302,
+          "heading": "Lattice Markets SILVER",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 6775
+        },
+        {
+          "h": 250,
+          "heading": "Copperline SILVER",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 7109
+        },
+        {
+          "h": 302,
+          "heading": "Bluefin Securities GOLD",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 7391
+        },
+        {
+          "h": 250,
+          "heading": "Halcyon FX SILVER",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 7725
+        },
+        {
+          "h": 302,
+          "heading": "Summit Route SILVER",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 8007
+        },
+        {
+          "h": 250,
+          "heading": "Pinecrest GOLD",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 8341
+        },
+        {
+          "h": 302,
+          "heading": "Ironbark SILVER",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 8623
+        },
+        {
+          "h": 250,
+          "heading": "Wavecrest SILVER",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 8957
+        },
+        {
+          "h": 302,
+          "heading": "Larkspur GOLD",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 9239
+        },
+        {
+          "h": 250,
+          "heading": "Tidewater SILVER",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 9573
+        },
+        {
+          "h": 302,
+          "heading": "Redwood Lane SILVER",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 9855
+        },
+        {
+          "h": 250,
+          "heading": "Sablestone GOLD",
+          "pad": [
+            76,
+            16,
+            16,
+            16
+          ],
+          "per_row": 2,
+          "tag": "article",
+          "w": 350,
+          "y": 10189
+        },
+        {
+          "background": "#000000",
+          "column": {
+            "max_w": 9999,
+            "pad": [
+              20,
+              20
+            ],
+            "w": 390,
+            "x": 0
+          },
+          "h": 1850,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 2,
+          "tag": "footer",
+          "w": 390,
+          "y": 10503
+        }
+      ],
+      "page_h": 12353,
+      "page_w": 390,
+      "type": {
+        "body": 12,
+        "h1": 28,
+        "h2": 18,
+        "h3": 0
+      },
+      "width": 390
+    }
+  ],
+  "links": [
+    {
+      "href": "http://127.0.0.1:44717/",
+      "text": "Tickerra"
+    },
+    {
+      "href": "http://127.0.0.1:44717/",
+      "text": "Tickerra main page"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Products"
+    },
+    {
+      "href": "http://127.0.0.1:44717/ideas/",
+      "text": "Community"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Markets"
+    },
+    {
+      "href": "http://127.0.0.1:44717/brokers/",
+      "text": "Brokers"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "More"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Get started"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Open account"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Learn more"
+    },
+    {
+      "href": "http://127.0.0.1:44717/",
+      "text": "Tickerra"
+    },
+    {
+      "href": "http://127.0.0.1:44717/",
+      "text": "X"
+    },
+    {
+      "href": "http://127.0.0.1:44717/",
+      "text": "f"
+    },
+    {
+      "href": "http://127.0.0.1:44717/",
+      "text": "▶"
+    },
+    {
+      "href": "http://127.0.0.1:44717/",
+      "text": "◎"
+    },
+    {
+      "href": "http://127.0.0.1:44717/",
+      "text": "in"
+    },
+    {
+      "href": "http://127.0.0.1:44717/",
+      "text": "✈"
+    },
+    {
+      "href": "http://127.0.0.1:44717/",
+      "text": "♪"
+    },
+    {
+      "href": "http://127.0.0.1:44717/",
+      "text": "◉"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Supercharts"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Stocks"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "ETFs"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Bonds"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Crypto coins"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "CEX pairs"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "DEX pairs"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Scripts"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Stocks"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "ETFs"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Crypto coins"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Economic"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Earnings"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Dividends"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "IPOs"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "News Flow"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Portfolios"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Yield Curves"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Options"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Macro Maps"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Scripting"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Data Server"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Mobile"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Desktop"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Features"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Pricing"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Market data"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Gift plans"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Overview"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Brokers"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Brokers comparison"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "The Basics"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Futures bundle"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Options bundle"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "US stocks bundle"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Who we are"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Our mission"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Blog"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Help Center"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Careers"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Media kit"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Desk calendars"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Stickers"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Terms of Use"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Disclaimer"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Privacy Policy"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Cookies Policy"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Accessibility Statement"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Security tips"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Bug Bounty program"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Status page"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Social network"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Wall of Love"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Refer a friend"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Creator program"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "House Rules"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Moderators"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Trading"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Education"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Editors' picks"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Indicators & strategies"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Wizards"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Freelancers"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Marketplace"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Widgets"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Charting libraries"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Light charts"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Advanced charts"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Trading platform"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Advertising"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Brokerage integration"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Partner program"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Education program"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Products"
+    },
+    {
+      "href": "http://127.0.0.1:44717/ideas/",
+      "text": "Community"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "Markets"
+    },
+    {
+      "href": "http://127.0.0.1:44717/brokers/",
+      "text": "Brokers"
+    },
+    {
+      "href": "http://127.0.0.1:44717/markets/",
+      "text": "More"
+    },
+    {
+      "href": "http://127.0.0.1:44717/chart/",
+      "text": "Log in"
+    }
+  ],
+  "outline": [
+    {
+      "box": {
+        "h": 64,
+        "w": 1425,
+        "x": 0,
+        "y": 0
+      },
+      "color": "#ffffff",
+      "depth": 2,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "id": "site-header",
+      "tag": "header"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 189,
+        "x": 40,
+        "y": 17
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/",
+      "tag": "a",
+      "text": "Tickerra"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 36,
+        "x": 40,
+        "y": 17
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#222222",
+      "box": {
+        "h": 40,
+        "w": 200,
+        "x": 326,
+        "y": 12
+      },
+      "color": "#8c8c8c",
+      "depth": 3,
+      "font": "16px 400",
+      "tag": "button",
+      "text": "Search (Ctrl+K)"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 332,
+        "y": 18
+      },
+      "color": "#8c8c8c",
+      "depth": 4,
+      "font": "16px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 64,
+        "w": 487,
+        "x": 534,
+        "y": 0
+      },
+      "color": "#ffffff",
+      "depth": 3,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "nav"
+    },
+    {
+      "box": {
+        "h": 64,
+        "w": 487,
+        "x": 534,
+        "y": 0
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 102,
+        "x": 534,
+        "y": 12
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "16px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Products"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 122,
+        "x": 636,
+        "y": 12
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "16px 500",
+      "href": "http://127.0.0.1:44717/ideas/",
+      "tag": "a",
+      "text": "Community"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 96,
+        "x": 759,
+        "y": 12
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "16px 500",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Markets"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 93,
+        "x": 855,
+        "y": 12
+      },
+      "color": "#2962ff",
+      "depth": 6,
+      "font": "16px 500",
+      "href": "http://127.0.0.1:44717/brokers/",
+      "tag": "a",
+      "text": "Brokers"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 74,
+        "x": 947,
+        "y": 12
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "16px 500",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "More"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 78,
+        "x": 1119,
+        "y": 12
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "font": "16px 500",
+      "tag": "button",
+      "text": "EN"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1131,
+        "y": 18
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "font": "16px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 40,
+        "x": 1209,
+        "y": 12
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1215,
+        "y": 18
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 40,
+        "w": 124,
+        "x": 1261,
+        "y": 12
+      },
+      "color": "#000000",
+      "depth": 4,
+      "font": "16px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Get started"
+    },
+    {
+      "box": {
+        "h": 14126,
+        "w": 1425,
+        "x": 0,
+        "y": 0
+      },
+      "color": "#ffffff",
+      "depth": 2,
+      "display": "block",
+      "font": "14px 400",
+      "id": "content",
+      "tag": "main"
+    },
+    {
+      "box": {
+        "h": 836,
+        "w": 1425,
+        "x": 0,
+        "y": 0
+      },
+      "color": "#ffffff",
+      "depth": 4,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "section"
+    },
+    {
+      "box": {
+        "h": 132,
+        "w": 1425,
+        "x": 0,
+        "y": 179
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "font": "28px 700",
+      "tag": "h1",
+      "text": "Made to trade"
+    },
+    {
+      "box": {
+        "h": 21,
+        "w": 1425,
+        "x": 0,
+        "y": 407
+      },
+      "color": "#dbdbdb",
+      "depth": 5,
+      "font": "18px 400",
+      "tag": "p",
+      "text": "Trades placed through connected brokers"
+    },
+    {
+      "box": {
+        "h": 48,
+        "w": 136,
+        "x": 257,
+        "y": 505
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Best rated"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 353,
+        "y": 520
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 48,
+        "w": 123,
+        "x": 425,
+        "y": 505
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "All brokers"
+    },
+    {
+      "background": "#222222",
+      "box": {
+        "h": 48,
+        "w": 97,
+        "x": 556,
+        "y": 505
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Stocks"
+    },
+    {
+      "background": "#222222",
+      "box": {
+        "h": 48,
+        "w": 97,
+        "x": 661,
+        "y": 505
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Crypto"
+    },
+    {
+      "background": "#222222",
+      "box": {
+        "h": 48,
+        "w": 89,
+        "x": 766,
+        "y": 505
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Forex"
+    },
+    {
+      "background": "#222222",
+      "box": {
+        "h": 48,
+        "w": 102,
+        "x": 862,
+        "y": 505
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Futures"
+    },
+    {
+      "background": "#222222",
+      "box": {
+        "h": 48,
+        "w": 85,
+        "x": 972,
+        "y": 505
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "ETFs"
+    },
+    {
+      "background": "#222222",
+      "box": {
+        "h": 48,
+        "w": 103,
+        "x": 1065,
+        "y": 505
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Options"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 608
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 332,
+        "x": 81,
+        "y": 663
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Orbitex PLATINUM"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 332,
+        "x": 81,
+        "y": 713
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Crypto"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 332,
+        "x": 81,
+        "y": 812
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "28px 600",
+      "tag": "p",
+      "text": "Unlock a free Pro month"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 332,
+        "x": 81,
+        "y": 850
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Promotion"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 895
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 910
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 895
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 1030
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 408,
+        "x": 81,
+        "y": 1085
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "nimbly GOLD"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 408,
+        "x": 81,
+        "y": 1135
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Stocks, ETFs, Options"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 408,
+        "x": 81,
+        "y": 1234
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "28px 600",
+      "tag": "p",
+      "text": "8.1% APY + free premium plan"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 408,
+        "x": 81,
+        "y": 1272
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Promotion"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 1317
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 1332
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 1317
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 1452
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 344,
+        "x": 81,
+        "y": 1507
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Ondra FX PLATINUM BEST 2025"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 344,
+        "x": 81,
+        "y": 1557
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Forex"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 344,
+        "x": 81,
+        "y": 1656
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "28px 600",
+      "tag": "p",
+      "text": "Free charting plan"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 344,
+        "x": 81,
+        "y": 1694
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Promotion"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 1739
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 1754
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 1739
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 1874
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 297,
+        "x": 81,
+        "y": 1929
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "NorthTrader PLATINUM"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 297,
+        "x": 81,
+        "y": 1979
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Futures"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 297,
+        "x": 81,
+        "y": 2078
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "28px 600",
+      "tag": "p",
+      "text": "Get $250"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 297,
+        "x": 81,
+        "y": 2116
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Promotion"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 2161
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 2296
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 328,
+        "x": 81,
+        "y": 2351
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "FXcorner PLATINUM"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 328,
+        "x": 81,
+        "y": 2401
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Forex"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 328,
+        "x": 81,
+        "y": 2500
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "28px 600",
+      "tag": "p",
+      "text": "Earn up to 10% APY"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 328,
+        "x": 81,
+        "y": 2538
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Promotion"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 2583
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 2598
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 2583
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 2718
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 324,
+        "x": 81,
+        "y": 2773
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Tradeloft GOLD"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 324,
+        "x": 81,
+        "y": 2823
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Futures"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 2926
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 3140
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 349,
+        "x": 81,
+        "y": 3195
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Amplio Futures PLATINUM"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 349,
+        "x": 81,
+        "y": 3245
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Futures"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 3348
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 3562
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 361,
+        "x": 81,
+        "y": 3617
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Stationary PLATINUM BEST 2025"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 361,
+        "x": 81,
+        "y": 3667
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Stocks, Options, Futures"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 3770
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 3785
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 3770
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 3984
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 328,
+        "x": 81,
+        "y": 4039
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Pepperleaf GOLD"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 328,
+        "x": 81,
+        "y": 4089
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Forex, CFDs"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 4192
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 4207
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 4192
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 4406
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 361,
+        "x": 81,
+        "y": 4461
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Intercross PLATINUM"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 361,
+        "x": 81,
+        "y": 4511
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Stocks, Crypto, Forex, Futures, Bonds, Options"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 4614
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 4828
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 385,
+        "x": 81,
+        "y": 4883
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Coinbay Advanced GOLD"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 385,
+        "x": 81,
+        "y": 4933
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Crypto, Futures"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 5036
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 5250
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 340,
+        "x": 81,
+        "y": 5305
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "tastybite SILVER"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 340,
+        "x": 81,
+        "y": 5355
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Stocks, Futures, Options"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 5458
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 5672
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 328,
+        "x": 81,
+        "y": 5727
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "EdgeLine SILVER"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 328,
+        "x": 81,
+        "y": 5777
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Futures"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 5880
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 5895
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 5880
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 6094
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 345,
+        "x": 81,
+        "y": 6149
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Capitalia GOLD"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 345,
+        "x": 81,
+        "y": 6199
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Stocks, ETFs"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 6302
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 6317
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 6302
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 6516
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 343,
+        "x": 81,
+        "y": 6571
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "BlueHarbor SILVER"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 343,
+        "x": 81,
+        "y": 6621
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Forex, Crypto"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 6724
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 6938
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 337,
+        "x": 81,
+        "y": 6993
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Kestrel Markets SILVER"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 337,
+        "x": 81,
+        "y": 7043
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Stocks, Futures"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 7146
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 7360
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 328,
+        "x": 81,
+        "y": 7415
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Fernway GOLD"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 328,
+        "x": 81,
+        "y": 7465
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Stocks, ETFs"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 7568
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 7583
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 7568
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 7782
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 370,
+        "x": 81,
+        "y": 7837
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Quayside Trading SILVER"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 370,
+        "x": 81,
+        "y": 7887
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Forex"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 7990
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 8204
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 328,
+        "x": 81,
+        "y": 8259
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Mintleaf SILVER"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 328,
+        "x": 81,
+        "y": 8309
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Crypto"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 8412
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 8427
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 8412
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 8626
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 278,
+        "x": 81,
+        "y": 8681
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Granite Peak GOLD"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 278,
+        "x": 81,
+        "y": 8731
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Futures"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 8834
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 9048
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 332,
+        "x": 81,
+        "y": 9103
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Lattice Markets SILVER"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 332,
+        "x": 81,
+        "y": 9153
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Stocks, Options"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 9256
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 9271
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 9256
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 9470
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 281,
+        "x": 81,
+        "y": 9525
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Copperline SILVER"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 281,
+        "x": 81,
+        "y": 9575
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Forex, CFDs"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 9678
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 9892
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 362,
+        "x": 81,
+        "y": 9947
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Bluefin Securities GOLD"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 362,
+        "x": 81,
+        "y": 9997
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Crypto, Futures"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 10100
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 10115
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 10100
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 10314
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 262,
+        "x": 81,
+        "y": 10369
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Halcyon FX SILVER"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 262,
+        "x": 81,
+        "y": 10419
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Stocks, ETFs, Bonds"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 10522
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 10736
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 328,
+        "x": 81,
+        "y": 10791
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Summit Route SILVER"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 328,
+        "x": 81,
+        "y": 10841
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Stocks, ETFs"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 10944
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 10959
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 10944
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 11158
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 250,
+        "x": 81,
+        "y": 11213
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Pinecrest GOLD"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 250,
+        "x": 81,
+        "y": 11263
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Forex"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 11366
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 11580
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 328,
+        "x": 81,
+        "y": 11635
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Ironbark SILVER"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 328,
+        "x": 81,
+        "y": 11685
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Crypto"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 11788
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 11803
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 11788
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 12002
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 249,
+        "x": 81,
+        "y": 12057
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Wavecrest SILVER"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 249,
+        "x": 81,
+        "y": 12107
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Futures"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 12210
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 12424
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 328,
+        "x": 81,
+        "y": 12479
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Larkspur GOLD"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 328,
+        "x": 81,
+        "y": 12529
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Stocks, Options"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 12632
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 12647
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 12632
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 12846
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 250,
+        "x": 81,
+        "y": 12901
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Tidewater SILVER"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 250,
+        "x": 81,
+        "y": 12951
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Forex, CFDs"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 13054
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 13268
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 328,
+        "x": 81,
+        "y": 13323
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Redwood Lane SILVER"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 328,
+        "x": 81,
+        "y": 13373
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Crypto, Futures"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 46,
+        "w": 178,
+        "x": 81,
+        "y": 13476
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Open account"
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 16,
+        "x": 213,
+        "y": 13491
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 500",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 271,
+        "y": 13476
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "box": {
+        "h": 372,
+        "w": 1345,
+        "x": 40,
+        "y": 13690
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "display": "flex",
+      "flex": "row",
+      "font": "14px 400",
+      "tag": "article"
+    },
+    {
+      "box": {
+        "h": 40,
+        "w": 250,
+        "x": 81,
+        "y": 13745
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "36px 600",
+      "tag": "h2",
+      "text": "Sablestone GOLD"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 250,
+        "x": 81,
+        "y": 13795
+      },
+      "color": "#dbdbdb",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Tradable assets: Stocks, ETFs, Bonds"
+    },
+    {
+      "box": {
+        "h": 46,
+        "w": 138,
+        "x": 81,
+        "y": 13898
+      },
+      "color": "#ffffff",
+      "depth": 8,
+      "font": "14px 500",
+      "href": "http://127.0.0.1:44717/chart/",
+      "tag": "a",
+      "text": "Learn more"
+    },
+    {
+      "background": "#000000",
+      "box": {
+        "h": 1153,
+        "w": 1425,
+        "x": 0,
+        "y": 14126
+      },
+      "color": "#ffffff",
+      "depth": 2,
+      "display": "block",
+      "font": "14px 400",
+      "id": "site-footer",
+      "tag": "footer"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 109,
+        "x": 40,
+        "y": 14183
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "12px 400",
+      "href": "http://127.0.0.1:44717/",
+      "tag": "a",
+      "text": "Tickerra"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 40,
+        "y": 14183
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "font": "12px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 40,
+        "y": 14231
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "14px 700",
+      "href": "http://127.0.0.1:44717/",
+      "tag": "a",
+      "text": "X"
+    },
+    {
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 80,
+        "y": 14231
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "14px 700",
+      "href": "http://127.0.0.1:44717/",
+      "tag": "a",
+      "text": "f"
+    },
+    {
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 120,
+        "y": 14231
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "14px 700",
+      "href": "http://127.0.0.1:44717/",
+      "tag": "a",
+      "text": "▶"
+    },
+    {
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 160,
+        "y": 14231
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "14px 700",
+      "href": "http://127.0.0.1:44717/",
+      "tag": "a",
+      "text": "◎"
+    },
+    {
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 200,
+        "y": 14231
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "14px 700",
+      "href": "http://127.0.0.1:44717/",
+      "tag": "a",
+      "text": "in"
+    },
+    {
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 240,
+        "y": 14231
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "14px 700",
+      "href": "http://127.0.0.1:44717/",
+      "tag": "a",
+      "text": "✈"
+    },
+    {
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 280,
+        "y": 14231
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "14px 700",
+      "href": "http://127.0.0.1:44717/",
+      "tag": "a",
+      "text": "♪"
+    },
+    {
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 320,
+        "y": 14231
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "14px 700",
+      "href": "http://127.0.0.1:44717/",
+      "tag": "a",
+      "text": "◉"
+    },
+    {
+      "box": {
+        "h": 32,
+        "w": 103,
+        "x": 40,
+        "y": 14271
+      },
+      "color": "#ffffff",
+      "depth": 5,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "English ⌄"
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 20,
+        "x": 45,
+        "y": 14277
+      },
+      "color": "#ffffff",
+      "depth": 6,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 32,
+        "w": 380,
+        "x": 40,
+        "y": 14315
+      },
+      "color": "#b8b8b8",
+      "depth": 5,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "All market data on this site is simulated for demonstration purposes."
+    },
+    {
+      "box": {
+        "h": 32,
+        "w": 380,
+        "x": 40,
+        "y": 14359
+      },
+      "color": "#b8b8b8",
+      "depth": 5,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "Reference data is randomly generated and does not reflect real prices."
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 380,
+        "x": 40,
+        "y": 14403
+      },
+      "color": "#b8b8b8",
+      "depth": 5,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "© 2026 Tickerra. Prices, charts and ideas are sample content."
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 380,
+        "x": 40,
+        "y": 14431
+      },
+      "color": "#b8b8b8",
+      "depth": 5,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "No information here is investment advice."
+    },
+    {
+      "box": {
+        "h": 16,
+        "w": 380,
+        "x": 40,
+        "y": 14459
+      },
+      "color": "#b8b8b8",
+      "depth": 5,
+      "font": "12px 400",
+      "tag": "p",
+      "text": "© 2026 Tickerra, Inc."
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 460,
+        "y": 14183
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "MORE THAN A PRODUCT"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14206
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14206
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Supercharts"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 460,
+        "y": 14252
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "SCREENERS"
+    },
+    {
+      "box": {
+        "h": 154,
+        "w": 213,
+        "x": 460,
+        "y": 14275
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14275
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Stocks"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14297
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "ETFs"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14319
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Bonds"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14341
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Crypto coins"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14363
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "CEX pairs"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14385
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "DEX pairs"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14407
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Scripts"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 460,
+        "y": 14453
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "HEATMAPS"
+    },
+    {
+      "box": {
+        "h": 66,
+        "w": 213,
+        "x": 460,
+        "y": 14476
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14476
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Stocks"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14498
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "ETFs"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14520
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Crypto coins"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 460,
+        "y": 14566
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "CALENDARS"
+    },
+    {
+      "box": {
+        "h": 88,
+        "w": 213,
+        "x": 460,
+        "y": 14589
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14589
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Economic"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14611
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Earnings"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14633
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Dividends"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14655
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "IPOs"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 460,
+        "y": 14701
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "MORE PRODUCTS"
+    },
+    {
+      "box": {
+        "h": 154,
+        "w": 213,
+        "x": 460,
+        "y": 14724
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14724
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "News Flow"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14746
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Portfolios"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14768
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Yield Curves"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14790
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Options"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14812
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Macro Maps"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14834
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Scripting"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14856
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Data Server"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 460,
+        "y": 14902
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "APPS"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 213,
+        "x": 460,
+        "y": 14925
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14925
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Mobile"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 460,
+        "y": 14947
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Desktop"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 697,
+        "y": 14183
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "TOOLS & SUBSCRIPTIONS"
+    },
+    {
+      "box": {
+        "h": 88,
+        "w": 213,
+        "x": 697,
+        "y": 14206
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14206
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Features"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14228
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Pricing"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14250
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Market data"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14272
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Gift plans"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 697,
+        "y": 14318
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "TRADING"
+    },
+    {
+      "box": {
+        "h": 88,
+        "w": 213,
+        "x": 697,
+        "y": 14341
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14341
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Overview"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14363
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Brokers"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14385
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Brokers comparison"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14407
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "The Basics"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 697,
+        "y": 14453
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "SPECIAL OFFERS"
+    },
+    {
+      "box": {
+        "h": 66,
+        "w": 213,
+        "x": 697,
+        "y": 14476
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14476
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Futures bundle"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14498
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Options bundle"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14520
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "US stocks bundle"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 697,
+        "y": 14566
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "ABOUT COMPANY"
+    },
+    {
+      "box": {
+        "h": 132,
+        "w": 213,
+        "x": 697,
+        "y": 14589
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14589
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Who we are"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14611
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Our mission"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14633
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Blog"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14655
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Help Center"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14677
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Careers"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14699
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Media kit"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 697,
+        "y": 14745
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "MERCH"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 213,
+        "x": 697,
+        "y": 14768
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14768
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Desk calendars"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14790
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Stickers"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 697,
+        "y": 14836
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "POLICIES & SECURITY"
+    },
+    {
+      "box": {
+        "h": 176,
+        "w": 213,
+        "x": 697,
+        "y": 14859
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14859
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Terms of Use"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14881
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Disclaimer"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14903
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Privacy Policy"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14925
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Cookies Policy"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14947
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Accessibility Statement"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14969
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Security tips"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 14991
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Bug Bounty program"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 697,
+        "y": 15013
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Status page"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 935,
+        "y": 14183
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "COMMUNITY"
+    },
+    {
+      "box": {
+        "h": 132,
+        "w": 213,
+        "x": 935,
+        "y": 14206
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 935,
+        "y": 14206
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Social network"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 935,
+        "y": 14228
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Wall of Love"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 935,
+        "y": 14250
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Refer a friend"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 935,
+        "y": 14272
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Creator program"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 935,
+        "y": 14294
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "House Rules"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 935,
+        "y": 14316
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Moderators"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 935,
+        "y": 14362
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "IDEAS"
+    },
+    {
+      "box": {
+        "h": 66,
+        "w": 213,
+        "x": 935,
+        "y": 14385
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 935,
+        "y": 14385
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Trading"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 935,
+        "y": 14407
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Education"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 935,
+        "y": 14429
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Editors' picks"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 935,
+        "y": 14475
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "SCRIPTS"
+    },
+    {
+      "box": {
+        "h": 88,
+        "w": 213,
+        "x": 935,
+        "y": 14498
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 935,
+        "y": 14498
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Indicators & strategies"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 935,
+        "y": 14520
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Wizards"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 935,
+        "y": 14542
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Freelancers"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 935,
+        "y": 14564
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Marketplace"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 1172,
+        "y": 14183
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "BUSINESS SOLUTIONS"
+    },
+    {
+      "box": {
+        "h": 110,
+        "w": 213,
+        "x": 1172,
+        "y": 14206
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 1172,
+        "y": 14206
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Widgets"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 1172,
+        "y": 14228
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Charting libraries"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 1172,
+        "y": 14250
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Light charts"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 1172,
+        "y": 14272
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Advanced charts"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 1172,
+        "y": 14294
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Trading platform"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 213,
+        "x": 1172,
+        "y": 14340
+      },
+      "color": "#707070",
+      "depth": 7,
+      "font": "12px 500",
+      "tag": "h4",
+      "text": "GROWTH OPPORTUNITIES"
+    },
+    {
+      "box": {
+        "h": 88,
+        "w": 213,
+        "x": 1172,
+        "y": 14363
+      },
+      "color": "#ffffff",
+      "depth": 7,
+      "display": "block",
+      "font": "14px 400",
+      "tag": "ul"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 1172,
+        "y": 14363
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Advertising"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 1172,
+        "y": 14385
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Brokerage integration"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 1172,
+        "y": 14407
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Partner program"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 213,
+        "x": 1172,
+        "y": 14429
+      },
+      "color": "#ffffff",
+      "depth": 9,
+      "font": "14px 400",
+      "href": "http://127.0.0.1:44717/markets/",
+      "tag": "a",
+      "text": "Education program"
+    }
+  ],
+  "page": {
+    "h": 15279,
+    "w": 1425
+  },
+  "sign_in_page": false,
+  "signed_in": false,
+  "signed_in_site": null,
+  "text": "Tickerra Search (Ctrl+K) Products Community Markets Brokers More EN Get started Made to trade 4 5 1 , 3 8 9 , 5 1 3 Trades placed through connected brokers Best rated All brokers Stocks Crypto Forex Futures ETFs Options Orbitex PLATINUM Tradable assets: Crypto 4.4 • Very Good ✓ ★★★★★ 💬 22.6K Reviews 👤 279.5K Accounts Unlock a free Pro month Promotion Open account Learn more ◇ FEATURED nimbly GOLD Tradable assets: Stocks, ETFs, Options 4.6 • Excellent ✓ ★★★★★ 💬 4.5K Reviews 👤 113.1K Accounts 8.1% APY + free premium plan Promotion Open account Learn more ▲ Ondra FX PLATINUM BEST 2025 Tradable assets: Forex 4.5 • Great ✓ ★★★★★ 💬 35.2K Reviews 👤 356K Accounts Free charting plan Promotion Open account Learn more ✓ NorthTrader PLATINUM Tradable assets: Futures 4.5 • Great ✓ ★★★★★ 💬 2.8K Reviews 👤 65.5K Accounts Get $250 Promotion Learn more N FXcorner PLATINUM Tradable assets: Forex 4.5 • Great ✓ ★★★★★ 💬 14.5K Reviews 👤 196K Accounts Earn up to 10% APY Promotion Open account Learn more Ø Tradeloft GOLD Tradable assets: Futures 4.4 • Very Good ✓ ★★★★★ 💬 11.3K Reviews 👤 143.3K Accounts Learn more ▼ Amplio Futures PLATINUM Tradable assets: Futures 4.4 • Very Good ✓ ★★★★★ 💬 10.2K Reviews 👤 44.5K Accounts Learn more Y Stationary PLATINUM BEST 2025 Tradable assets: Stocks, Options, Futures 4.3 • Very Good ✓ ★★★★★ 💬 9.8K Reviews 👤 88.4K Accounts Open account Learn more S Pepperleaf GOLD Tradable assets: Forex, CFDs 4.3 • Very Good ✓ ★★★★★ 💬 8.1K Reviews 👤 61.2K Accounts Open account Learn more P Intercross PLATINUM Tradable assets: Stocks, Crypto, Forex, Futures, Bonds, Options 4.1 • Above Average ✓ ★★★★★ 💬 40.1K Reviews 👤 408.1K Accounts Learn more K Coinbay Advanced GOLD Tradable assets: Crypto, Futures 4.1 • Above Average ✓ ★★★★★ 💬 4.1K Reviews 👤 93.6K Accounts Learn more C tastybite SILVER Tradable assets: Stocks, Futures, Options 4.0 • Above Average ✓ ★★★★★ 💬 1.2K Reviews 👤 24.1K Accounts Learn more tb EdgeLine SILVER Tradable assets: Futures 4.0 • Above Average ✓ ★★★★★ 💬 155 Reviews 👤 462 Accounts Open account Learn more eL Capitalia GOLD Tradable assets: Stocks, ETFs 3.9 • Above Average ✓ ★★★★★ 💬 3.4K Reviews 👤 51.9K Accounts Open account Learn more C BlueHarbor SILVER Tradable assets: Forex, Crypto 3.9 • Above Average ✓ ★★★★★ 💬 2.2K Reviews 👤 18.7K Accounts Learn more B Kestrel Markets SILVER Tradable assets: Stocks, Futures 3.8 • Average ✓ ★★★★★ 💬 980 Reviews 👤 9.1K Accounts Learn more K Fernway GOLD Tradable assets: Stocks, ETFs 3.8 • Average ✓ ★★★★★ 💬 900 Reviews 👤 8.2K Accounts Open account Learn more F Quayside Trading SILVER Tradable assets: Forex 3.8 • Average ✓ ★★★★★ 💬 860 Reviews 👤 7.8K Accounts Learn more Q Mintleaf SILVER Tradable assets: Crypto 3.7 • Average ✓ ★★★★★ 💬 820 Reviews 👤 7.4K Accounts Open account Learn more M Granite Peak GOLD Tradable assets: Futures 3.7 • Average ✓ ★★★★★ 💬 780 Reviews 👤 7.0K Accounts Learn more G Lattice Markets SILVER Tradable assets: Stocks, Options 3.7 • Average ✓ ★★★★★ 💬 740 Reviews 👤 6.6K Accounts Open account Learn more L Copperline SILVER Tradable assets: Forex, CFDs 3.6 • Average ✓ ★★★★★ 💬 700 Reviews 👤 6.2K Accounts Learn more C Bluefin Securities GOLD Tradable assets: Crypto, Futures 3.6 • Fair ✓ ★★★★★ 💬 660 Reviews 👤 5.8K Accounts Open account Learn more B Halcyon FX SILVER Tradable assets: Stocks, ETFs, Bonds 3.6 • Fair ✓ ★★★★★ 💬 620 Reviews 👤 5.4K Accounts Learn more H Summit Route SILVER Tradable assets: Stocks, ETFs 3.6 • Fair ✓ ★★★★★ 💬 580 Reviews 👤 5.0K Accounts Open account Learn more S Pinecrest GOLD Tradable assets: Forex 3.5 • Fair ✓ ★★★★★ 💬 540 Reviews 👤 4.6K Accounts Learn more P Ironbark SILVER Tradable assets: Crypto 3.5 • Fair ✓ ★★★★★ 💬 500 Reviews 👤 4.2K Accounts Open account Learn more I Wavecrest SILVER Tradable assets: Futures 3.5 • Fair ✓ ★★★★★ 💬 460 Reviews 👤 3.8K Accounts Learn more W Larkspur GOLD Tradable assets: Stocks, Options 3.4 • Fair ✓ ★★★★★ 💬 420 Reviews 👤 3.4K Accounts Open account Learn more L Tidewater SILVER Tradable assets: Forex, CFDs 3.4 • Fair ✓ ★★★★★ 💬 380 Reviews 👤 3.0K Accounts Learn more T Redwood Lane SILVER Tradable assets: Crypto, Futures 3.4 • Fair ✓ ★★★★★ 💬 340 Reviews 👤 2.6K Accounts Open account Learn more R Sablestone GOLD Tradable assets: Stocks, ETFs, Bonds 3.3 • Fair ✓ ★★★★★ 💬 300 Reviews 👤 2.2K Accounts Learn more S Tickerra MADE BY PEOPLE X f ▶ ◎ in ✈ ♪ ◉ English ⌄ All market data on this site is simulated for demonstration purposes. Reference data is randomly generated and does not reflect real prices. © 2026 Tickerra. Prices, charts and ideas are sample content. No information here is investment advice. © 2026 Tickerra, Inc. MORE THAN A PRODUCT Supercharts SCREENERS Stocks ETFs Bonds Crypto coins CEX pairs DEX pairs Scripts HEATMAPS Stocks ETFs Crypto coins CALENDARS Economic Earnings Dividends IPOs MORE PRODUCTS News Flow Portfolios Yield Curves Options Macro Maps Scripting Data Server APPS Mobile Desktop TOOLS & SUBSCRIPTIONS Features Pricing Market data Gift plans TRADING Overview Brokers Brokers comparison The Basics SPECIAL OFFERS Futures bundle Options bundle US stocks bundle ABOUT COMPANY Who we are Our mission Blog Help Center Careers Media kit MERCH Desk calendars Stickers POLICIES & SECURITY Terms of Use Disclaimer Privacy Policy Cookies Policy Accessibility Statement Security tips Bug Bounty program Status page COMMUNITY Social network Wall of Love Refer a friend Creator program House Rules Moderators IDEAS Trading Education Editors' picks SCRIPTS Indicators & strategies Wizards Freelancers Marketplace BUSINESS SOLUTIONS Widgets Charting libraries Light charts Advanced charts Trading platform GROWTH OPPORTUNITIES Advertising Brokerage integration Partner program Education program SEE IT FIRST / THEN TRADE.",
+  "title": "Top brokers — reviews and ratings — Tickerra",
+  "url": "http://127.0.0.1:44717/brokers/",
+  "viewport": {
+    "h": 900,
+    "w": 1440
+  }
+}

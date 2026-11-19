@@ -1,0 +1,38 @@
+{
+  "states": [
+    {
+      "changed": [
+        "address changed"
+      ],
+      "index": 0,
+      "kind": "menu",
+      "label": "Products menu"
+    },
+    {
+      "changed": [
+        "address changed"
+      ],
+      "index": 1,
+      "kind": "menu",
+      "label": "Community menu"
+    },
+    {
+      "changed": [
+        "address changed"
+      ],
+      "index": 2,
+      "kind": "menu",
+      "label": "Markets menu"
+    },
+    {
+      "changed": [
+        "address changed"
+      ],
+      "index": 3,
+      "kind": "menu",
+      "label": "Brokers menu"
+    }
+  ],
+  "url": "https://www.tradingview.com/",
+  "width": 1440
+}

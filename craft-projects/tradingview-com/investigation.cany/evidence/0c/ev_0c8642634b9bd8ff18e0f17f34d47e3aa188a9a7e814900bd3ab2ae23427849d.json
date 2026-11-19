@@ -1,0 +1,78 @@
+{
+  "id": "ev_0c8642634b9bd8ff18e0f17f34d47e3aa188a9a7e814900bd3ab2ae23427849d",
+  "subject": {
+    "kind": "website",
+    "name": "https://www.tradingview.com/"
+  },
+  "operation": "web_page_states_capture",
+  "params": {
+    "max_states": 4,
+    "width": 1440
+  },
+  "result": {
+    "folder": "/home/user/Testing/craft-projects/tradingview-com/capture/states",
+    "found": 4,
+    "states": [
+      {
+        "changed": [
+          "address changed"
+        ],
+        "index": 0,
+        "kind": "menu",
+        "label": "Products menu"
+      },
+      {
+        "changed": [
+          "address changed"
+        ],
+        "index": 1,
+        "kind": "menu",
+        "label": "Community menu"
+      },
+      {
+        "changed": [
+          "address changed"
+        ],
+        "index": 2,
+        "kind": "menu",
+        "label": "Markets menu"
+      },
+      {
+        "changed": [
+          "address changed"
+        ],
+        "index": 3,
+        "kind": "menu",
+        "label": "Brokers menu"
+      }
+    ],
+    "url": "https://www.tradingview.com/"
+  },
+  "summary": "Opened 4 of 4 control(s) on https://www.tradingview.com/; 0 pictured in /home/user/Testing/craft-projects/tradingview-com/capture/states.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": true,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "linux-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "first_controls",
+      "message": "Only the first controls found are opened, one at a time; menus inside menus and hover-only menus are not."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 4,
+    "total": 4
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "https://www.tradingview.com/"
+    }
+  ],
+  "links": []
+}

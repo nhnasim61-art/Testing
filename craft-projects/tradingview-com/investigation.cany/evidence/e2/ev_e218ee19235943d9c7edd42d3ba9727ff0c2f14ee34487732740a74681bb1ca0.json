@@ -1,0 +1,453 @@
+{
+  "id": "ev_e218ee19235943d9c7edd42d3ba9727ff0c2f14ee34487732740a74681bb1ca0",
+  "subject": {
+    "kind": "website",
+    "name": "https://www.tradingview.com/chart/"
+  },
+  "operation": "web_site_capture",
+  "params": {
+    "include_html": false,
+    "max_height": 12000,
+    "noise_pass": true,
+    "visitor_view": true,
+    "widths": [
+      1440,
+      768,
+      390
+    ]
+  },
+  "result": {
+    "counts": {
+      "forms": 0,
+      "headings": 0,
+      "images": 22,
+      "links": 4,
+      "outline": 343
+    },
+    "design": {
+      "backgrounds": [
+        {
+          "count": 106,
+          "value": "#ffffff"
+        },
+        {
+          "count": 43,
+          "value": "#ebebeb"
+        },
+        {
+          "count": 12,
+          "value": "#f2f2f2"
+        },
+        {
+          "count": 9,
+          "value": "#9c9c9c"
+        },
+        {
+          "count": 6,
+          "value": "#ffffff80"
+        },
+        {
+          "count": 6,
+          "value": "#24b29b"
+        },
+        {
+          "count": 6,
+          "value": "#448aff"
+        },
+        {
+          "count": 6,
+          "value": "#4dd0e1"
+        },
+        {
+          "count": 5,
+          "value": "#3179f5"
+        },
+        {
+          "count": 4,
+          "value": "#21ac954d"
+        },
+        {
+          "count": 1,
+          "value": "#222222"
+        },
+        {
+          "count": 1,
+          "value": "#ffffffcc"
+        },
+        {
+          "count": 1,
+          "value": "#26c6da"
+        },
+        {
+          "count": 1,
+          "value": "#a8a8a8"
+        },
+        {
+          "count": 1,
+          "value": "#f57f17"
+        },
+        {
+          "count": 1,
+          "value": "#f54e621a"
+        }
+      ],
+      "font_sizes": [
+        {
+          "count": 101,
+          "value": "14px"
+        },
+        {
+          "count": 71,
+          "value": "13px"
+        },
+        {
+          "count": 51,
+          "value": "11px"
+        },
+        {
+          "count": 38,
+          "value": "12px"
+        },
+        {
+          "count": 8,
+          "value": "16px"
+        },
+        {
+          "count": 4,
+          "value": "10.5px"
+        },
+        {
+          "count": 3,
+          "value": "10px"
+        },
+        {
+          "count": 3,
+          "value": "20px"
+        },
+        {
+          "count": 1,
+          "value": "28px"
+        }
+      ],
+      "font_weights": [
+        {
+          "count": 206,
+          "value": "400"
+        },
+        {
+          "count": 53,
+          "value": "600"
+        },
+        {
+          "count": 21,
+          "value": "700"
+        }
+      ],
+      "fonts": [
+        {
+          "count": 280,
+          "value": "-apple-system, BlinkMacSystemFont, \"Trebuchet MS\", Roboto, Ubuntu, sans-serif"
+        }
+      ],
+      "max_widths": [
+        {
+          "count": 2,
+          "value": "102px"
+        },
+        {
+          "count": 1,
+          "value": "100px"
+        }
+      ],
+      "radii": [
+        {
+          "count": 53,
+          "value": "50%"
+        },
+        {
+          "count": 26,
+          "value": "4px"
+        },
+        {
+          "count": 10,
+          "value": "10px"
+        },
+        {
+          "count": 10,
+          "value": "2px 2px 0px 0px"
+        },
+        {
+          "count": 9,
+          "value": "100%"
+        },
+        {
+          "count": 5,
+          "value": "14px"
+        },
+        {
+          "count": 3,
+          "value": "6px"
+        },
+        {
+          "count": 3,
+          "value": "8px"
+        },
+        {
+          "count": 2,
+          "value": "999px"
+        },
+        {
+          "count": 2,
+          "value": "4px 0px 0px"
+        }
+      ],
+      "shadows": [
+        {
+          "count": 4,
+          "value": "rgba(0, 0, 0, 0.2) 0px 2px 4px 0px"
+        },
+        {
+          "count": 1,
+          "value": "color(srgb 0.0784314 0.243137 0.698039 / 0.3) 0px 1px 2px 0px, color(srgb 0.0784314 0.243137 0.698039 / 0.45) 0px 12px 28px -8px"
+        }
+      ],
+      "spacing": [
+        {
+          "count": 176,
+          "value": "3px"
+        },
+        {
+          "count": 141,
+          "value": "8px"
+        },
+        {
+          "count": 95,
+          "value": "4px"
+        },
+        {
+          "count": 54,
+          "value": "2px"
+        },
+        {
+          "count": 49,
+          "value": "12px"
+        },
+        {
+          "count": 47,
+          "value": "16px"
+        },
+        {
+          "count": 44,
+          "value": "6px"
+        },
+        {
+          "count": 43,
+          "value": "5px"
+        },
+        {
+          "count": 17,
+          "value": "1px"
+        },
+        {
+          "count": 9,
+          "value": "10px"
+        },
+        {
+          "count": 9,
+          "value": "-8px"
+        },
+        {
+          "count": 8,
+          "value": "16.25px"
+        },
+        {
+          "count": 6,
+          "value": "42px"
+        },
+        {
+          "count": 4,
+          "value": "20px"
+        },
+        {
+          "count": 4,
+          "value": "15px"
+        },
+        {
+          "count": 3,
+          "value": "100px"
+        },
+        {
+          "count": 2,
+          "value": "-3px"
+        },
+        {
+          "count": 2,
+          "value": "-1px"
+        },
+        {
+          "count": 2,
+          "value": "7px"
+        },
+        {
+          "count": 1,
+          "value": "-100px"
+        },
+        {
+          "count": 1,
+          "value": "34px"
+        },
+        {
+          "count": 1,
+          "value": "-2px"
+        },
+        {
+          "count": 1,
+          "value": "56px"
+        }
+      ],
+      "text_colors": [
+        {
+          "count": 162,
+          "value": "#000000"
+        },
+        {
+          "count": 38,
+          "value": "#f23645"
+        },
+        {
+          "count": 22,
+          "value": "#ffffff"
+        },
+        {
+          "count": 20,
+          "value": "#707070"
+        },
+        {
+          "count": 10,
+          "value": "#22ab94"
+        },
+        {
+          "count": 5,
+          "value": "#089981"
+        },
+        {
+          "count": 4,
+          "value": "#2962ff"
+        },
+        {
+          "count": 4,
+          "value": "#8c8c8c"
+        },
+        {
+          "count": 2,
+          "value": "#ad1457"
+        },
+        {
+          "count": 2,
+          "value": "#ff9800"
+        },
+        {
+          "count": 2,
+          "value": "#9c9c9c"
+        },
+        {
+          "count": 2,
+          "value": "#cc2f3c"
+        },
+        {
+          "count": 2,
+          "value": "#06806b"
+        },
+        {
+          "count": 1,
+          "value": "#143eb2"
+        },
+        {
+          "count": 1,
+          "value": "#ef5350"
+        },
+        {
+          "count": 1,
+          "value": "#4527a0"
+        }
+      ]
+    },
+    "files": [
+      "README.md",
+      "capture.json"
+    ],
+    "html_bytes": 0,
+    "output_directory": "/home/user/Testing/craft-projects/tradingview-com/capture/routes/chart",
+    "screenshots": [
+      {
+        "css_width": 1440,
+        "cut": false,
+        "file": "screenshot-1440.png",
+        "height": 900,
+        "noise_file": "noise-1440.png",
+        "noise_tiles": 9,
+        "sha256": "a42d1b6b87f4092fbfb8d7d8b954fd14472c52cf98aab29dc69f978665462417",
+        "width": 1440
+      },
+      {
+        "css_width": 768,
+        "cut": false,
+        "file": "screenshot-768.png",
+        "height": 900,
+        "noise_file": "noise-768.png",
+        "noise_tiles": 15,
+        "sha256": "00b44eef73b371b3abbaf10a1915cc0684427da7b3636450616dc934339cc014",
+        "width": 768
+      },
+      {
+        "css_width": 390,
+        "cut": false,
+        "file": "screenshot-390.png",
+        "height": 900,
+        "noise_tiles": 0,
+        "sha256": "bdeb09e33c920329e4d26137f288200a5831b321ea9cb6167adeddd8d092449f",
+        "width": 390
+      }
+    ],
+    "sign_in_page": false,
+    "signed_in": false,
+    "signed_in_site": null,
+    "title": "AAPL 349.21 ▼ −0.92%",
+    "url": "https://www.tradingview.com/chart/"
+  },
+  "summary": "Captured https://www.tradingview.com/chart/: 3 screenshot(s), 343 outline items, 0 headings, 22 images, 4 links, 0 forms → /home/user/Testing/craft-projects/tradingview-com/capture/routes/chart.",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": true,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "linux-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "one_state",
+      "message": "One state of the page: menus, dialogs and content behind interactions are not opened."
+    },
+    {
+      "code": "visitor_view",
+      "message": "Clean room: only what a visitor sees was kept (screenshots, visible text, measured layout and styles); not the page's HTML, CSS rules, scripts, requests or errors."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 3,
+    "total": 3
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "https://www.tradingview.com/chart/"
+    },
+    {
+      "kind": "path",
+      "value": "/home/user/Testing/craft-projects/tradingview-com/capture/routes/chart"
+    }
+  ],
+  "links": []
+}

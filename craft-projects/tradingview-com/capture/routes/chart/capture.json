@@ -1,0 +1,4913 @@
+{
+  "a11y": {
+    "images_without_alt": 22,
+    "landmarks": {},
+    "lang": "en",
+    "unnamed_controls": 4,
+    "unnamed_examples": [
+      "button",
+      "button",
+      "button",
+      "button"
+    ]
+  },
+  "assets": {
+    "images": [
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      },
+      {
+        "h": 18,
+        "w": 18
+      }
+    ]
+  },
+  "design": {
+    "backgrounds": [
+      {
+        "count": 106,
+        "value": "#ffffff"
+      },
+      {
+        "count": 43,
+        "value": "#ebebeb"
+      },
+      {
+        "count": 12,
+        "value": "#f2f2f2"
+      },
+      {
+        "count": 9,
+        "value": "#9c9c9c"
+      },
+      {
+        "count": 6,
+        "value": "#ffffff80"
+      },
+      {
+        "count": 6,
+        "value": "#24b29b"
+      },
+      {
+        "count": 6,
+        "value": "#448aff"
+      },
+      {
+        "count": 6,
+        "value": "#4dd0e1"
+      },
+      {
+        "count": 5,
+        "value": "#3179f5"
+      },
+      {
+        "count": 4,
+        "value": "#21ac954d"
+      },
+      {
+        "count": 1,
+        "value": "#222222"
+      },
+      {
+        "count": 1,
+        "value": "#ffffffcc"
+      },
+      {
+        "count": 1,
+        "value": "#26c6da"
+      },
+      {
+        "count": 1,
+        "value": "#a8a8a8"
+      },
+      {
+        "count": 1,
+        "value": "#f57f17"
+      },
+      {
+        "count": 1,
+        "value": "#f54e621a"
+      }
+    ],
+    "font_sizes": [
+      {
+        "count": 101,
+        "value": "14px"
+      },
+      {
+        "count": 71,
+        "value": "13px"
+      },
+      {
+        "count": 51,
+        "value": "11px"
+      },
+      {
+        "count": 38,
+        "value": "12px"
+      },
+      {
+        "count": 8,
+        "value": "16px"
+      },
+      {
+        "count": 4,
+        "value": "10.5px"
+      },
+      {
+        "count": 3,
+        "value": "10px"
+      },
+      {
+        "count": 3,
+        "value": "20px"
+      },
+      {
+        "count": 1,
+        "value": "28px"
+      }
+    ],
+    "font_weights": [
+      {
+        "count": 206,
+        "value": "400"
+      },
+      {
+        "count": 53,
+        "value": "600"
+      },
+      {
+        "count": 21,
+        "value": "700"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 280,
+        "value": "-apple-system, BlinkMacSystemFont, \"Trebuchet MS\", Roboto, Ubuntu, sans-serif"
+      }
+    ],
+    "max_widths": [
+      {
+        "count": 2,
+        "value": "102px"
+      },
+      {
+        "count": 1,
+        "value": "100px"
+      }
+    ],
+    "radii": [
+      {
+        "count": 53,
+        "value": "50%"
+      },
+      {
+        "count": 26,
+        "value": "4px"
+      },
+      {
+        "count": 10,
+        "value": "10px"
+      },
+      {
+        "count": 10,
+        "value": "2px 2px 0px 0px"
+      },
+      {
+        "count": 9,
+        "value": "100%"
+      },
+      {
+        "count": 5,
+        "value": "14px"
+      },
+      {
+        "count": 3,
+        "value": "6px"
+      },
+      {
+        "count": 3,
+        "value": "8px"
+      },
+      {
+        "count": 2,
+        "value": "999px"
+      },
+      {
+        "count": 2,
+        "value": "4px 0px 0px"
+      }
+    ],
+    "shadows": [
+      {
+        "count": 4,
+        "value": "rgba(0, 0, 0, 0.2) 0px 2px 4px 0px"
+      },
+      {
+        "count": 1,
+        "value": "color(srgb 0.0784314 0.243137 0.698039 / 0.3) 0px 1px 2px 0px, color(srgb 0.0784314 0.243137 0.698039 / 0.45) 0px 12px 28px -8px"
+      }
+    ],
+    "spacing": [
+      {
+        "count": 176,
+        "value": "3px"
+      },
+      {
+        "count": 141,
+        "value": "8px"
+      },
+      {
+        "count": 95,
+        "value": "4px"
+      },
+      {
+        "count": 54,
+        "value": "2px"
+      },
+      {
+        "count": 49,
+        "value": "12px"
+      },
+      {
+        "count": 47,
+        "value": "16px"
+      },
+      {
+        "count": 44,
+        "value": "6px"
+      },
+      {
+        "count": 43,
+        "value": "5px"
+      },
+      {
+        "count": 17,
+        "value": "1px"
+      },
+      {
+        "count": 9,
+        "value": "10px"
+      },
+      {
+        "count": 9,
+        "value": "-8px"
+      },
+      {
+        "count": 8,
+        "value": "16.25px"
+      },
+      {
+        "count": 6,
+        "value": "42px"
+      },
+      {
+        "count": 4,
+        "value": "20px"
+      },
+      {
+        "count": 4,
+        "value": "15px"
+      },
+      {
+        "count": 3,
+        "value": "100px"
+      },
+      {
+        "count": 2,
+        "value": "-3px"
+      },
+      {
+        "count": 2,
+        "value": "-1px"
+      },
+      {
+        "count": 2,
+        "value": "7px"
+      },
+      {
+        "count": 1,
+        "value": "-100px"
+      },
+      {
+        "count": 1,
+        "value": "34px"
+      },
+      {
+        "count": 1,
+        "value": "-2px"
+      },
+      {
+        "count": 1,
+        "value": "56px"
+      }
+    ],
+    "text_colors": [
+      {
+        "count": 162,
+        "value": "#000000"
+      },
+      {
+        "count": 38,
+        "value": "#f23645"
+      },
+      {
+        "count": 22,
+        "value": "#ffffff"
+      },
+      {
+        "count": 20,
+        "value": "#707070"
+      },
+      {
+        "count": 10,
+        "value": "#22ab94"
+      },
+      {
+        "count": 5,
+        "value": "#089981"
+      },
+      {
+        "count": 4,
+        "value": "#2962ff"
+      },
+      {
+        "count": 4,
+        "value": "#8c8c8c"
+      },
+      {
+        "count": 2,
+        "value": "#ad1457"
+      },
+      {
+        "count": 2,
+        "value": "#ff9800"
+      },
+      {
+        "count": 2,
+        "value": "#9c9c9c"
+      },
+      {
+        "count": 2,
+        "value": "#cc2f3c"
+      },
+      {
+        "count": 2,
+        "value": "#06806b"
+      },
+      {
+        "count": 1,
+        "value": "#143eb2"
+      },
+      {
+        "count": 1,
+        "value": "#ef5350"
+      },
+      {
+        "count": 1,
+        "value": "#4527a0"
+      }
+    ]
+  },
+  "forms": [],
+  "headings": [],
+  "lang": "en",
+  "layouts": [
+    {
+      "blocks": [
+        {
+          "h": 858,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 1384,
+          "y": 42
+        }
+      ],
+      "page_h": 900,
+      "page_w": 1440,
+      "type": {
+        "body": 13,
+        "h1": 0,
+        "h2": 0,
+        "h3": 0
+      },
+      "width": 1440
+    },
+    {
+      "blocks": [
+        {
+          "h": 858,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 712,
+          "y": 42
+        }
+      ],
+      "page_h": 900,
+      "page_w": 768,
+      "type": {
+        "body": 13,
+        "h1": 0,
+        "h2": 0,
+        "h3": 0
+      },
+      "width": 768
+    },
+    {
+      "blocks": [
+        {
+          "h": 858,
+          "pad": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "per_row": 1,
+          "tag": "section",
+          "w": 390,
+          "y": 42
+        }
+      ],
+      "page_h": 900,
+      "page_w": 390,
+      "type": {
+        "body": 0,
+        "h1": 0,
+        "h2": 0,
+        "h3": 0
+      },
+      "width": 390
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.tradingview.com/symbols/NASDAQ-AAPL/",
+      "text": "Apple Inc"
+    },
+    {
+      "href": "https://www.tradingview.com/markets/stocks-usa/sectorandindustry-sector/electronic-technology/",
+      "text": "Electronic Technology"
+    },
+    {
+      "href": "https://www.tradingview.com/markets/stocks-usa/sectorandindustry-industry/telecommunications-equipment/",
+      "text": "Telecommunications Equipment"
+    },
+    {
+      "href": "http://www.apple.com/",
+      "text": "apple.com"
+    }
+  ],
+  "outline": [
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 1388,
+        "x": 52,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "toolbar",
+      "tag": "div",
+      "text": "AAPL D Indicators Alert Replay Save Save Trade Upgrade Upgrade"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 1190,
+        "x": 52,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "role": "none",
+      "tag": "div",
+      "text": "AAPL D Indicators Alert Replay Save Save"
+    },
+    {
+      "background": "#ebebeb",
+      "box": {
+        "h": 28,
+        "w": 128,
+        "x": 56,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "id": "header-toolbar-symbol-search",
+      "tag": "button",
+      "text": "AAPL"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 32,
+        "x": 152,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "id": "header-toolbar-switch-data-type",
+      "tag": "button"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 24,
+        "w": 28,
+        "x": 154,
+        "y": 7
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 159,
+        "y": 10
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 188,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "id": "header-toolbar-compare",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 193,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 193,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 37,
+        "x": 235,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "D"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 281,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 286,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 286,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 18,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 113,
+        "x": 328,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Indicators"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 333,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 333,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 24,
+        "x": 441,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 4,
+        "w": 8,
+        "x": 449,
+        "y": 17
+      },
+      "color": "#000000",
+      "depth": 18,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 4,
+        "w": 8,
+        "x": 449,
+        "y": 17
+      },
+      "color": "#000000",
+      "depth": 19,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 78,
+        "x": 474,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "id": "header-toolbar-alerts",
+      "tag": "button",
+      "text": "Alert"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 479,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 479,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 91,
+        "x": 552,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "id": "header-toolbar-replay",
+      "tag": "button",
+      "text": "Replay"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 557,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 557,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 652,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 652,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 657,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 690,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 690,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 695,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 954,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "id": "header-toolbar-layouts",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 19,
+        "w": 21,
+        "x": 963,
+        "y": 10
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 19,
+        "w": 21,
+        "x": 963,
+        "y": 10
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 65,
+        "x": 992,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Save Save"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 24,
+        "x": 1057,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 4,
+        "w": 8,
+        "x": 1065,
+        "y": 17
+      },
+      "color": "#000000",
+      "depth": 19,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 4,
+        "w": 8,
+        "x": 1065,
+        "y": 17
+      },
+      "color": "#000000",
+      "depth": 20,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1090,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "id": "header-toolbar-quick-search",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1095,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1095,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1128,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "id": "header-toolbar-properties",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1133,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1133,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1166,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "id": "header-toolbar-fullscreen",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1171,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1171,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1204,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1209,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1209,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1242,
+        "y": 0
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1247,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1247,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 62,
+        "x": 1284,
+        "y": 5
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Trade"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 81,
+        "x": 1355,
+        "y": 5
+      },
+      "color": "#b8b8b8",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Upgrade Upgrade"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 858,
+        "w": 52,
+        "x": 0,
+        "y": 42
+      },
+      "color": "#000000",
+      "depth": 5,
+      "font": "14px 400",
+      "id": "drawing-toolbar",
+      "role": "toolbar",
+      "tag": "div"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 48
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 53
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 53
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 64
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 64
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 86
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 91
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 91
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 102
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 102
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 124
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 129
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 129
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 140
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 140
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 162
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 167
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 167
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 178
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 178
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 200
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 205
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 205
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 216
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 216
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 238
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 243
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 243
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 254
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 254
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 276
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 281
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 281
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 292
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 292
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 314
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 319
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 319
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 330
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 330
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 365
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 370
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 370
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 403
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 408
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 408
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 441
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 446
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 446
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 492
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 497
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 497
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 508
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 508
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 530
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 535
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 535
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 568
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 573
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 573
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 584
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 584
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 606
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 611
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 611
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 622
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 622
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 52,
+        "x": 0,
+        "y": 657
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 662
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 12,
+        "y": 662
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 673
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 7,
+        "w": 4,
+        "x": 45,
+        "y": 673
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 819,
+        "w": 1034,
+        "x": 56,
+        "y": 42
+      },
+      "color": "#000000",
+      "depth": 7,
+      "font": "14px 400",
+      "role": "region",
+      "tag": "div",
+      "text": "A Apple Inc 1D NASDAQ Post-market 1s updates Indicative data O 352.91 H 355.28 L 346.47 C 349.21 −3.24 (−0.92%) 351.00 SELL 0.03 351.03 BUY Vol 40.5 M"
+    },
+    {
+      "box": {
+        "h": 24,
+        "w": 960,
+        "x": 60,
+        "y": 46
+      },
+      "color": "#ffffff80",
+      "depth": 14,
+      "font": "13px 400",
+      "role": "toolbar",
+      "tag": "div",
+      "text": "A Apple Inc 1D NASDAQ Post-market 1s updates Indicative data O 352.91 H 355.28 L 346.47 C 349.21 −3.24 (−0.92%)"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 65,
+        "y": 49
+      },
+      "color": "#ffffff",
+      "depth": 20,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/apple.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 71,
+        "x": 87,
+        "y": 48
+      },
+      "color": "#000000",
+      "depth": 18,
+      "font": "16px 400",
+      "tag": "button",
+      "text": "Apple Inc"
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 22,
+        "x": 170,
+        "y": 48
+      },
+      "color": "#000000",
+      "depth": 18,
+      "font": "16px 400",
+      "tag": "button",
+      "text": "1D"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 283,
+        "y": 52
+      },
+      "color": "#c9c9c9",
+      "depth": 22,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 303,
+        "y": 49
+      },
+      "color": "#000000",
+      "depth": 20,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 287,
+        "x": 279,
+        "y": 49
+      },
+      "color": "#ffffff80",
+      "depth": 20,
+      "font": "13px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 281,
+        "y": 49
+      },
+      "color": "#143eb2",
+      "depth": 21,
+      "font": "13px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 281,
+        "y": 49
+      },
+      "color": "#143eb2",
+      "depth": 22,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 383,
+        "y": 49
+      },
+      "color": "#ad1457",
+      "depth": 21,
+      "font": "13px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 383,
+        "y": 49
+      },
+      "color": "#ad1457",
+      "depth": 22,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#ffffffcc",
+      "box": {
+        "h": 21,
+        "w": 29,
+        "x": 65,
+        "y": 139
+      },
+      "color": "#ffffff80",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 15,
+        "x": 72,
+        "y": 142
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 24,
+        "w": 960,
+        "x": 60,
+        "y": 112
+      },
+      "color": "#ffffff80",
+      "depth": 15,
+      "font": "13px 400",
+      "role": "toolbar",
+      "tag": "div",
+      "text": "Vol 40.5 M"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 88,
+        "y": 115
+      },
+      "color": "#000000",
+      "depth": 21,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 116,
+        "y": 115
+      },
+      "color": "#000000",
+      "depth": 21,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 144,
+        "y": 115
+      },
+      "color": "#000000",
+      "depth": 21,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 172,
+        "y": 115
+      },
+      "color": "#000000",
+      "depth": 21,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 470,
+        "y": 777
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 473,
+        "y": 780
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 473,
+        "y": 780
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 502,
+        "y": 777
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 505,
+        "y": 780
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 505,
+        "y": 780
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 542,
+        "y": 777
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 545,
+        "y": 780
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 545,
+        "y": 780
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 574,
+        "y": 777
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 577,
+        "y": 780
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 577,
+        "y": 780
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 1034,
+        "x": 56,
+        "y": 862
+      },
+      "color": "#000000",
+      "depth": 6,
+      "font": "14px 400",
+      "role": "toolbar",
+      "tag": "div",
+      "text": "1D 5D 1M 3M 6M YTD 1Y 5Y All 22:17:11 UTC ADJ"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 31,
+        "x": 64,
+        "y": 862
+      },
+      "color": "#000000",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "1D"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 31,
+        "x": 95,
+        "y": 862
+      },
+      "color": "#000000",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "5D"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 34,
+        "x": 126,
+        "y": 862
+      },
+      "color": "#000000",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "1M"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 34,
+        "x": 160,
+        "y": 862
+      },
+      "color": "#000000",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "3M"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 34,
+        "x": 194,
+        "y": 862
+      },
+      "color": "#000000",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "6M"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 41,
+        "x": 228,
+        "y": 862
+      },
+      "color": "#000000",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "YTD"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 31,
+        "x": 269,
+        "y": 862
+      },
+      "color": "#000000",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "1Y"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 31,
+        "x": 299,
+        "y": 862
+      },
+      "color": "#000000",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "5Y"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 28,
+        "x": 330,
+        "y": 862
+      },
+      "color": "#000000",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "All"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 367,
+        "y": 862
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 372,
+        "y": 867
+      },
+      "color": "#000000",
+      "depth": 10,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 372,
+        "y": 867
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 107,
+        "x": 930,
+        "y": 862
+      },
+      "color": "#000000",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "22:17:11 UTC"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 40,
+        "x": 1046,
+        "y": 862
+      },
+      "color": "#000000",
+      "depth": 9,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "ADJ"
+    },
+    {
+      "box": {
+        "h": 858,
+        "w": 45,
+        "x": 1395,
+        "y": 42
+      },
+      "color": "#000000",
+      "depth": 10,
+      "font": "14px 400",
+      "role": "toolbar",
+      "tag": "div"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 44
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 44
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 44
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 90
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 90
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 90
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 136
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 136
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 136
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 431
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 431
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 431
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 475
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 475
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 475
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 521
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 521
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 521
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 567
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 567
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 567
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 613
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 613
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 613
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 659
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 659
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 659
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 705
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 705
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 705
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 751
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 751
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 751
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 797
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 797
+      },
+      "color": "#222222",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 797
+      },
+      "color": "#222222",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 854
+      },
+      "color": "#000000",
+      "depth": 11,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 854
+      },
+      "color": "#000000",
+      "depth": 12,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 44,
+        "w": 44,
+        "x": 1396,
+        "y": 854
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 34,
+        "w": 96,
+        "x": 1102,
+        "y": 49
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 600",
+      "tag": "button",
+      "text": "Watchlist"
+    },
+    {
+      "box": {
+        "h": 4,
+        "w": 8,
+        "x": 1181,
+        "y": 64
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 600",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 4,
+        "w": 8,
+        "x": 1181,
+        "y": 64
+      },
+      "color": "#000000",
+      "depth": 18,
+      "font": "14px 600",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1272,
+        "y": 47
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1277,
+        "y": 52
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1277,
+        "y": 52
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1310,
+        "y": 47
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1315,
+        "y": 52
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1315,
+        "y": 52
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1348,
+        "y": 47
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1353,
+        "y": 52
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1353,
+        "y": 52
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 97
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 97
+      },
+      "color": "#dbdbdb",
+      "depth": 18,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 97
+      },
+      "color": "#dbdbdb",
+      "depth": 19,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 49,
+        "x": 1110,
+        "y": 95
+      },
+      "color": "#707070",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Symbol"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 28,
+        "x": 1222,
+        "y": 95
+      },
+      "color": "#707070",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Last"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 27,
+        "x": 1291,
+        "y": 95
+      },
+      "color": "#707070",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Chg"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 40,
+        "x": 1338,
+        "y": 95
+      },
+      "color": "#707070",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Chg%"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 22,
+        "x": 1108,
+        "y": 135
+      },
+      "color": "#808080",
+      "depth": 23,
+      "font": "0px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 137
+      },
+      "color": "#808080",
+      "depth": 24,
+      "font": "0px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 169
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 167
+      },
+      "color": "#ffffff",
+      "depth": 26,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/indices/s-and-p-500.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 199
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 197
+      },
+      "color": "#ffffff",
+      "depth": 26,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/indices/nasdaq-100.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 229
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 227
+      },
+      "color": "#ffffff",
+      "depth": 26,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/indices/dow-30.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 259
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 257
+      },
+      "color": "#ffffff",
+      "depth": 26,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/indices/volatility-s-and-p-500.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 289
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 287
+      },
+      "color": "#ffffff",
+      "depth": 26,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/indices/u-s-dollar-index.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 22,
+        "x": 1108,
+        "y": 321
+      },
+      "color": "#808080",
+      "depth": 23,
+      "font": "0px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 323
+      },
+      "color": "#808080",
+      "depth": 24,
+      "font": "0px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 355
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 353
+      },
+      "color": "#ffffff",
+      "depth": 26,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/apple.svg",
+      "tag": "img"
+    },
+    {
+      "background": "#f2f2f2",
+      "box": {
+        "h": 22,
+        "w": 22,
+        "x": 1366,
+        "y": 351
+      },
+      "color": "#808080",
+      "depth": 23,
+      "font": "0px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1368,
+        "y": 353
+      },
+      "color": "#808080",
+      "depth": 24,
+      "font": "0px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 385
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 383
+      },
+      "color": "#ffffff",
+      "depth": 26,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/tesla.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 415
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 413
+      },
+      "color": "#ffffff",
+      "depth": 26,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/netflix.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 22,
+        "x": 1108,
+        "y": 447
+      },
+      "color": "#808080",
+      "depth": 23,
+      "font": "0px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 449
+      },
+      "color": "#808080",
+      "depth": 24,
+      "font": "0px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 481
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 479
+      },
+      "color": "#ffffff",
+      "depth": 26,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/crude-oil.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 511
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 509
+      },
+      "color": "#ffffff",
+      "depth": 26,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/metal/gold.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 541
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 539
+      },
+      "color": "#ffffff",
+      "depth": 26,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/metal/silver.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 22,
+        "x": 1108,
+        "y": 573
+      },
+      "color": "#808080",
+      "depth": 23,
+      "font": "0px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 575
+      },
+      "color": "#808080",
+      "depth": 24,
+      "font": "0px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 607
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 12,
+        "w": 12,
+        "x": 1116,
+        "y": 605
+      },
+      "color": "#f2f2f2",
+      "depth": 28,
+      "font": "14px 400",
+      "src": "https://s3-symbol-logo.tradingview.com/country/US.svg",
+      "tag": "img"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 12,
+        "w": 12,
+        "x": 1110,
+        "y": 611
+      },
+      "color": "#f2f2f2",
+      "depth": 28,
+      "font": "14px 400",
+      "src": "https://s3-symbol-logo.tradingview.com/country/EU.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 637
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 12,
+        "w": 12,
+        "x": 1116,
+        "y": 635
+      },
+      "color": "#f2f2f2",
+      "depth": 28,
+      "font": "14px 400",
+      "src": "https://s3-symbol-logo.tradingview.com/country/US.svg",
+      "tag": "img"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 12,
+        "w": 12,
+        "x": 1110,
+        "y": 641
+      },
+      "color": "#f2f2f2",
+      "depth": 28,
+      "font": "14px 400",
+      "src": "https://s3-symbol-logo.tradingview.com/country/GB.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 667
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 12,
+        "w": 12,
+        "x": 1116,
+        "y": 665
+      },
+      "color": "#f2f2f2",
+      "depth": 28,
+      "font": "14px 400",
+      "src": "https://s3-symbol-logo.tradingview.com/country/JP.svg",
+      "tag": "img"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 12,
+        "w": 12,
+        "x": 1110,
+        "y": 671
+      },
+      "color": "#f2f2f2",
+      "depth": 28,
+      "font": "14px 400",
+      "src": "https://s3-symbol-logo.tradingview.com/country/US.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 22,
+        "x": 1108,
+        "y": 699
+      },
+      "color": "#808080",
+      "depth": 23,
+      "font": "0px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 701
+      },
+      "color": "#808080",
+      "depth": 24,
+      "font": "0px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 733
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 731
+      },
+      "color": "#ffffff",
+      "depth": 26,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 763
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 761
+      },
+      "color": "#ffffff",
+      "depth": 26,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/crypto/XTVCBTC.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 13,
+        "w": 12,
+        "x": 1094,
+        "y": 793
+      },
+      "color": "#c9c9c9",
+      "depth": 25,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 791
+      },
+      "color": "#ffffff",
+      "depth": 26,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/crypto/XTVCETH.svg",
+      "tag": "img"
+    },
+    {
+      "alt": "",
+      "box": {
+        "h": 24,
+        "w": 24,
+        "x": 1110,
+        "y": 485
+      },
+      "color": "#ffffff",
+      "depth": 14,
+      "font": "11px 700",
+      "src": "https://s3-symbol-logo.tradingview.com/apple.svg",
+      "tag": "img"
+    },
+    {
+      "box": {
+        "h": 38,
+        "w": 38,
+        "x": 1272,
+        "y": 478
+      },
+      "color": "#000000",
+      "depth": 13,
+      "font": "14px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1277,
+        "y": 483
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1277,
+        "y": 483
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1315,
+        "y": 483
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1315,
+        "y": 483
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1353,
+        "y": 483
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "14px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 28,
+        "w": 28,
+        "x": 1353,
+        "y": 483
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 22,
+        "w": 73,
+        "x": 1110,
+        "y": 521
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "12px 400",
+      "href": "https://www.tradingview.com/symbols/NASDAQ-AAPL/",
+      "tag": "a",
+      "text": "Apple Inc"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1165,
+        "y": 523
+      },
+      "color": "#707070",
+      "depth": 17,
+      "font": "12px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1165,
+        "y": 523
+      },
+      "color": "#707070",
+      "depth": 18,
+      "font": "12px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 15,
+        "w": 126,
+        "x": 1110,
+        "y": 546
+      },
+      "color": "#9c9c9c",
+      "depth": 16,
+      "font": "12px 400",
+      "href": "https://www.tradingview.com/markets/stocks-usa/sectorandindustry-sector/electronic-technology/",
+      "tag": "a",
+      "text": "Electronic Technology"
+    },
+    {
+      "box": {
+        "h": 32,
+        "w": 258,
+        "x": 1110,
+        "y": 546
+      },
+      "color": "#9c9c9c",
+      "depth": 16,
+      "font": "12px 400",
+      "href": "https://www.tradingview.com/markets/stocks-usa/sectorandindustry-industry/telecommunications-equipment/",
+      "tag": "a",
+      "text": "Telecommunications Equipment"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 684
+      },
+      "color": "#2962ff",
+      "depth": 16,
+      "font": "13px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1110,
+        "y": 684
+      },
+      "color": "#2962ff",
+      "depth": 17,
+      "font": "13px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1122,
+        "y": 801
+      },
+      "color": "#4527a0",
+      "depth": 16,
+      "font": "12px 600",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1122,
+        "y": 801
+      },
+      "color": "#4527a0",
+      "depth": 17,
+      "font": "12px 600",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 8,
+        "w": 8,
+        "x": 1199,
+        "y": 879
+      },
+      "color": "#707070",
+      "depth": 16,
+      "font": "12px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 8,
+        "w": 8,
+        "x": 1199,
+        "y": 879
+      },
+      "color": "#707070",
+      "depth": 17,
+      "font": "12px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#f2f2f2",
+      "box": {
+        "h": 21,
+        "w": 42,
+        "x": 1223,
+        "y": 1053
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "12px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 4,
+        "w": 8,
+        "x": 1240,
+        "y": 1062
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "12px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 4,
+        "w": 8,
+        "x": 1240,
+        "y": 1062
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "12px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#f2f2f2",
+      "box": {
+        "h": 21,
+        "w": 78,
+        "x": 1205,
+        "y": 1320
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "12px 400",
+      "tag": "button",
+      "text": "More info"
+    },
+    {
+      "box": {
+        "h": 120,
+        "w": 120,
+        "x": 1184,
+        "y": 1390
+      },
+      "color": "#000000",
+      "depth": 18,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#f2f2f2",
+      "box": {
+        "h": 21,
+        "w": 78,
+        "x": 1205,
+        "y": 1662
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "12px 400",
+      "tag": "button",
+      "text": "More info"
+    },
+    {
+      "box": {
+        "h": 4,
+        "w": 8,
+        "x": 1231,
+        "y": 1714
+      },
+      "color": "#000000",
+      "depth": 20,
+      "font": "13px 600",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 4,
+        "w": 8,
+        "x": 1231,
+        "y": 1714
+      },
+      "color": "#000000",
+      "depth": 21,
+      "font": "13px 600",
+      "tag": "svg"
+    },
+    {
+      "background": "#f2f2f2",
+      "box": {
+        "h": 21,
+        "w": 111,
+        "x": 1189,
+        "y": 1952
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "12px 400",
+      "tag": "button",
+      "text": "More financials"
+    },
+    {
+      "background": "#f2f2f2",
+      "box": {
+        "h": 21,
+        "w": 113,
+        "x": 1187,
+        "y": 2369
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "12px 400",
+      "tag": "button",
+      "text": "More seasonals"
+    },
+    {
+      "box": {
+        "h": 77,
+        "w": 154,
+        "x": 1167,
+        "y": 2439
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 170,
+        "w": 154,
+        "x": 1139,
+        "y": 2407
+      },
+      "color": "#000000",
+      "depth": 18,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#f2f2f2",
+      "box": {
+        "h": 21,
+        "w": 114,
+        "x": 1187,
+        "y": 2576
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "12px 400",
+      "tag": "button",
+      "text": "More technicals"
+    },
+    {
+      "box": {
+        "h": 77,
+        "w": 154,
+        "x": 1167,
+        "y": 2646
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 170,
+        "w": 154,
+        "x": 1139,
+        "y": 2614
+      },
+      "color": "#000000",
+      "depth": 19,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "background": "#f2f2f2",
+      "box": {
+        "h": 21,
+        "w": 95,
+        "x": 1196,
+        "y": 2827
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "12px 400",
+      "tag": "button",
+      "text": "See forecast"
+    },
+    {
+      "background": "#f2f2f2",
+      "box": {
+        "h": 21,
+        "w": 92,
+        "x": 1198,
+        "y": 2981
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "12px 400",
+      "tag": "button",
+      "text": "More bonds"
+    },
+    {
+      "background": "#f2f2f2",
+      "box": {
+        "h": 21,
+        "w": 116,
+        "x": 1186,
+        "y": 3026
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "12px 400",
+      "tag": "button",
+      "text": "More on options"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1122,
+        "y": 3080
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "12px 600",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1122,
+        "y": 3080
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "12px 600",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 8,
+        "w": 8,
+        "x": 1293,
+        "y": 3085
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "12px 600",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 8,
+        "w": 8,
+        "x": 1293,
+        "y": 3085
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "12px 600",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 85,
+        "x": 1293,
+        "y": 3157
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "13px 600",
+      "href": "http://www.apple.com/",
+      "tag": "a",
+      "text": "apple.com"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1360,
+        "y": 3157
+      },
+      "color": "#707070",
+      "depth": 17,
+      "font": "13px 600",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1360,
+        "y": 3157
+      },
+      "color": "#707070",
+      "depth": 18,
+      "font": "13px 600",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1358,
+        "y": 3205
+      },
+      "color": "#707070",
+      "depth": 18,
+      "font": "13px 600",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1358,
+        "y": 3205
+      },
+      "color": "#707070",
+      "depth": 19,
+      "font": "13px 600",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1358,
+        "y": 3229
+      },
+      "color": "#707070",
+      "depth": 18,
+      "font": "13px 600",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1358,
+        "y": 3229
+      },
+      "color": "#707070",
+      "depth": 19,
+      "font": "13px 600",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1358,
+        "y": 3253
+      },
+      "color": "#707070",
+      "depth": 18,
+      "font": "13px 600",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1358,
+        "y": 3253
+      },
+      "color": "#707070",
+      "depth": 19,
+      "font": "13px 600",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1358,
+        "y": 3277
+      },
+      "color": "#707070",
+      "depth": 18,
+      "font": "13px 600",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 18,
+        "x": 1358,
+        "y": 3277
+      },
+      "color": "#707070",
+      "depth": 19,
+      "font": "13px 600",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 95,
+        "w": 268,
+        "x": 1110,
+        "y": 3310
+      },
+      "color": "#000000",
+      "depth": 14,
+      "font": "13px 400",
+      "tag": "p",
+      "text": "Apple, Inc. engages in the design, manufacture, and sale of smartphones, personal computers, tablets, wearables and accessories, and other varieties of related services. It operates through the follow"
+    },
+    {
+      "background": "#f2f2f2",
+      "box": {
+        "h": 21,
+        "w": 42,
+        "x": 1223,
+        "y": 3413
+      },
+      "color": "#000000",
+      "depth": 15,
+      "font": "12px 400",
+      "tag": "button"
+    },
+    {
+      "box": {
+        "h": 4,
+        "w": 8,
+        "x": 1240,
+        "y": 3422
+      },
+      "color": "#000000",
+      "depth": 16,
+      "font": "12px 400",
+      "role": "img",
+      "tag": "span"
+    },
+    {
+      "box": {
+        "h": 4,
+        "w": 8,
+        "x": 1240,
+        "y": 3422
+      },
+      "color": "#000000",
+      "depth": 17,
+      "font": "12px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 27,
+        "w": 9,
+        "x": 1091,
+        "y": 815
+      },
+      "color": "#000000",
+      "depth": 8,
+      "font": "14px 400",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 858,
+        "w": 1384,
+        "x": 56,
+        "y": 42
+      },
+      "color": "#000000",
+      "depth": 5,
+      "display": "flex",
+      "flex": "column-reverse",
+      "font": "14px 400",
+      "tag": "section"
+    },
+    {
+      "background": "#ffffff",
+      "box": {
+        "h": 28,
+        "w": 51,
+        "x": 257,
+        "y": 418
+      },
+      "color": "#000000",
+      "depth": 10,
+      "font": "14px 400",
+      "tag": "button",
+      "text": "Got it"
+    }
+  ],
+  "page": {
+    "h": 900,
+    "w": 1440
+  },
+  "sign_in_page": false,
+  "signed_in": false,
+  "signed_in_site": null,
+  "text": "AAPL D Indicators Alert Replay Save Save Trade Upgrade Upgrade A Apple Inc 1D NASDAQ Post-market 1s updates Indicative data O 352.91 H 355.28 L 346.47 C 349.21 −3.24 (−0.92%) 351.00 SELL 0.03 351.03 BUY Vol 40.5 M 1D 5D 1M 3M 6M YTD 1Y 5Y All 22:17:11 UTC ADJ Watchlist Symbol Last Chg Chg% INDICES S SPX D 7,175.83 −147.80 −2.02% N NDQ 26,517.06 −599.20 −2.21% D DJI 49,101.92 −1,101.11 −2.19% V VIX D 28.44 3.88 15.80% D DXY 103.929 0.115 0.11% STOCKS A AAPL 349.21 −3.24 −0.92% T TSLA 374.41 −9.31 −2.43% N NFLX 58.46 −1.36 −2.27% FUTURES U USOIL 83.15 1.25 1.53% G GOLD 3,624.402 −100.698 −2.70% S SILVER 42.8786 −2.1660 −4.81% FOREX E EURUSD 1.09685 0.00018 0.02% G GBPUSD 1.30855 −0.00015 −0.01% U USDJPY 159.670 −0.019 −0.01% CRYPTO B BTCUSD 61,763 −1,213 −1.93% B BTCUSDT 61,826.00 −1,242.22 −1.97% E ETHUSD 1,745.5 −28.6 −1.61% A AAPL Apple Inc NASDAQ Electronic Technology Telecommunications Equipment 349.21 USD −3.24 −0.92% Last update at 22:10 GMT+0 351.02USD +1.81 +0.52% Post-market Last update at 22:17 GMT+0 Volume ‪40.50 M‬ Avg. volume (30D) ‪45.30 M‬ Key facts Apple Inc. (AAPL) executive responsible for the iPhone Camera app has left the company, according to Bloomberg News. Keep reading Key stats Next earnings report In 77 days Market capitalization ‪5.07 T‬ Dividend yield (indicated) 0.31% Price to earnings Ratio (TTM) 39.27 EPS 77 Q1 '26 Q2 '26 Q3 '26 Q4 '26 Q1 '27 ‪0.00‬ ‪0.80‬ ‪1.60‬ ‪2.40‬ ‪3.20‬ Actual Estimate More info Dividends 11.81% Earnings retained Payout ratio (TTM) Dividend yield TTM 0.30% Last dividend amount 0.27 Last ex-dividend date Nov 12, 2026 Last payment date Nov 16, 2026 More info Income statement Annual Quarterly '22 '23 '24 '25 '26 ‪0.00‬ ‪‪120.00 B‬‬ ‪‪240.00 B‬‬ ‪‪360.00 B‬‬ ‪‪480.00 B‬‬ Revenue Net income Net margin % More financials Performance −2.40% 1W 2.75% 1M 11.91% 3M 14.08% 6M 28.27% YTD 31.52% 1Y Seasonals 2026 2025 2024 More seasonals Technicals Buy More technicals Analyst rating Buy 1 year price target 348.52 (−0.20%) See forecast Highest YTM bonds Aug 5, 2061 6.16% Sep 11, 2049 6.15% Nov 13, 2047 6.15% More bonds More on options Browse community posts Profile Website apple.com Employees (FY) ‪167 K‬ ISIN US0378331005 CUSIP 037833100 FIGI BBG000B9XRY4 CFI code ESVUFR Apple, Inc. engages in the design, manufacture, and sale of smartphones, personal computers, tablets, wearables and accessories, and other varieties of related services. It operates through the following geographical segments: Americas, Europe, Greater China, Japan, and Rest of Asia Pacific. The Americas segment includes North and South America. The Europe segment consists of European countries, as well as India, the Middle East, and Africa. The Greater China segment comprises China, Hong Kong, and Taiwan. The Rest of Asia Pacific segment includes Australia and Asian countries. Its products and services include iPhone, Mac, iPad, AirPods, Apple TV, Apple Watch, Beats products, AppleCare, iCloud, digital content stores, streaming, and licensing services. The company was founded by Steven Paul Jobs, Ronald Gerald Wayne, and Stephen G. Wozniak in April 1976 and is headquartered in Cupertino, CA. AI range on your chart Select a range on the chart and ask Copilot to explain price moves or add drawings. Got it",
+  "title": "AAPL 349.21 ▼ −0.92%",
+  "url": "https://www.tradingview.com/chart/",
+  "viewport": {
+    "h": 900,
+    "w": 1440
+  }
+}

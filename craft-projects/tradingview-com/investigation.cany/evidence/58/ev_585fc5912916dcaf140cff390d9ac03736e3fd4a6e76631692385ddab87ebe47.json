@@ -1,0 +1,60 @@
+{
+  "id": "ev_585fc5912916dcaf140cff390d9ac03736e3fd4a6e76631692385ddab87ebe47",
+  "subject": {
+    "kind": "website",
+    "name": "http://127.0.0.1:35425/markets/"
+  },
+  "operation": "web_site_open",
+  "params": {
+    "height": 900,
+    "url": "http://127.0.0.1:35425/markets/",
+    "width": 1440
+  },
+  "result": {
+    "browser": "Chrome/153.0.8010.12",
+    "dialogs": [],
+    "facts": {
+      "forms": 0,
+      "height": 10390,
+      "images": 0,
+      "lang": "en",
+      "links": 232,
+      "ready": "complete",
+      "title": "Markets today — quotes, charts and events — Tickerra",
+      "url": "http://127.0.0.1:35425/markets/",
+      "width": 1425
+    },
+    "health": null,
+    "signed_in": false,
+    "signed_in_site": null,
+    "title": "Markets today — quotes, charts and events — Tickerra",
+    "url": "http://127.0.0.1:35425/markets/"
+  },
+  "summary": "Opened http://127.0.0.1:35425/markets/: \"Markets today — quotes, charts and events — Tickerra\".",
+  "confidence": "observed",
+  "authority": "our-run",
+  "environment": {
+    "clean_room": true,
+    "engine": "cdp",
+    "engine_version": "1.3",
+    "host": "linux-x86_64"
+  },
+  "limitations": [
+    {
+      "code": "private_profile",
+      "message": "A fresh private browser: pages behind a login show their signed-out state."
+    }
+  ],
+  "coverage": {
+    "status": "complete",
+    "examined": 1,
+    "total": 1
+  },
+  "locations": [
+    {
+      "kind": "url",
+      "value": "http://127.0.0.1:35425/markets/"
+    }
+  ],
+  "links": []
+}
