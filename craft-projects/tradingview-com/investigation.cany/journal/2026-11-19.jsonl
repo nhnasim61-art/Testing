@@ -1,0 +1,1 @@
+{"caller":"ui","duration_ms":6463,"evidence_id":"ev_0df5a60cf4cd4774aa622566d6470de47feed511f74fd64161e75f9ae949a0fe","kind":"tool_call","ok":true,"params":{"url":"https://www.tradingview.com/"},"time":"2026-11-19T22:16:08Z","tool":"web_site_open","ts":1795126568}

@@ -1,0 +1,21 @@
+{
+  "version": 5,
+  "name": "tradingview.com",
+  "request": "Recreate this website's charting experience as a web app: an interactive candlestick chart with timeframes, drawing tools, indicators (moving averages, RSI, MACD, volume), a symbol search and a watchlist, using simulated market data. Use an original name and branding, not TradingView's logo or trademarks.",
+  "target": {
+    "kind": "website",
+    "url": "https://www.tradingview.com/"
+  },
+  "stack": "Builder's choice",
+  "status": "inspecting",
+  "note": "Photographing the page and reading its layout…",
+  "created_ms": 1795126561354,
+  "updated_ms": 1795126568062,
+  "checks": [],
+  "agent_session": null,
+  "allowed_actions": [],
+  "last_reply": "",
+  "asset_budget_usd": 5.0,
+  "generate_assets": false,
+  "builder": "Claude Code"
+}
