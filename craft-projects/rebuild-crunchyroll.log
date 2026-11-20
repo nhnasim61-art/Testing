@@ -36,3 +36,14 @@ Setting up the app now: a sample catalog of real anime titles and the shared loo
 Home, browse and search pages are written; now the series page, video player and watchlist.
   · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/src/pages/series.js
   · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/src/pages/watch.js
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/src/pages/watchlist.js
+  · Running cd /home/user/Testing/craft-projects/crunchyroll-com/app/src/pages && python3 - <<'EOF'
+  · Running cd /home/user/Testing/craft-projects/crunchyroll-com/app && mk() { # file root title script
+[Build] The builder was refused permission for deleting anything outside the project or the temp folder. To ask before trying again, use Approvals or type /approvals delete_outside ask.
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/index.html
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/browse/index.html
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/search/index.html
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/series/index.html
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/watch/index.html
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/watchlist/index.html
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/public/favicon.svg
