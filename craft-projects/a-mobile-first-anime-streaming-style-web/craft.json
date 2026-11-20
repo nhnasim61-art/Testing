@@ -1,0 +1,22 @@
+{
+  "version": 5,
+  "name": "A mobile-first anime streaming-style web",
+  "request": "A mobile-first anime streaming-style web app in the spirit of the Anime Cloud phone app: a dark navy theme with a blue gradient accent, a home screen with a featured banner carousel, rows for Trending, New Episodes, Popular and genres, a search screen with filters, an anime detail page (poster, synopsis, genres, rating, episode list) and a My List / watch history screen saved in the browser, with a bottom tab bar. Use a built-in sample catalog of real anime titles (metadata only) and play official trailers through YouTube embeds instead of full episodes; never link to or stream unlicensed episodes. Use an original name and logo, not Anime Cloud's.",
+  "target": {
+    "kind": "none"
+  },
+  "stack": "React + TypeScript (Vite)",
+  "status": "building",
+  "note": "Building the first version…",
+  "created_ms": 1795134161661,
+  "updated_ms": 1795134162020,
+  "checks": [],
+  "agent_session": null,
+  "agent_session_by": "claude-code",
+  "capture_deep": false,
+  "allowed_actions": [],
+  "last_reply": "",
+  "asset_budget_usd": 5.0,
+  "generate_assets": false,
+  "builder": "Claude Code"
+}
