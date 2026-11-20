@@ -1,0 +1,13 @@
+{
+  "id": "unk_e9115f57f2d44e53",
+  "revision": 1,
+  "question": "What does the real site's home page look like (colours, header, hero, row and card sizes)? The capture only recorded a Cloudflare bot-verification page, so no design tokens of the actual site exist.",
+  "severity": "high",
+  "domain": "design",
+  "status": "open",
+  "probes": [
+    "A capture of the site that passes the bot check (e.g. signed-in capture via web_site_sign_in, or screenshots the person supplies)"
+  ],
+  "evidence_for": [],
+  "evidence_against": []
+}

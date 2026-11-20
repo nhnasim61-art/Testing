@@ -1,0 +1,14 @@
+{
+  "id": "unk_3869993300f83c3b",
+  "revision": 1,
+  "question": "Are the YouTube video IDs used for official trailers correct and still available? YouTube could not be reached from the build machine (network blocked, browser check declined).",
+  "severity": "medium",
+  "domain": "content",
+  "status": "open",
+  "probes": [
+    "Open each trailer on the watch page in a normal browser",
+    "YouTube oEmbed lookup of each ID"
+  ],
+  "evidence_for": [],
+  "evidence_against": []
+}

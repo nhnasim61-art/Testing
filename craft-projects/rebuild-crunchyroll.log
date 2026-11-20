@@ -8,3 +8,31 @@ Project: /home/user/Testing/craft-projects/crunchyroll-com
   · web page states capture
 [Build] Getting the builder ready…
 [Build] Building the first version…
+  · core investigation show
+  · Running ls -la && ls -la capture app 2>/dev/null; cat capture/README.md
+  · Running ls -la capture/states capture/states-390 inbox; cat capture/capture.json; cat craft.json feed.json
+  · Reading /home/user/Testing/craft-projects/crunchyroll-com/capture/screenshot-1440.png
+  · Running cat capture/states/states.json capture/states-390/states.json inbox/build-progress.json; echo; curl -s -m 10 "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=pkKu9hLT-t8&format=json…
+[Build] The builder was refused permission for changing the system, its settings or users, system files, or Craft Anything's own records. To ask before trying again, use Approvals or type /approvals system ask.
+  · Running cat capture/states/states.json capture/states-390/states.json; node -v; npm -v
+  · Running curl -s -m 10 "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=pkKu9hLT-t8&format=json"
+  · Running cd /tmp && timeout 60 npm view vite version 2>&1 | tail -3
+  · list toolsets
+  · enable toolset
+  · web site open: https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=pkKu9hLT-t8&format=json
+? Allow: Open a website → refused (unattended)
+  · core brief write
+  · core unknown add
+  · core unknown add
+  · core plan update
+Setting up the app now: a sample catalog of real anime titles and the shared look (dark theme, original "Hikari" name and a teal accent).
+  · Running mkdir -p /home/user/Testing/craft-projects/crunchyroll-com/app/{src/pages,browse,search,series,watch,watchlist,public} && cd /home/user/Testing/craft-projects/crunchyroll-com/app && cat > package.json…
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/src/data.js
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/src/store.js
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/src/ui.js
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/src/pages/home.js
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/src/pages/browse.js
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/src/pages/search.js
+Home, browse and search pages are written; now the series page, video player and watchlist.
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/src/pages/series.js
+  · Writing /home/user/Testing/craft-projects/crunchyroll-com/app/src/pages/watch.js

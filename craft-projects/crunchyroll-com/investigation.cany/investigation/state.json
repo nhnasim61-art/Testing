@@ -1,0 +1,44 @@
+{
+  "revision": 2,
+  "brief": {
+    "question": "Build an original-branded anime streaming-style web app (home with hero carousel and rows, genre browse, search, series page with seasons/episodes, browser-saved watchlist, YouTube trailer player) modelled on the browsing experience of crunchyroll.com.",
+    "purpose": "A non-coder wants a working look-alike browsing experience with a sample catalog of real titles (metadata only) and official trailers via YouTube embeds.",
+    "targets": [
+      "https://www.crunchyroll.com/"
+    ],
+    "constraints": [
+      "Clean room: do not open or fetch the original site or its code",
+      "Original name, logo and accent colour; no Crunchyroll trademarks",
+      "Never link to or stream unlicensed episodes; trailers only via YouTube embeds",
+      "Static build output in app/dist; change files only in app/"
+    ],
+    "done_when": "npm run build succeeds and the static site provides all six requested pages working at phone, tablet and desktop widths without sideways scroll."
+  },
+  "plan": [
+    {
+      "title": "Study the captured pictures of the original",
+      "status": "done",
+      "why": "Capture only shows a bot-check page; design taken from the request and the genre instead"
+    },
+    {
+      "title": "Set up the app and the sample show catalog",
+      "status": "doing"
+    },
+    {
+      "title": "Build home, browse, search, series, player and watchlist pages",
+      "status": "todo"
+    },
+    {
+      "title": "Make it fit phones, tablets and desktops",
+      "status": "todo"
+    },
+    {
+      "title": "Check the build and fix what differs",
+      "status": "todo"
+    }
+  ],
+  "hypotheses": [],
+  "findings": [],
+  "handoff": null,
+  "updated": "2026-11-20T00:28:04Z"
+}
