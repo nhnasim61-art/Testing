@@ -1,0 +1,23 @@
+{
+  "version": 5,
+  "name": "crunchyroll.com",
+  "request": "Recreate this anime streaming website's browsing experience as a web app: home page with a hero carousel and rows of shows, browse by genre, search, a series page with seasons and episode list, a watchlist saved in the browser, and a video player page. Use a sample catalog of real anime titles (metadata only) and play official trailers through YouTube embeds instead of full episodes; never link to or stream unlicensed episodes. Use an original name, logo and colours accent, not Crunchyroll's name, logo or trademarks.",
+  "target": {
+    "kind": "website",
+    "url": "https://www.crunchyroll.com/"
+  },
+  "stack": "Builder's choice",
+  "status": "building",
+  "note": "Building the first version…",
+  "created_ms": 1795134363390,
+  "updated_ms": 1795134386789,
+  "checks": [],
+  "agent_session": null,
+  "agent_session_by": "claude-code",
+  "capture_deep": false,
+  "allowed_actions": [],
+  "last_reply": "",
+  "asset_budget_usd": 5.0,
+  "generate_assets": false,
+  "builder": "Claude Code"
+}

@@ -6,3 +6,5 @@ Project: /home/user/Testing/craft-projects/a-mobile-first-anime-streaming-style-
   · Running cat craft.json feed.json; ls -la capture; node -v; npm -v
 [Build] The builder was refused permission for changing the system, its settings or users, system files, or Craft Anything's own records. To ask before trying again, use Approvals or type /approvals system ask.
   · Running ls -la capture; node -v; npm -v
+  · Reading /home/user/Testing/craft-projects/a-mobile-first-anime-streaming-style-web/capture/README.md
+Paused.

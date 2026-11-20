@@ -11,3 +11,8 @@
 00:22:46 stage The builder was refused permission for changing the system, its settings or users, system files, or Craft Anything's own records. To ask before trying again, use Approvals or type /approvals system ask.
 00:22:48 start Running ls -la capture; node -v; npm -v
 00:22:48 done  Running ls -la capture; node -v; npm -v: total 12 drwxr-xr-x 2 root root 4096 Nov 20 00:22 . drwxr-xr-x 6 root root 4096 Nov 20 00:22 .. -rw-r--r-- 1 root root 43 Nov 20 00:22 README.md v22.23.5 10.9.9
+00:22:50 start Reading capture/README.md
+00:22:50 done  Reading capture/README.md: 1 # No target 2 3 Build from the request alone. 4
+00:23:04 note  Stopped.
+00:23:04 note  The builder's turn ended (0 tokens in, 0 out)
+00:23:04 stage Paused.

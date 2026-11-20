@@ -1,0 +1,429 @@
+{
+  "a11y": {
+    "images_without_alt": 0,
+    "landmarks": {
+      "contentinfo": 1,
+      "main": 1
+    },
+    "lang": "en-us",
+    "unnamed_controls": 0,
+    "unnamed_examples": []
+  },
+  "assets": {
+    "images": [
+      {
+        "h": 0,
+        "w": 0
+      }
+    ]
+  },
+  "design": {
+    "backgrounds": [],
+    "font_sizes": [
+      {
+        "count": 12,
+        "value": "16px"
+      },
+      {
+        "count": 5,
+        "value": "12px"
+      },
+      {
+        "count": 2,
+        "value": "24px"
+      },
+      {
+        "count": 1,
+        "value": "40px"
+      }
+    ],
+    "font_weights": [
+      {
+        "count": 9,
+        "value": "300"
+      },
+      {
+        "count": 8,
+        "value": "400"
+      },
+      {
+        "count": 3,
+        "value": "600"
+      }
+    ],
+    "fonts": [
+      {
+        "count": 19,
+        "value": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\""
+      },
+      {
+        "count": 1,
+        "value": "monospace"
+      }
+    ],
+    "max_widths": [
+      {
+        "count": 2,
+        "value": "960px"
+      }
+    ],
+    "radii": [
+      {
+        "count": 1,
+        "value": "50%"
+      }
+    ],
+    "shadows": [
+      {
+        "count": 1,
+        "value": "rgb(178, 15, 3) 0px 0px 0px 0px inset"
+      }
+    ],
+    "spacing": [
+      {
+        "count": 14,
+        "value": "8px"
+      },
+      {
+        "count": 6,
+        "value": "32px"
+      },
+      {
+        "count": 6,
+        "value": "16px"
+      },
+      {
+        "count": 2,
+        "value": "128px"
+      },
+      {
+        "count": 2,
+        "value": "24px"
+      }
+    ],
+    "text_colors": [
+      {
+        "count": 18,
+        "value": "#313131"
+      },
+      {
+        "count": 2,
+        "value": "#0000ee"
+      }
+    ]
+  },
+  "forms": [],
+  "headings": [
+    {
+      "level": 1,
+      "text": "www.crunchyroll.com"
+    },
+    {
+      "level": 2,
+      "text": "Performing security verification"
+    },
+    {
+      "level": 2,
+      "text": "Incompatible browser extension or network configuration"
+    },
+    {
+      "level": 2,
+      "text": "Verification successful. Waiting for www.crunchyroll.com to respond"
+    }
+  ],
+  "lang": "en-us",
+  "layouts": [
+    {
+      "blocks": [],
+      "page_h": 947,
+      "page_w": 1425,
+      "type": {
+        "body": 16,
+        "h1": 40,
+        "h2": 24,
+        "h3": 0
+      },
+      "width": 1440
+    },
+    {
+      "blocks": [],
+      "page_h": 1049,
+      "page_w": 753,
+      "type": {
+        "body": 16,
+        "h1": 40,
+        "h2": 24,
+        "h3": 0
+      },
+      "width": 768
+    },
+    {
+      "blocks": [],
+      "page_h": 1495,
+      "page_w": 390,
+      "type": {
+        "body": 16,
+        "h1": 40,
+        "h2": 24,
+        "h3": 0
+      },
+      "width": 390
+    }
+  ],
+  "links": [
+    {
+      "href": "https://www.cloudflare.com/",
+      "text": "Cloudflare"
+    },
+    {
+      "href": "https://www.cloudflare.com/privacypolicy/",
+      "text": "Privacy"
+    }
+  ],
+  "outline": [
+    {
+      "box": {
+        "h": 878,
+        "w": 1425,
+        "x": 0,
+        "y": 0
+      },
+      "color": "#313131",
+      "depth": 2,
+      "font": "16px 400",
+      "role": "main",
+      "tag": "div",
+      "text": "www.crunchyroll.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Incomp"
+    },
+    {
+      "box": {
+        "h": 50,
+        "w": 426,
+        "x": 265,
+        "y": 128
+      },
+      "color": "#313131",
+      "depth": 5,
+      "font": "40px 600",
+      "tag": "h1",
+      "text": "www.crunchyroll.com"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 896,
+        "x": 265,
+        "y": 186
+      },
+      "color": "#313131",
+      "depth": 4,
+      "font": "24px 600",
+      "id": "_940f9b710a5c8c75df67d958",
+      "tag": "h2",
+      "text": "Performing security verification"
+    },
+    {
+      "box": {
+        "h": 48,
+        "w": 896,
+        "x": 265,
+        "y": 224
+      },
+      "color": "#313131",
+      "depth": 4,
+      "font": "16px 400",
+      "id": "_0f9a49a2d98d118686971bc4",
+      "tag": "p",
+      "text": "This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot."
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 30,
+        "x": 265,
+        "y": 304
+      },
+      "color": "#313131",
+      "depth": 6,
+      "font": "16px 400",
+      "id": "_2d7a8511a00a01236e87e11b",
+      "tag": "svg"
+    },
+    {
+      "box": {
+        "h": 30,
+        "w": 850,
+        "x": 311,
+        "y": 304
+      },
+      "color": "#313131",
+      "depth": 6,
+      "font": "24px 600",
+      "id": "_9d7c4e1de7d24734ab940425",
+      "tag": "h2",
+      "text": "Incompatible browser extension or network configuration"
+    },
+    {
+      "box": {
+        "h": 48,
+        "w": 850,
+        "x": 311,
+        "y": 342
+      },
+      "color": "#313131",
+      "depth": 6,
+      "font": "16px 300",
+      "tag": "p",
+      "text": "Your browser extensions or network settings have blocked the security verification process required by www.crunchyroll.com. To resolve this, try the following steps:"
+    },
+    {
+      "box": {
+        "h": 24,
+        "w": 850,
+        "x": 311,
+        "y": 398
+      },
+      "color": "#313131",
+      "depth": 6,
+      "font": "16px 300",
+      "tag": "p",
+      "text": "Temporarily disable browser extensions:"
+    },
+    {
+      "box": {
+        "h": 88,
+        "w": 850,
+        "x": 311,
+        "y": 430
+      },
+      "color": "#313131",
+      "depth": 6,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "ol"
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 128,
+        "x": 628,
+        "y": 496
+      },
+      "color": "#313131",
+      "depth": 8,
+      "font": "16px 400",
+      "href": "",
+      "tag": "a",
+      "text": "refresh this page"
+    },
+    {
+      "box": {
+        "h": 24,
+        "w": 850,
+        "x": 311,
+        "y": 526
+      },
+      "color": "#313131",
+      "depth": 6,
+      "font": "16px 300",
+      "tag": "p",
+      "text": "Check your network settings:"
+    },
+    {
+      "box": {
+        "h": 104,
+        "w": 850,
+        "x": 311,
+        "y": 558
+      },
+      "color": "#313131",
+      "depth": 6,
+      "display": "block",
+      "font": "16px 400",
+      "tag": "ol"
+    },
+    {
+      "box": {
+        "h": 72,
+        "w": 850,
+        "x": 311,
+        "y": 670
+      },
+      "color": "#313131",
+      "depth": 6,
+      "font": "16px 300",
+      "tag": "p",
+      "text": "If these steps do not resolve the issue, refer to Cloudflare's troubleshooting documentation for more help. For detailed guidance on how to disable your browser extensions or check your network settin"
+    },
+    {
+      "box": {
+        "h": 20,
+        "w": 236,
+        "x": 753,
+        "y": 672
+      },
+      "color": "#313131",
+      "depth": 7,
+      "font": "16px 400",
+      "href": "",
+      "tag": "a",
+      "text": "troubleshooting documentation"
+    },
+    {
+      "box": {
+        "h": 69,
+        "w": 960,
+        "x": 233,
+        "y": 878
+      },
+      "color": "#313131",
+      "depth": 2,
+      "font": "12px 400",
+      "role": "contentinfo",
+      "tag": "div",
+      "text": "Ray ID: a5d3525fee99d6f7 Performance and Security by Cloudflare Privacy"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 59,
+        "x": 738,
+        "y": 913
+      },
+      "color": "#0000ee",
+      "depth": 7,
+      "font": "12px 400",
+      "href": "https://www.cloudflare.com/",
+      "tag": "a",
+      "text": "Cloudflare"
+    },
+    {
+      "box": {
+        "h": 18,
+        "w": 42,
+        "x": 814,
+        "y": 913
+      },
+      "color": "#0000ee",
+      "depth": 6,
+      "font": "12px 400",
+      "href": "https://www.cloudflare.com/privacypolicy/",
+      "tag": "a",
+      "text": "Privacy"
+    }
+  ],
+  "page": {
+    "h": 947,
+    "w": 1425
+  },
+  "sign_in_page": false,
+  "signed_in": false,
+  "signed_in_site": null,
+  "text": "www.crunchyroll.com Performing security verification This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot. Incompatible browser extension or network configuration Your browser extensions or network settings have blocked the security verification process required by www.crunchyroll.com. To resolve this, try the following steps: Temporarily disable browser extensions: Go to your browser settings. Locate your browser extensions and temporarily disable them. Once browser extensions are disabled, refresh this page. Check your network settings: Verify if your internet or firewall settings have blocked your device from reaching “challenges.cloudflare.com”. You may need to consult your operating system's help documentation or your network administrator for guidance on adjusting firewall settings. If you do not have permission to adjust network settings, try connecting to a different network. If these steps do not resolve the issue, refer to Cloudflare's troubleshooting documentation for more help. For detailed guidance on how to disable your browser extensions or check your network settings, refer to your browser or device’s documentation. Ray ID: a5d3525fee99d6f7 Performance and Security by Cloudflare Privacy",
+  "title": "Just a moment...",
+  "url": "https://www.crunchyroll.com/",
+  "viewport": {
+    "h": 900,
+    "w": 1440
+  }
+}
