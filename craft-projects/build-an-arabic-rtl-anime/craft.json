@@ -1,0 +1,22 @@
+{
+  "version": 5,
+  "name": "Build an Arabic (RTL) anime",
+  "request": "Build an Arabic (RTL) anime website called 'نسيم انمي' (Nasim Anime) with its own original logo, a dark theme and NO ads or pop-ups. Pages: home (latest episodes, featured), series list with genre/year/status filters and search, an anime page (poster, Arabic synopsis, genres, episode list), and a watch page with a server switcher: each episode has a list of servers {name, type: 'iframe' | 'mp4' | 'youtube', url}; clicking a server swaps the player (iframe embed, HTML5 video, or YouTube embed), plus next/previous episode buttons. ALL content comes from one easy-to-edit data file (public/data/anime.json) so the owner can add anime, episodes and servers later without touching code; document its format with examples in README.md (in Arabic and English). Fill it with TEST data only: 3 sample entries using legally free videos - Blender Foundation open movies (Big Buck Bunny, Sintel, Tears of Steel) as mp4 from download.blender.org and their official YouTube uploads as a second server - with placeholder poster art you draw yourself. Do not include any pirated or unlicensed sources.",
+  "target": {
+    "kind": "none"
+  },
+  "stack": "Plain HTML and CSS",
+  "status": "building",
+  "note": "Building the first version…",
+  "created_ms": 1795134895962,
+  "updated_ms": 1795134896209,
+  "checks": [],
+  "agent_session": null,
+  "agent_session_by": "claude-code",
+  "capture_deep": false,
+  "allowed_actions": [],
+  "last_reply": "",
+  "asset_budget_usd": 5.0,
+  "generate_assets": false,
+  "builder": "Claude Code"
+}

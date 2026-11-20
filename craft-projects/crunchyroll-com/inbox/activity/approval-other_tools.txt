@@ -1,0 +1,1 @@
+The builder was refused permission for tools with no approval rule of their own. To ask before trying again, use Approvals or type /approvals other_tools ask.
